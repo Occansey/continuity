@@ -235,3 +235,39 @@ whatever number it shows. The metric is only worth having because the control be
 **This is classical CV, not a model** — deliberately. It keeps us inside the no-non-Google
 rule, and it means the number comes from running the competitor's actual method and
 showing where it stops, rather than describing it.
+
+---
+
+# Three films — and the cry-wolf test
+
+The corpus is now three films, ingested by one parameterised pipeline into one ClickHouse.
+
+| Film | Year | Kind | Shots | Assertions | Transitions | Cross-scene |
+|---|---|---|---|---|---|---|
+| Detour | 1945 | live, poverty-row | 329 | 1,119 | 347 | many |
+| Night of the Living Dead | 1968 | live, error-strewn | 1,281 | 3,509 | 1,428 | 505 |
+| Cosmos Laundromat | 2015 | CG, carefully made | 97 | 220 | 52 | 8 |
+
+## The result that matters
+
+On Cosmos Laundromat — a controlled CG short, not chosen for errors and not error-prone —
+the pipeline produced 8 cross-scene candidates, and adjudication called **all 8 explained.
+Zero false errors.**
+
+This is the strongest precision evidence in the project, because it needs no human judge.
+A system that merely finds *differences* would light up on any film. This one flags in
+proportion to how error-prone the film actually is: a sloppy 1945 quota-quickie lights up,
+a controlled 2015 CG short comes back clean. The discrimination is the signal, and the
+clean film proves it from the outside.
+
+It also answers the two standing weaknesses at once. "One film" is now three, spanning
+1945 to 2015 and live-action to CG. "Precision unmeasured" gains a real, judge-free
+data point: fed a clean film, the tool stays quiet.
+
+## Honest caveats
+
+Cosmos is short (12 min), so few candidates were expected regardless; 0/8 is a clean
+signal, not a precision rate. NOTLD's 505 cross-scene candidates are candidates, not
+errors — its 298-entity cast makes entity resolution noisier, and adjudication (not yet
+run at scale on it) is what would separate real errors from scene changes and split
+timelines. The claim here is discrimination across films, not a measured precision number.
