@@ -1,0 +1,12 @@
+corpus/*.mp4
+work/
+.venv/
+__pycache__/
+work/*.jsonl
+*credentials*
+film/node_modules
+film/out/
+film/public/take/
+corpus/
+work/
+.venv/

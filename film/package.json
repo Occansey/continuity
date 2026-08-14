@@ -1,0 +1,21 @@
+{
+  "name": "geminga-film",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "remotion studio src/index.ts",
+    "render": "remotion render src/index.ts Film out/geminga.mp4 --codec=h264",
+    "still": "remotion still src/index.ts Film"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.400",
+    "react": "19.2.0",
+    "react-dom": "19.2.0",
+    "remotion": "4.0.400"
+  },
+  "devDependencies": {
+    "@types/react": "19.2.0",
+    "puppeteer-core": "^23.11.1",
+    "typescript": "5.9.3"
+  }
+}

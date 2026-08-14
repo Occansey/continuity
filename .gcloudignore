@@ -1,0 +1,7 @@
+corpus/
+work/
+.venv/
+__pycache__/
+*.pyc
+tests/
+film/

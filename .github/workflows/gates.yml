@@ -1,0 +1,28 @@
+name: gates
+
+on: [push, pull_request]
+
+# Every step here is a command a human can run locally. CI does not get its own definition of
+# done, and it does not reference modules that are not in the tree yet: a gate that cannot run
+# is indistinguishable from a gate that passes, which is the failure mode this project keeps
+# meeting. When the eval modules land (evals.spec_lint, evals.determinism, evals.calibration),
+# add them back as their own steps.
+jobs:
+  gates:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: install
+        run: |
+          python -m pip install --upgrade pip
+          pip install -e ".[dev]"
+
+      - name: lint
+        run: ruff check src tests
+
+      - name: unit tests
+        run: pytest -q

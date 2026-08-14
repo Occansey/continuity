@@ -1,0 +1,36 @@
+[project]
+name = "continuity"
+version = "0.1.0"
+description = "A live-streaming incident agent that localises quality faults and mitigates only what it has earned the right to."
+requires-python = ">=3.11"
+dependencies = [
+  "clickhouse-connect>=0.8",
+  "google-genai>=1.0",
+  "fastapi>=0.115",
+  "uvicorn>=0.32",
+  # The reachability measurement is classical CV, and the ClickHouse MCP agent is ADK over
+  # the mcp stdio server; both are import-time requirements of the shipped modules.
+  "opencv-python-headless>=4.9",
+  "numpy>=1.26",
+  "google-adk>=1.0",
+  "mcp>=1.0",
+]
+
+[project.optional-dependencies]
+# chdb is the in-process engine the store tests run the real SQL against; the rest are the
+# test toolchain. Listed here so `pip install -e ".[dev]"` gives CI everything the suite
+# imports — a gate that cannot install its deps is a gate that cannot run.
+dev = ["pytest>=8", "ruff>=0.7", "chdb>=4"]
+
+[tool.ruff]
+line-length = 96
+
+[tool.ruff.lint]
+# Ruff's historical default rule set (pyflakes + the pycodestyle error groups). Pinned so the
+# lint gate is deterministic across ruff releases: newer ruff turned on isort and other rule
+# families by default, which this codebase never opted into, and a gate that changes its mind
+# with the tool version is not a gate.
+select = ["E4", "E7", "E9", "F"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

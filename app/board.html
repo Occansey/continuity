@@ -1,0 +1,135 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Continuity — the department that watches the world of the story</title>
+<style>
+  :root {
+    --ground:#0C0E12; --panel:#14171D; --panel2:#1B1F27; --line:#262B34;
+    --ink:#ECEFF3; --mid:#A2ABB8; --dim:#69727F;
+    --amber:#E0A340; --green:#57B98A; --red:#D66A54; --slate:#7C8794;
+    --mono:"SF Mono",ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
+    --sans:ui-sans-serif,-apple-system,"Segoe UI",Roboto,sans-serif;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--ground);color:var(--ink);font-family:var(--sans);font-size:14px;line-height:1.5}
+  .wrap{max-width:1180px;margin:0 auto;padding:30px 22px 90px}
+  .eyebrow{font-family:var(--mono);font-size:11px;letter-spacing:.24em;text-transform:uppercase;color:var(--dim)}
+  h1{margin:6px 0 4px;font-size:27px;letter-spacing:-.01em}
+  h1 small{display:block;font-size:14px;font-weight:400;color:var(--mid);margin-top:5px;letter-spacing:0}
+  .stats{display:flex;gap:26px;flex-wrap:wrap;margin:22px 0 8px;padding:16px 0;border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+  .stat .v{font-family:var(--mono);font-size:23px;font-variant-numeric:tabular-nums}
+  .stat .k{font-family:var(--mono);font-size:10.5px;letter-spacing:.11em;text-transform:uppercase;color:var(--dim);margin-top:3px}
+  .stat .v.amber{color:var(--amber)}
+  .headline{margin:20px 0 6px;font-size:17px;color:var(--mid);max-width:80ch;line-height:1.55}
+  .headline b{color:var(--ink)}
+  .filters{display:flex;gap:8px;margin:22px 0 14px;flex-wrap:wrap}
+  .filters button{font:inherit;font-size:12.5px;cursor:pointer;color:var(--mid);background:var(--panel2);
+    border:1px solid var(--line);border-radius:3px;padding:6px 13px}
+  .filters button.on{color:var(--ink);border-color:var(--amber)}
+  .card{background:var(--panel);border:1px solid var(--line);border-radius:5px;margin-bottom:16px;overflow:hidden}
+  .card .pair{display:grid;grid-template-columns:1fr 1fr;gap:1px;background:var(--line)}
+  .card .pair figure{margin:0;background:var(--panel)}
+  .card .pair img{display:block;width:100%;aspect-ratio:494/360;object-fit:cover}
+  .card .pair figcaption{font-family:var(--mono);font-size:11px;color:var(--dim);padding:6px 10px;display:flex;justify-content:space-between}
+  .card .body{padding:14px 16px 16px}
+  .verdict{display:inline-block;font-family:var(--mono);font-size:11px;letter-spacing:.08em;text-transform:uppercase;
+    padding:3px 9px;border-radius:3px;border:1px solid}
+  .v-error{color:var(--red);border-color:var(--red)}
+  .v-unresolvable{color:var(--amber);border-color:var(--amber)}
+  .v-explained{color:var(--green);border-color:var(--green)}
+  .v-not_comparable{color:var(--slate);border-color:var(--slate)}
+  .tags{display:inline-flex;gap:7px;margin-left:8px}
+  .tag{font-family:var(--mono);font-size:10.5px;padding:3px 8px;border-radius:3px;background:var(--panel2);color:var(--mid)}
+  .tag.reach{color:var(--amber)}
+  .claim{font-family:var(--mono);font-size:13.5px;margin:12px 0 4px;color:var(--ink)}
+  .claim .who{color:var(--mid)}
+  .from-to{display:flex;gap:12px;align-items:baseline;font-family:var(--mono);font-size:13px;margin:3px 0}
+  .from-to .t{color:var(--dim);width:52px;flex:none}
+  .reason{color:var(--mid);margin-top:11px;max-width:82ch}
+  .quote{font-family:var(--mono);font-size:12.5px;color:var(--amber);border-left:2px solid var(--amber);padding-left:12px;margin:8px 0}
+  footer{color:var(--dim);font-family:var(--mono);font-size:11.5px;margin-top:30px;line-height:1.9;border-top:1px solid var(--line);padding-top:16px}
+  a{color:var(--mid)}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="eyebrow">Continuity · Agentic Cinema · Gemini + ClickHouse</div>
+  <h1>The department that watches the world of the story
+    <small>Not whether the shots match — whether the <em>facts</em> match, across scenes filmed weeks apart.</small></h1>
+
+  <div class="stats" id="stats"></div>
+
+  <p class="headline">
+    Everyone else compares <b>images</b>, so they only catch mistakes between shots that look alike.
+    This compares <b>claims about the world</b> — extracted from every shot and every line of dialogue —
+    and finds the ones that cannot both be true. <span id="reachline"></span>
+  </p>
+
+  <div class="filters" id="filters"></div>
+  <div id="list"></div>
+
+  <footer>
+    Detour (1945) is public domain. Findings are the system's own output, adjudicated by Gemini and
+    ranked by ClickHouse; the reachability figure runs the prior art's own registration method (ORB + RANSAC)
+    and counts where it cannot follow. A synthetic or hand-picked result would be declared here — this is not one.<br>
+    github.com/Occansey/continuity · Apache 2.0
+  </footer>
+</div>
+<script>
+let DATA=null, FILTER="all";
+const vc=v=>({error:"v-error",unresolvable:"v-unresolvable",explained:"v-explained",not_comparable:"v-not_comparable"}[v]||"");
+async function load(){
+  DATA=await (await fetch("static/findings.json")).json();
+  const s=DATA.stats;
+  document.getElementById("stats").innerHTML=[
+    ["shots",s.shots],["scenes",s.scenes],["assertions",s.assertions],
+    ["transitions",s.transitions],
+    [`unreachable by prior art`,`${Math.round(100*s.findings_unreachable/s.findings_total)}%`,"amber"],
+  ].map(([k,v,c])=>`<div class="stat"><div class="v ${c||''}">${v}</div><div class="k">${k}</div></div>`).join("");
+  document.getElementById("reachline").innerHTML=
+    `On this film, <b>${s.findings_unreachable} of ${s.findings_total}</b> findings connect frames that a
+     registration-based tool cannot line up at all — versus <b>${s.control_unreachable} of ${s.control_total}</b>
+     for same-camera pairs, which register fine.`;
+  const kinds=[["all","everything"],["error","flagged errors"],["cross_modal","say vs show"],
+               ["cross_scene","across scenes"],["unresolvable","print too poor"]];
+  document.getElementById("filters").innerHTML=kinds.map(([k,l])=>
+    `<button data-k="${k}" class="${k==='all'?'on':''}">${l}</button>`).join("");
+  document.querySelectorAll(".filters button").forEach(b=>b.onclick=()=>{
+    FILTER=b.dataset.k;document.querySelectorAll(".filters button").forEach(x=>x.classList.toggle("on",x===b));render();});
+  render();
+}
+function keep(f){
+  if(FILTER==="all")return true;
+  if(FILTER==="cross_modal")return f.cross_modal;
+  if(FILTER==="cross_scene")return f.cross_scene;
+  return f.verdict===FILTER;
+}
+function render(){
+  document.getElementById("list").innerHTML=DATA.findings.filter(keep).map(f=>{
+    const tags=[];
+    if(f.cross_modal)tags.push(`<span class="tag">said vs shown</span>`);
+    if(f.cross_scene)tags.push(`<span class="tag">across scenes</span>`);
+    if(!f.reachable)tags.push(`<span class="tag reach">prior art blind · ${f.inliers} inliers</span>`);
+    const q=(f.quote_from||f.quote_to)?`<div class="quote">${(f.quote_from||f.quote_to)}</div>`:"";
+    return `<div class="card">
+      <div class="pair">
+        <figure><img src="static/frames/${f.frame_from}"><figcaption><span>${f.t_from}s</span><span>scene ${f.scene_from}</span></figcaption></figure>
+        <figure><img src="static/frames/${f.frame_to}"><figcaption><span>${f.t_to}s</span><span>scene ${f.scene_to}</span></figcaption></figure>
+      </div>
+      <div class="body">
+        <span class="verdict ${vc(f.verdict)}">${f.verdict.replace("_"," ")}</span>
+        <span class="tags">${tags.join("")}</span>
+        <div class="claim"><span class="who">${f.entity}</span> · ${f.attribute}${f.slot?" · "+f.slot:""}</div>
+        <div class="from-to"><span class="t">${f.t_from}s</span><span>${f.value_from}</span></div>
+        <div class="from-to"><span class="t">${f.t_to}s</span><span>${f.value_to}</span></div>
+        ${q}
+        <div class="reason">${f.reason}</div>
+      </div></div>`;
+  }).join("")||`<p style="color:var(--dim)">Nothing in this category.</p>`;
+}
+load();
+</script>
+</body>
+</html>

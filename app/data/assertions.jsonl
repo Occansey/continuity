@@ -1,0 +1,1075 @@
+{"shot": 0, "t": 72.8132, "entity": "desert highway", "entity_kind": "location", "attribute": "location", "value": "paved two-lane highway", "confidence": 0.95, "source": "image"}
+{"shot": 0, "t": 72.8132, "entity": "desert highway", "entity_kind": "location", "attribute": "prop_state", "value": "white center dash markings on road", "confidence": 0.9, "source": "image"}
+{"shot": 1, "t": 183.393, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "fedora", "confidence": 0.95, "source": "image"}
+{"shot": 1, "t": 183.393, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "suit jacket", "confidence": 0.95, "source": "image"}
+{"shot": 1, "t": 183.393, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "light collared shirt", "confidence": 0.95, "source": "image"}
+{"shot": 1, "t": 183.393, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "loosened necktie", "confidence": 0.9, "source": "image"}
+{"shot": 1, "t": 183.393, "entity": "Al Roberts", "entity_kind": "person", "attribute": "facial_hair", "value": "stubble", "confidence": 0.9, "source": "image"}
+{"shot": 1, "t": 183.393, "entity": "Al Roberts", "entity_kind": "person", "attribute": "holding", "value": "coffee mug", "confidence": 0.95, "source": "image"}
+{"shot": 1, "t": 183.393, "entity": "Al Roberts", "entity_kind": "person", "attribute": "position", "value": "seated at diner counter", "confidence": 0.95, "source": "image"}
+{"shot": 1, "t": 183.393, "entity": "diner patron", "entity_kind": "person", "attribute": "position", "value": "leaning against jukebox", "confidence": 0.85, "source": "image"}
+{"shot": 2, "t": 186.76659999999998, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "fedora", "confidence": 0.98, "source": "image"}
+{"shot": 2, "t": 186.76659999999998, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "patterned suit jacket", "confidence": 0.95, "source": "image"}
+{"shot": 2, "t": 186.76659999999998, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "open-collar light shirt", "confidence": 0.95, "source": "image"}
+{"shot": 2, "t": 186.76659999999998, "entity": "Al Roberts", "entity_kind": "person", "attribute": "facial_hair", "value": "stubble", "confidence": 0.95, "source": "image"}
+{"shot": 3, "t": 234.0202, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "fedora", "confidence": 0.98, "source": "image"}
+{"shot": 3, "t": 234.0202, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "suit jacket", "confidence": 0.95, "source": "image"}
+{"shot": 3, "t": 234.0202, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "light collared shirt", "confidence": 0.95, "source": "image"}
+{"shot": 3, "t": 234.0202, "entity": "Al Roberts", "entity_kind": "person", "attribute": "facial_hair", "value": "stubble", "confidence": 0.9, "source": "image"}
+{"shot": 4, "t": 311.3132, "entity": "Sue Harvey", "entity_kind": "person", "attribute": "wearing", "value": "dark dress with thin shoulder straps", "confidence": 0.95, "source": "image"}
+{"shot": 4, "t": 311.3132, "entity": "Sue Harvey", "entity_kind": "person", "attribute": "hair", "value": "blonde wavy hair", "confidence": 0.95, "source": "image"}
+{"shot": 4, "t": 311.3132, "entity": "Sue Harvey", "entity_kind": "person", "attribute": "accessory", "value": "flowers in hair", "confidence": 0.95, "source": "image"}
+{"shot": 4, "t": 311.3132, "entity": "Sue Harvey", "entity_kind": "person", "attribute": "accessory", "value": "brooch on dress bodice", "confidence": 0.9, "source": "image"}
+{"shot": 4, "t": 311.3132, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark suit jacket", "confidence": 0.95, "source": "image"}
+{"shot": 4, "t": 311.3132, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "white shirt", "confidence": 0.95, "source": "image"}
+{"shot": 4, "t": 311.3132, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark bow tie", "confidence": 0.95, "source": "image"}
+{"shot": 4, "t": 311.3132, "entity": "Al Roberts", "entity_kind": "person", "attribute": "hair", "value": "dark combed back hair", "confidence": 0.95, "source": "image"}
+{"shot": 4, "t": 311.3132, "entity": "the clarinetist", "entity_kind": "person", "attribute": "holding", "value": "clarinet", "confidence": 0.95, "source": "image"}
+{"shot": 5, "t": 349.6466, "entity": "the dining tables", "entity_kind": "prop", "attribute": "prop_state", "value": "covered with checkered tablecloths", "confidence": 0.95, "source": "image"}
+{"shot": 5, "t": 349.6466, "entity": "the nightclub waiter", "entity_kind": "person", "attribute": "wearing", "value": "light jacket", "confidence": 0.9, "source": "image"}
+{"shot": 5, "t": 349.6466, "entity": "the nightclub", "entity_kind": "location", "attribute": "location", "value": "crowded dining room with dance floor", "confidence": 0.85, "source": "image"}
+{"shot": 6, "t": 387.807, "entity": "Sue Harvey", "entity_kind": "person", "attribute": "wearing", "value": "light-colored coat with large lapels", "confidence": 0.95, "source": "image"}
+{"shot": 6, "t": 387.807, "entity": "Sue Harvey", "entity_kind": "person", "attribute": "accessory", "value": "dark beret", "confidence": 0.95, "source": "image"}
+{"shot": 6, "t": 387.807, "entity": "Sue Harvey", "entity_kind": "person", "attribute": "accessory", "value": "brooch near collar", "confidence": 0.9, "source": "image"}
+{"shot": 6, "t": 387.807, "entity": "Sue Harvey", "entity_kind": "person", "attribute": "holding", "value": "dark handbag", "confidence": 0.9, "source": "image"}
+{"shot": 6, "t": 387.807, "entity": "Sue Harvey", "entity_kind": "person", "attribute": "hair", "value": "blonde wavy hair", "confidence": 0.95, "source": "image"}
+{"shot": 7, "t": 391.9802, "entity": "Al Roberts", "entity_kind": "person", "attribute": "accessory", "value": "dark fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 7, "t": 391.9802, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark suit jacket", "confidence": 0.95, "source": "image"}
+{"shot": 7, "t": 391.9802, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "white shirt", "confidence": 0.95, "source": "image"}
+{"shot": 7, "t": 391.9802, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark bow tie", "confidence": 0.95, "source": "image"}
+{"shot": 7, "t": 391.9802, "entity": "Al Roberts", "entity_kind": "person", "attribute": "holding", "value": "lit cigarette in mouth", "confidence": 0.95, "source": "image"}
+{"shot": 8, "t": 403.5932, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 8, "t": 403.5932, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "coat", "confidence": 0.9, "source": "image"}
+{"shot": 8, "t": 403.5932, "entity": "Al Roberts", "entity_kind": "person", "attribute": "position", "value": "seated at upright piano", "confidence": 0.95, "source": "image"}
+{"shot": 8, "t": 403.5932, "entity": "Sue Harvey", "entity_kind": "person", "attribute": "wearing", "value": "light coat", "confidence": 0.95, "source": "image"}
+{"shot": 8, "t": 403.5932, "entity": "Sue Harvey", "entity_kind": "person", "attribute": "wearing", "value": "dark beret", "confidence": 0.95, "source": "image"}
+{"shot": 8, "t": 403.5932, "entity": "Sue Harvey", "entity_kind": "person", "attribute": "hair", "value": "blonde shoulder-length hair", "confidence": 0.9, "source": "image"}
+{"shot": 8, "t": 403.5932, "entity": "Sue Harvey", "entity_kind": "person", "attribute": "position", "value": "standing beside piano", "confidence": 0.95, "source": "image"}
+{"shot": 9, "t": 427.9666, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 9, "t": 427.9666, "entity": "Al Roberts", "entity_kind": "person", "attribute": "holding", "value": "cigarette in mouth", "confidence": 0.95, "source": "image"}
+{"shot": 9, "t": 427.9666, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "bowtie", "confidence": 0.9, "source": "image"}
+{"shot": 9, "t": 427.9666, "entity": "Sue Harvey", "entity_kind": "person", "attribute": "wearing", "value": "light coat", "confidence": 0.95, "source": "image"}
+{"shot": 9, "t": 427.9666, "entity": "Sue Harvey", "entity_kind": "person", "attribute": "wearing", "value": "dark beret", "confidence": 0.95, "source": "image"}
+{"shot": 9, "t": 427.9666, "entity": "Sue Harvey", "entity_kind": "person", "attribute": "accessory", "value": "ornate brooch on collar", "confidence": 0.95, "source": "image"}
+{"shot": 9, "t": 427.9666, "entity": "Sue Harvey", "entity_kind": "person", "attribute": "holding", "value": "dark handbag", "confidence": 0.9, "source": "image"}
+{"shot": 10, "t": 448.9002, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 10, "t": 448.9002, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "coat", "confidence": 0.95, "source": "image"}
+{"shot": 10, "t": 448.9002, "entity": "Al Roberts", "entity_kind": "person", "attribute": "position", "value": "seated at upright piano", "confidence": 0.95, "source": "image"}
+{"shot": 10, "t": 448.9002, "entity": "Sue Harvey", "entity_kind": "person", "attribute": "wearing", "value": "light coat", "confidence": 0.95, "source": "image"}
+{"shot": 10, "t": 448.9002, "entity": "Sue Harvey", "entity_kind": "person", "attribute": "wearing", "value": "dark beret", "confidence": 0.95, "source": "image"}
+{"shot": 10, "t": 448.9002, "entity": "Sue Harvey", "entity_kind": "person", "attribute": "accessory", "value": "ornate brooch on collar", "confidence": 0.9, "source": "image"}
+{"shot": 10, "t": 448.9002, "entity": "Sue Harvey", "entity_kind": "person", "attribute": "position", "value": "standing behind Al Roberts", "confidence": 0.95, "source": "image"}
+{"shot": 11, "t": 476.3268, "entity": "Sue Harvey", "entity_kind": "person", "attribute": "wearing", "value": "light coat", "confidence": 0.95, "source": "image"}
+{"shot": 11, "t": 476.3268, "entity": "Sue Harvey", "entity_kind": "person", "attribute": "wearing", "value": "dark beret", "confidence": 0.95, "source": "image"}
+{"shot": 11, "t": 476.3268, "entity": "Sue Harvey", "entity_kind": "person", "attribute": "holding", "value": "dark handbag", "confidence": 0.9, "source": "image"}
+{"shot": 11, "t": 476.3268, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 11, "t": 476.3268, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "coat", "confidence": 0.95, "source": "image"}
+{"shot": 11, "t": 476.3268, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "bowtie", "confidence": 0.9, "source": "image"}
+{"shot": 11, "t": 476.3268, "entity": "fog", "entity_kind": "environment", "attribute": "weather", "value": "foggy", "confidence": 0.95, "source": "image"}
+{"shot": 12, "t": 544.607, "entity": "the woman in coat", "entity_kind": "person", "attribute": "wearing", "value": "dark beret", "confidence": 0.95, "source": "image"}
+{"shot": 12, "t": 544.607, "entity": "the woman in coat", "entity_kind": "person", "attribute": "wearing", "value": "light coat", "confidence": 0.95, "source": "image"}
+{"shot": 12, "t": 544.607, "entity": "the woman in coat", "entity_kind": "person", "attribute": "holding", "value": "dark clutch purse", "confidence": 0.9, "source": "image"}
+{"shot": 12, "t": 544.607, "entity": "the man in fedora", "entity_kind": "person", "attribute": "wearing", "value": "dark fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 12, "t": 544.607, "entity": "the man in fedora", "entity_kind": "person", "attribute": "wearing", "value": "dark coat", "confidence": 0.95, "source": "image"}
+{"shot": 12, "t": 544.607, "entity": "the man in fedora", "entity_kind": "person", "attribute": "wearing", "value": "dark bowtie", "confidence": 0.9, "source": "image"}
+{"shot": 12, "t": 544.607, "entity": "the outdoor environment", "entity_kind": "environment", "attribute": "weather", "value": "foggy", "confidence": 0.95, "source": "image"}
+{"shot": 13, "t": 606.8134, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark suit jacket", "confidence": 0.95, "source": "image"}
+{"shot": 13, "t": 606.8134, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "white collared shirt", "confidence": 0.95, "source": "image"}
+{"shot": 13, "t": 606.8134, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark bowtie", "confidence": 0.95, "source": "image"}
+{"shot": 13, "t": 606.8134, "entity": "Al Roberts", "entity_kind": "person", "attribute": "hair", "value": "short styled hair parted on left", "confidence": 0.9, "source": "image"}
+{"shot": 14, "t": 619.4466, "entity": "the piano", "entity_kind": "prop", "attribute": "prop_state", "value": "upright piano with exposed keys", "confidence": 0.95, "source": "image"}
+{"shot": 15, "t": 636.3402, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark suit jacket", "confidence": 0.95, "source": "image"}
+{"shot": 15, "t": 636.3402, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "white collared shirt", "confidence": 0.95, "source": "image"}
+{"shot": 15, "t": 636.3402, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark bowtie", "confidence": 0.95, "source": "image"}
+{"shot": 15, "t": 636.3402, "entity": "Al Roberts", "entity_kind": "person", "attribute": "hair", "value": "short styled hair parted on left", "confidence": 0.9, "source": "image"}
+{"shot": 16, "t": 642.06, "entity": "Al Roberts", "entity_kind": "person", "attribute": "position", "value": "seated at the piano", "confidence": 0.95, "source": "image"}
+{"shot": 16, "t": 642.06, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark suit jacket", "confidence": 0.95, "source": "image"}
+{"shot": 16, "t": 642.06, "entity": "the restaurant", "entity_kind": "location", "attribute": "location", "value": "restaurant interior with tables and stage curtains", "confidence": 0.95, "source": "image"}
+{"shot": 17, "t": 647.68, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark jacket", "confidence": 0.95, "source": "image"}
+{"shot": 17, "t": 647.68, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "white shirt", "confidence": 0.95, "source": "image"}
+{"shot": 17, "t": 647.68, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark bow tie", "confidence": 0.95, "source": "image"}
+{"shot": 17, "t": 647.68, "entity": "Al Roberts", "entity_kind": "person", "attribute": "hair", "value": "short hair combed back", "confidence": 0.9, "source": "image"}
+{"shot": 18, "t": 658.5332, "entity": "the piano", "entity_kind": "prop", "attribute": "prop_state", "value": "upright piano open at the keyboard", "confidence": 0.95, "source": "image"}
+{"shot": 18, "t": 658.5332, "entity": "Al Roberts", "entity_kind": "person", "attribute": "position", "value": "hands resting on piano keys", "confidence": 0.95, "source": "image"}
+{"shot": 19, "t": 671.9929999999999, "entity": "Al Roberts", "entity_kind": "person", "attribute": "position", "value": "seated at the piano", "confidence": 0.95, "source": "image"}
+{"shot": 19, "t": 671.9929999999999, "entity": "the waiter", "entity_kind": "person", "attribute": "wearing", "value": "light jacket", "confidence": 0.95, "source": "image"}
+{"shot": 19, "t": 671.9929999999999, "entity": "the waiter", "entity_kind": "person", "attribute": "wearing", "value": "dark trousers", "confidence": 0.95, "source": "image"}
+{"shot": 20, "t": 685.2998, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark suit jacket", "confidence": 0.95, "source": "image"}
+{"shot": 20, "t": 685.2998, "entity": "Al Roberts", "entity_kind": "person", "attribute": "position", "value": "seated at the upright piano", "confidence": 0.95, "source": "image"}
+{"shot": 20, "t": 685.2998, "entity": "the nightclub waiter", "entity_kind": "person", "attribute": "wearing", "value": "light dinner jacket", "confidence": 0.9, "source": "image"}
+{"shot": 20, "t": 685.2998, "entity": "the nightclub waiter", "entity_kind": "person", "attribute": "wearing", "value": "dark trousers", "confidence": 0.9, "source": "image"}
+{"shot": 20, "t": 685.2998, "entity": "the nightclub waiter", "entity_kind": "person", "attribute": "position", "value": "standing beside the upright piano", "confidence": 0.95, "source": "image"}
+{"shot": 21, "t": 698.56, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark suit jacket", "confidence": 0.95, "source": "image"}
+{"shot": 21, "t": 698.56, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "white collared shirt", "confidence": 0.95, "source": "image"}
+{"shot": 21, "t": 698.56, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark bow tie", "confidence": 0.95, "source": "image"}
+{"shot": 21, "t": 698.56, "entity": "Al Roberts", "entity_kind": "person", "attribute": "hair", "value": "styled with a side part", "confidence": 0.95, "source": "image"}
+{"shot": 21, "t": 698.56, "entity": "the nightclub waiter", "entity_kind": "person", "attribute": "wearing", "value": "light dinner jacket", "confidence": 0.95, "source": "image"}
+{"shot": 22, "t": 704.58, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark suit jacket", "confidence": 0.95, "source": "image"}
+{"shot": 22, "t": 704.58, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "white collared shirt", "confidence": 0.95, "source": "image"}
+{"shot": 22, "t": 704.58, "entity": "Al Roberts", "entity_kind": "person", "attribute": "hair", "value": "styled with a side part", "confidence": 0.95, "source": "image"}
+{"shot": 22, "t": 704.58, "entity": "Al Roberts", "entity_kind": "person", "attribute": "position", "value": "seated at the upright piano", "confidence": 0.95, "source": "image"}
+{"shot": 23, "t": 711.96, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark suit jacket", "confidence": 0.95, "source": "image"}
+{"shot": 23, "t": 711.96, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "white collared shirt", "confidence": 0.95, "source": "image"}
+{"shot": 23, "t": 711.96, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark bow tie", "confidence": 0.95, "source": "image"}
+{"shot": 23, "t": 711.96, "entity": "Al Roberts", "entity_kind": "person", "attribute": "hair", "value": "styled with a side part", "confidence": 0.95, "source": "image"}
+{"shot": 24, "t": 723.6332, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark tuxedo jacket", "confidence": 0.95, "source": "image"}
+{"shot": 24, "t": 723.6332, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "white dress shirt", "confidence": 0.95, "source": "image"}
+{"shot": 24, "t": 723.6332, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark bow tie", "confidence": 0.95, "source": "image"}
+{"shot": 24, "t": 723.6332, "entity": "Al Roberts", "entity_kind": "person", "attribute": "accessory", "value": "cigarette in mouth", "confidence": 0.9, "source": "image"}
+{"shot": 24, "t": 723.6332, "entity": "Al Roberts", "entity_kind": "person", "attribute": "position", "value": "seated at upright piano", "confidence": 0.95, "source": "image"}
+{"shot": 29, "t": 731.393, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark tuxedo jacket", "confidence": 0.95, "source": "image"}
+{"shot": 29, "t": 731.393, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "white dress shirt", "confidence": 0.95, "source": "image"}
+{"shot": 29, "t": 731.393, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark bow tie", "confidence": 0.95, "source": "image"}
+{"shot": 29, "t": 731.393, "entity": "Al Roberts", "entity_kind": "person", "attribute": "accessory", "value": "white pocket square", "confidence": 0.9, "source": "image"}
+{"shot": 29, "t": 731.393, "entity": "Al Roberts", "entity_kind": "person", "attribute": "position", "value": "standing near doorway", "confidence": 0.9, "source": "image"}
+{"shot": 30, "t": 750.9398, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark tuxedo jacket", "confidence": 0.95, "source": "image"}
+{"shot": 30, "t": 750.9398, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "white dress shirt", "confidence": 0.95, "source": "image"}
+{"shot": 30, "t": 750.9398, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark bow tie", "confidence": 0.95, "source": "image"}
+{"shot": 30, "t": 750.9398, "entity": "Al Roberts", "entity_kind": "person", "attribute": "holding", "value": "telephone receiver", "confidence": 0.95, "source": "image"}
+{"shot": 38, "t": 788.4602, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark tuxedo jacket", "confidence": 0.95, "source": "image"}
+{"shot": 38, "t": 788.4602, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "white dress shirt", "confidence": 0.95, "source": "image"}
+{"shot": 38, "t": 788.4602, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark bow tie", "confidence": 0.95, "source": "image"}
+{"shot": 38, "t": 788.4602, "entity": "Al Roberts", "entity_kind": "person", "attribute": "holding", "value": "telephone receiver", "confidence": 0.95, "source": "image"}
+{"shot": 39, "t": 812.98, "entity": "Sue Harvey", "entity_kind": "person", "attribute": "hair", "value": "blonde wavy hair", "confidence": 0.95, "source": "image"}
+{"shot": 39, "t": 812.98, "entity": "Sue Harvey", "entity_kind": "person", "attribute": "wearing", "value": "light blouse with lace-trimmed V-neck line", "confidence": 0.95, "source": "image"}
+{"shot": 39, "t": 812.98, "entity": "Sue Harvey", "entity_kind": "person", "attribute": "accessory", "value": "charm bracelet on left wrist", "confidence": 0.9, "source": "image"}
+{"shot": 39, "t": 812.98, "entity": "Sue Harvey", "entity_kind": "person", "attribute": "holding", "value": "black telephone receiver", "confidence": 0.95, "source": "image"}
+{"shot": 39, "t": 812.98, "entity": "Sue Harvey", "entity_kind": "person", "attribute": "position", "value": "seated in patterned armchair", "confidence": 0.9, "source": "image"}
+{"shot": 40, "t": 827.2732, "entity": "Al Roberts", "entity_kind": "person", "attribute": "hair", "value": "dark combed hair", "confidence": 0.95, "source": "image"}
+{"shot": 40, "t": 827.2732, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark suit jacket", "confidence": 0.95, "source": "image"}
+{"shot": 40, "t": 827.2732, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "white collared shirt", "confidence": 0.95, "source": "image"}
+{"shot": 40, "t": 827.2732, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark bow tie", "confidence": 0.95, "source": "image"}
+{"shot": 40, "t": 827.2732, "entity": "Al Roberts", "entity_kind": "person", "attribute": "holding", "value": "black telephone receiver", "confidence": 0.95, "source": "image"}
+{"shot": 45, "t": 849.3532, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 45, "t": 849.3532, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark suit jacket", "confidence": 0.95, "source": "image"}
+{"shot": 45, "t": 849.3532, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark necktie", "confidence": 0.9, "source": "image"}
+{"shot": 45, "t": 849.3532, "entity": "Al Roberts", "entity_kind": "person", "attribute": "facial_hair", "value": "stubble", "confidence": 0.85, "source": "image"}
+{"shot": 45, "t": 849.3532, "entity": "Al Roberts", "entity_kind": "person", "attribute": "position", "value": "raising left fist", "confidence": 0.9, "source": "image"}
+{"shot": 47, "t": 856.087, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 47, "t": 856.087, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark suit", "confidence": 0.95, "source": "image"}
+{"shot": 47, "t": 856.087, "entity": "Al Roberts", "entity_kind": "person", "attribute": "holding", "value": "car tire in right hand", "confidence": 0.95, "source": "image"}
+{"shot": 47, "t": 856.087, "entity": "truck", "entity_kind": "vehicle", "attribute": "vehicle_state", "value": "parked beside road", "confidence": 0.9, "source": "image"}
+{"shot": 48, "t": 859.8670000000001, "entity": "map", "entity_kind": "prop", "attribute": "prop_state", "value": "showing map area containing Youngstown, Beaver Falls, and Pittsburgh", "confidence": 0.95, "source": "image"}
+{"shot": 54, "t": 862.5998, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 54, "t": 862.5998, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "suit jacket", "confidence": 0.95, "source": "image"}
+{"shot": 54, "t": 862.5998, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "loosened necktie", "confidence": 0.9, "source": "image"}
+{"shot": 54, "t": 862.5998, "entity": "the truck driver", "entity_kind": "person", "attribute": "wearing", "value": "fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 54, "t": 862.5998, "entity": "the truck driver", "entity_kind": "person", "attribute": "holding", "value": "steering wheel", "confidence": 0.95, "source": "image"}
+{"shot": 59, "t": 865.767, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 59, "t": 865.767, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "suit jacket", "confidence": 0.95, "source": "image"}
+{"shot": 59, "t": 865.767, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "loosened necktie", "confidence": 0.9, "source": "image"}
+{"shot": 59, "t": 865.767, "entity": "the truck driver", "entity_kind": "person", "attribute": "wearing", "value": "fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 59, "t": 865.767, "entity": "the truck driver", "entity_kind": "person", "attribute": "holding", "value": "steering wheel", "confidence": 0.95, "source": "image"}
+{"shot": 66, "t": 882.213, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 66, "t": 882.213, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "suit jacket", "confidence": 0.95, "source": "image"}
+{"shot": 66, "t": 882.213, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "loosened necktie", "confidence": 0.9, "source": "image"}
+{"shot": 66, "t": 882.213, "entity": "Al Roberts", "entity_kind": "person", "attribute": "holding", "value": "suitcase", "confidence": 0.95, "source": "image"}
+{"shot": 66, "t": 882.213, "entity": "desert", "entity_kind": "location", "attribute": "location", "value": "desert landscape with Joshua trees", "confidence": 0.95, "source": "image"}
+{"shot": 67, "t": 912.4266, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 67, "t": 912.4266, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "suit jacket", "confidence": 0.95, "source": "image"}
+{"shot": 67, "t": 912.4266, "entity": "Al Roberts", "entity_kind": "person", "attribute": "holding", "value": "suitcase in left hand", "confidence": 0.9, "source": "image"}
+{"shot": 67, "t": 912.4266, "entity": "roadside location", "entity_kind": "location", "attribute": "location", "value": "desert highway lined with Joshua trees", "confidence": 0.95, "source": "image"}
+{"shot": 72, "t": 932.1202, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 72, "t": 932.1202, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "suit jacket", "confidence": 0.95, "source": "image"}
+{"shot": 72, "t": 932.1202, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "loosened dark necktie", "confidence": 0.95, "source": "image"}
+{"shot": 72, "t": 932.1202, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "light shirt with open collar", "confidence": 0.9, "source": "image"}
+{"shot": 72, "t": 932.1202, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark belt", "confidence": 0.9, "source": "image"}
+{"shot": 72, "t": 932.1202, "entity": "Al Roberts", "entity_kind": "person", "attribute": "holding", "value": "suitcase in left hand", "confidence": 0.95, "source": "image"}
+{"shot": 72, "t": 932.1202, "entity": "Al Roberts", "entity_kind": "person", "attribute": "position", "value": "hitchhiking with right thumb raised", "confidence": 0.95, "source": "image"}
+{"shot": 74, "t": 936.067, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 74, "t": 936.067, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "suit jacket", "confidence": 0.95, "source": "image"}
+{"shot": 74, "t": 936.067, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "loosened dark necktie", "confidence": 0.95, "source": "image"}
+{"shot": 74, "t": 936.067, "entity": "Al Roberts", "entity_kind": "person", "attribute": "holding", "value": "suitcase in left hand", "confidence": 0.95, "source": "image"}
+{"shot": 74, "t": 936.067, "entity": "suitcase", "entity_kind": "prop", "attribute": "prop_state", "value": "tied with string", "confidence": 0.9, "source": "image"}
+{"shot": 74, "t": 936.067, "entity": "Al Roberts", "entity_kind": "person", "attribute": "position", "value": "hitchhiking gesturing back with right hand", "confidence": 0.95, "source": "image"}
+{"shot": 75, "t": 942.5334, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 75, "t": 942.5334, "entity": "Al Roberts", "entity_kind": "person", "attribute": "holding", "value": "suitcase tossed into car", "confidence": 0.9, "source": "image"}
+{"shot": 75, "t": 942.5334, "entity": "the convertible driver", "entity_kind": "person", "attribute": "wearing", "value": "fedora hat", "confidence": 0.9, "source": "image"}
+{"shot": 75, "t": 942.5334, "entity": "the convertible driver", "entity_kind": "person", "attribute": "position", "value": "seated behind steering wheel", "confidence": 0.9, "source": "image"}
+{"shot": 75, "t": 942.5334, "entity": "convertible car", "entity_kind": "vehicle", "attribute": "vehicle_state", "value": "open convertible top", "confidence": 0.95, "source": "image"}
+{"shot": 76, "t": 951.2466000000001, "entity": "convertible", "entity_kind": "vehicle", "attribute": "vehicle_state", "value": "top down", "confidence": 0.95, "source": "image"}
+{"shot": 76, "t": 951.2466000000001, "entity": "convertible", "entity_kind": "vehicle", "attribute": "position", "value": "driving along two-lane highway", "confidence": 0.95, "source": "image"}
+{"shot": 76, "t": 951.2466000000001, "entity": "highway", "entity_kind": "location", "attribute": "location", "value": "surrounded by desert hills and utility poles", "confidence": 0.9, "source": "image"}
+{"shot": 76, "t": 951.2466000000001, "entity": "environment", "entity_kind": "environment", "attribute": "time_of_day", "value": "daytime", "confidence": 0.95, "source": "image"}
+{"shot": 77, "t": 963.767, "entity": "Charles Haskell Jr.", "entity_kind": "person", "attribute": "wearing", "value": "fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 77, "t": 963.767, "entity": "Charles Haskell Jr.", "entity_kind": "person", "attribute": "wearing", "value": "light suit jacket", "confidence": 0.95, "source": "image"}
+{"shot": 77, "t": 963.767, "entity": "Charles Haskell Jr.", "entity_kind": "person", "attribute": "wearing", "value": "collared shirt", "confidence": 0.9, "source": "image"}
+{"shot": 77, "t": 963.767, "entity": "Charles Haskell Jr.", "entity_kind": "person", "attribute": "holding", "value": "small pack", "confidence": 0.85, "source": "image"}
+{"shot": 77, "t": 963.767, "entity": "convertible", "entity_kind": "vehicle", "attribute": "vehicle_state", "value": "top down", "confidence": 0.95, "source": "image"}
+{"shot": 78, "t": 983.067, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 78, "t": 983.067, "entity": "Al Roberts", "entity_kind": "person", "attribute": "holding", "value": "steering wheel", "confidence": 0.95, "source": "image"}
+{"shot": 78, "t": 983.067, "entity": "Al Roberts", "entity_kind": "person", "attribute": "position", "value": "driver seat", "confidence": 0.95, "source": "image"}
+{"shot": 78, "t": 983.067, "entity": "Charles Haskell Jr.", "entity_kind": "person", "attribute": "wearing", "value": "fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 78, "t": 983.067, "entity": "Charles Haskell Jr.", "entity_kind": "person", "attribute": "position", "value": "passenger seat", "confidence": 0.95, "source": "image"}
+{"shot": 78, "t": 983.067, "entity": "convertible", "entity_kind": "vehicle", "attribute": "vehicle_state", "value": "top down", "confidence": 0.95, "source": "image"}
+{"shot": 78, "t": 983.067, "entity": "environment", "entity_kind": "environment", "attribute": "time_of_day", "value": "daytime", "confidence": 0.95, "source": "image"}
+{"shot": 79, "t": 997.2402000000001, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 79, "t": 997.2402000000001, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark tie", "confidence": 0.95, "source": "image"}
+{"shot": 79, "t": 997.2402000000001, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "light suit jacket", "confidence": 0.95, "source": "image"}
+{"shot": 79, "t": 997.2402000000001, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "collared shirt", "confidence": 0.9, "source": "image"}
+{"shot": 79, "t": 997.2402000000001, "entity": "Al Roberts", "entity_kind": "person", "attribute": "holding", "value": "steering wheel", "confidence": 0.95, "source": "image"}
+{"shot": 79, "t": 997.2402000000001, "entity": "convertible", "entity_kind": "vehicle", "attribute": "vehicle_state", "value": "top down", "confidence": 0.95, "source": "image"}
+{"shot": 80, "t": 1016.82, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "fedora", "confidence": 0.95, "source": "image"}
+{"shot": 80, "t": 1016.82, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "suit jacket", "confidence": 0.9, "source": "image"}
+{"shot": 80, "t": 1016.82, "entity": "Al Roberts", "entity_kind": "person", "attribute": "position", "value": "passenger seat", "confidence": 0.95, "source": "image"}
+{"shot": 80, "t": 1016.82, "entity": "Charles Haskell Jr.", "entity_kind": "person", "attribute": "wearing", "value": "fedora", "confidence": 0.95, "source": "image"}
+{"shot": 80, "t": 1016.82, "entity": "Charles Haskell Jr.", "entity_kind": "person", "attribute": "holding", "value": "steering wheel", "confidence": 0.95, "source": "image"}
+{"shot": 80, "t": 1016.82, "entity": "Charles Haskell Jr.", "entity_kind": "person", "attribute": "position", "value": "driver seat", "confidence": 0.95, "source": "image"}
+{"shot": 81, "t": 1043.22, "entity": "Charles Haskell Jr.", "entity_kind": "person", "attribute": "wearing", "value": "fedora", "confidence": 0.95, "source": "image"}
+{"shot": 81, "t": 1043.22, "entity": "Charles Haskell Jr.", "entity_kind": "person", "attribute": "wearing", "value": "suit jacket", "confidence": 0.9, "source": "image"}
+{"shot": 82, "t": 1058.96, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "fedora", "confidence": 0.95, "source": "image"}
+{"shot": 82, "t": 1058.96, "entity": "Al Roberts", "entity_kind": "person", "attribute": "position", "value": "passenger seat", "confidence": 0.95, "source": "image"}
+{"shot": 82, "t": 1058.96, "entity": "Charles Haskell Jr.", "entity_kind": "person", "attribute": "wearing", "value": "fedora", "confidence": 0.95, "source": "image"}
+{"shot": 82, "t": 1058.96, "entity": "Charles Haskell Jr.", "entity_kind": "person", "attribute": "holding", "value": "steering wheel", "confidence": 0.95, "source": "image"}
+{"shot": 82, "t": 1058.96, "entity": "Charles Haskell Jr.", "entity_kind": "person", "attribute": "position", "value": "driver seat", "confidence": 0.95, "source": "image"}
+{"shot": 83, "t": 1068.86, "entity": "Charles Haskell Jr.", "entity_kind": "person", "attribute": "wearing", "value": "fedora", "confidence": 0.95, "source": "image"}
+{"shot": 83, "t": 1068.86, "entity": "Charles Haskell Jr.", "entity_kind": "person", "attribute": "wearing", "value": "dark necktie", "confidence": 0.9, "source": "image"}
+{"shot": 83, "t": 1068.86, "entity": "Charles Haskell Jr.", "entity_kind": "person", "attribute": "wearing", "value": "suit jacket", "confidence": 0.9, "source": "image"}
+{"shot": 83, "t": 1068.86, "entity": "Charles Haskell Jr.", "entity_kind": "person", "attribute": "holding", "value": "steering wheel", "confidence": 0.95, "source": "image"}
+{"shot": 84, "t": 1074.56, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 84, "t": 1074.56, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "suit jacket", "confidence": 0.95, "source": "image"}
+{"shot": 84, "t": 1074.56, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "collared shirt", "confidence": 0.95, "source": "image"}
+{"shot": 84, "t": 1074.56, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "necktie", "confidence": 0.95, "source": "image"}
+{"shot": 84, "t": 1074.56, "entity": "Al Roberts", "entity_kind": "person", "attribute": "position", "value": "passenger seat", "confidence": 0.9, "source": "image"}
+{"shot": 85, "t": 1080.42, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 85, "t": 1080.42, "entity": "Al Roberts", "entity_kind": "person", "attribute": "position", "value": "passenger seat", "confidence": 0.9, "source": "image"}
+{"shot": 85, "t": 1080.42, "entity": "Charles Haskell Jr.", "entity_kind": "person", "attribute": "wearing", "value": "fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 85, "t": 1080.42, "entity": "Charles Haskell Jr.", "entity_kind": "person", "attribute": "holding", "value": "steering wheel", "confidence": 0.95, "source": "image"}
+{"shot": 85, "t": 1080.42, "entity": "Charles Haskell Jr.", "entity_kind": "person", "attribute": "position", "value": "driver seat", "confidence": 0.9, "source": "image"}
+{"shot": 86, "t": 1100.34, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 86, "t": 1100.34, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "suit jacket", "confidence": 0.95, "source": "image"}
+{"shot": 86, "t": 1100.34, "entity": "Al Roberts", "entity_kind": "person", "attribute": "position", "value": "passenger seat", "confidence": 0.9, "source": "image"}
+{"shot": 86, "t": 1100.34, "entity": "Charles Haskell Jr.", "entity_kind": "person", "attribute": "wearing", "value": "fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 86, "t": 1100.34, "entity": "Charles Haskell Jr.", "entity_kind": "person", "attribute": "wearing", "value": "dark tie", "confidence": 0.9, "source": "image"}
+{"shot": 86, "t": 1100.34, "entity": "Charles Haskell Jr.", "entity_kind": "person", "attribute": "holding", "value": "steering wheel", "confidence": 0.95, "source": "image"}
+{"shot": 86, "t": 1100.34, "entity": "Charles Haskell Jr.", "entity_kind": "person", "attribute": "position", "value": "driver seat", "confidence": 0.9, "source": "image"}
+{"shot": 87, "t": 1124.3, "entity": "Charles Haskell Jr.", "entity_kind": "person", "attribute": "wearing", "value": "fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 87, "t": 1124.3, "entity": "Charles Haskell Jr.", "entity_kind": "person", "attribute": "wearing", "value": "jacket", "confidence": 0.95, "source": "image"}
+{"shot": 87, "t": 1124.3, "entity": "Charles Haskell Jr.", "entity_kind": "person", "attribute": "holding", "value": "steering wheel", "confidence": 0.95, "source": "image"}
+{"shot": 87, "t": 1124.3, "entity": "Charles Haskell Jr.", "entity_kind": "person", "attribute": "position", "value": "driver seat", "confidence": 0.9, "source": "image"}
+{"shot": 88, "t": 1129.22, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "fedora", "confidence": 0.95, "source": "image"}
+{"shot": 88, "t": 1129.22, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "suit jacket", "confidence": 0.95, "source": "image"}
+{"shot": 88, "t": 1129.22, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "collared shirt", "confidence": 0.9, "source": "image"}
+{"shot": 88, "t": 1129.22, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "necktie", "confidence": 0.9, "source": "image"}
+{"shot": 88, "t": 1129.22, "entity": "Al Roberts", "entity_kind": "person", "attribute": "position", "value": "passenger seat", "confidence": 0.95, "source": "image"}
+{"shot": 89, "t": 1139.6599999999999, "entity": "Charles Haskell Jr.", "entity_kind": "person", "attribute": "wearing", "value": "fedora", "confidence": 0.95, "source": "image"}
+{"shot": 89, "t": 1139.6599999999999, "entity": "Charles Haskell Jr.", "entity_kind": "person", "attribute": "wearing", "value": "light suit jacket", "confidence": 0.95, "source": "image"}
+{"shot": 89, "t": 1139.6599999999999, "entity": "Charles Haskell Jr.", "entity_kind": "person", "attribute": "wearing", "value": "white collared shirt", "confidence": 0.9, "source": "image"}
+{"shot": 89, "t": 1139.6599999999999, "entity": "Charles Haskell Jr.", "entity_kind": "person", "attribute": "wearing", "value": "dark necktie", "confidence": 0.95, "source": "image"}
+{"shot": 89, "t": 1139.6599999999999, "entity": "Charles Haskell Jr.", "entity_kind": "person", "attribute": "holding", "value": "steering wheel", "confidence": 0.95, "source": "image"}
+{"shot": 89, "t": 1139.6599999999999, "entity": "Charles Haskell Jr.", "entity_kind": "person", "attribute": "position", "value": "driver seat", "confidence": 0.95, "source": "image"}
+{"shot": 90, "t": 1157.3732, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "fedora", "confidence": 0.95, "source": "image"}
+{"shot": 90, "t": 1157.3732, "entity": "Al Roberts", "entity_kind": "person", "attribute": "position", "value": "passenger seat", "confidence": 0.95, "source": "image"}
+{"shot": 90, "t": 1157.3732, "entity": "Charles Haskell Jr.", "entity_kind": "person", "attribute": "wearing", "value": "fedora", "confidence": 0.95, "source": "image"}
+{"shot": 90, "t": 1157.3732, "entity": "Charles Haskell Jr.", "entity_kind": "person", "attribute": "holding", "value": "steering wheel", "confidence": 0.95, "source": "image"}
+{"shot": 90, "t": 1157.3732, "entity": "Charles Haskell Jr.", "entity_kind": "person", "attribute": "position", "value": "driver seat", "confidence": 0.95, "source": "image"}
+{"shot": 91, "t": 1177.1466, "entity": "Charles Haskell Jr.", "entity_kind": "person", "attribute": "wearing", "value": "fedora", "confidence": 0.95, "source": "image"}
+{"shot": 91, "t": 1177.1466, "entity": "Charles Haskell Jr.", "entity_kind": "person", "attribute": "wearing", "value": "light suit jacket", "confidence": 0.95, "source": "image"}
+{"shot": 91, "t": 1177.1466, "entity": "Charles Haskell Jr.", "entity_kind": "person", "attribute": "wearing", "value": "white collared shirt", "confidence": 0.9, "source": "image"}
+{"shot": 91, "t": 1177.1466, "entity": "Charles Haskell Jr.", "entity_kind": "person", "attribute": "wearing", "value": "dark necktie", "confidence": 0.95, "source": "image"}
+{"shot": 91, "t": 1177.1466, "entity": "Charles Haskell Jr.", "entity_kind": "person", "attribute": "holding", "value": "steering wheel", "confidence": 0.95, "source": "image"}
+{"shot": 91, "t": 1177.1466, "entity": "Charles Haskell Jr.", "entity_kind": "person", "attribute": "position", "value": "driver seat", "confidence": 0.95, "source": "image"}
+{"shot": 92, "t": 1196.5334, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "fedora", "confidence": 0.95, "source": "image"}
+{"shot": 92, "t": 1196.5334, "entity": "the driver", "entity_kind": "person", "attribute": "wearing", "value": "fedora", "confidence": 0.95, "source": "image"}
+{"shot": 92, "t": 1196.5334, "entity": "the driver", "entity_kind": "person", "attribute": "holding", "value": "cigarette", "confidence": 0.9, "source": "image"}
+{"shot": 92, "t": 1196.5334, "entity": "the convertible", "entity_kind": "vehicle", "attribute": "vehicle_state", "value": "top down", "confidence": 0.95, "source": "image"}
+{"shot": 93, "t": 1205.953, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 93, "t": 1205.953, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "jacket", "confidence": 0.9, "source": "image"}
+{"shot": 93, "t": 1205.953, "entity": "the driver", "entity_kind": "person", "attribute": "wearing", "value": "fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 93, "t": 1205.953, "entity": "the driver", "entity_kind": "person", "attribute": "holding", "value": "cigarette", "confidence": 0.95, "source": "image"}
+{"shot": 93, "t": 1205.953, "entity": "the driver", "entity_kind": "person", "attribute": "holding", "value": "steering wheel", "confidence": 0.95, "source": "image"}
+{"shot": 94, "t": 1237.8666, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 94, "t": 1237.8666, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "suit jacket", "confidence": 0.95, "source": "image"}
+{"shot": 94, "t": 1237.8666, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "loosened necktie", "confidence": 0.9, "source": "image"}
+{"shot": 94, "t": 1237.8666, "entity": "the companion", "entity_kind": "person", "attribute": "wearing", "value": "dark fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 94, "t": 1237.8666, "entity": "the companion", "entity_kind": "person", "attribute": "wearing", "value": "light suit jacket", "confidence": 0.95, "source": "image"}
+{"shot": 94, "t": 1237.8666, "entity": "the companion", "entity_kind": "person", "attribute": "wearing", "value": "dark necktie", "confidence": 0.95, "source": "image"}
+{"shot": 97, "t": 1318.6668, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 97, "t": 1318.6668, "entity": "Al Roberts", "entity_kind": "person", "attribute": "holding", "value": "steering wheel", "confidence": 0.95, "source": "image"}
+{"shot": 97, "t": 1318.6668, "entity": "Al Roberts", "entity_kind": "person", "attribute": "position", "value": "driver seat", "confidence": 0.95, "source": "image"}
+{"shot": 98, "t": 1381.0602000000001, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 98, "t": 1381.0602000000001, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "collared shirt", "confidence": 0.9, "source": "image"}
+{"shot": 98, "t": 1381.0602000000001, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark necktie", "confidence": 0.9, "source": "image"}
+{"shot": 98, "t": 1381.0602000000001, "entity": "Al Roberts", "entity_kind": "person", "attribute": "position", "value": "driver seat", "confidence": 0.95, "source": "image"}
+{"shot": 98, "t": 1381.0602000000001, "entity": "Charles Haskell Jr.", "entity_kind": "person", "attribute": "position", "value": "passenger seat with head tilted back", "confidence": 0.95, "source": "image"}
+{"shot": 98, "t": 1381.0602000000001, "entity": "Charles Haskell Jr.", "entity_kind": "person", "attribute": "wearing", "value": "light-colored collared shirt", "confidence": 0.9, "source": "image"}
+{"shot": 98, "t": 1381.0602000000001, "entity": "Charles Haskell Jr.", "entity_kind": "person", "attribute": "wearing", "value": "dark necktie", "confidence": 0.9, "source": "image"}
+{"shot": 98, "t": 1381.0602000000001, "entity": "Charles Haskell Jr.", "entity_kind": "person", "attribute": "wearing", "value": "suit jacket", "confidence": 0.9, "source": "image"}
+{"shot": 98, "t": 1381.0602000000001, "entity": "convertible car", "entity_kind": "vehicle", "attribute": "vehicle_state", "value": "top down", "confidence": 0.95, "source": "image"}
+{"shot": 98, "t": 1381.0602000000001, "entity": "environment", "entity_kind": "environment", "attribute": "time_of_day", "value": "night", "confidence": 0.95, "source": "image"}
+{"shot": 99, "t": 1385.7, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 99, "t": 1385.7, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "collared shirt", "confidence": 0.9, "source": "image"}
+{"shot": 99, "t": 1385.7, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark necktie", "confidence": 0.9, "source": "image"}
+{"shot": 99, "t": 1385.7, "entity": "Al Roberts", "entity_kind": "person", "attribute": "position", "value": "driver seat", "confidence": 0.95, "source": "image"}
+{"shot": 99, "t": 1385.7, "entity": "Charles Haskell Jr.", "entity_kind": "person", "attribute": "position", "value": "passenger seat leaning back", "confidence": 0.95, "source": "image"}
+{"shot": 99, "t": 1385.7, "entity": "Charles Haskell Jr.", "entity_kind": "person", "attribute": "wearing", "value": "light-colored collared shirt", "confidence": 0.9, "source": "image"}
+{"shot": 99, "t": 1385.7, "entity": "Charles Haskell Jr.", "entity_kind": "person", "attribute": "wearing", "value": "dark necktie", "confidence": 0.9, "source": "image"}
+{"shot": 99, "t": 1385.7, "entity": "convertible car", "entity_kind": "vehicle", "attribute": "vehicle_state", "value": "top down", "confidence": 0.95, "source": "image"}
+{"shot": 99, "t": 1385.7, "entity": "environment", "entity_kind": "environment", "attribute": "time_of_day", "value": "night", "confidence": 0.95, "source": "image"}
+{"shot": 103, "t": 1389.0998, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 103, "t": 1389.0998, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "collared shirt", "confidence": 0.9, "source": "image"}
+{"shot": 103, "t": 1389.0998, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark necktie", "confidence": 0.9, "source": "image"}
+{"shot": 103, "t": 1389.0998, "entity": "Al Roberts", "entity_kind": "person", "attribute": "position", "value": "driver seat facing passenger", "confidence": 0.95, "source": "image"}
+{"shot": 103, "t": 1389.0998, "entity": "Charles Haskell Jr.", "entity_kind": "person", "attribute": "position", "value": "passenger seat with eyes closed", "confidence": 0.95, "source": "image"}
+{"shot": 103, "t": 1389.0998, "entity": "Charles Haskell Jr.", "entity_kind": "person", "attribute": "wearing", "value": "light-colored collared shirt", "confidence": 0.9, "source": "image"}
+{"shot": 103, "t": 1389.0998, "entity": "Charles Haskell Jr.", "entity_kind": "person", "attribute": "wearing", "value": "dark necktie", "confidence": 0.9, "source": "image"}
+{"shot": 103, "t": 1389.0998, "entity": "convertible car", "entity_kind": "vehicle", "attribute": "vehicle_state", "value": "top down", "confidence": 0.95, "source": "image"}
+{"shot": 103, "t": 1389.0998, "entity": "environment", "entity_kind": "environment", "attribute": "time_of_day", "value": "night", "confidence": 0.95, "source": "image"}
+{"shot": 104, "t": 1391.2668, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 104, "t": 1391.2668, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "collared shirt", "confidence": 0.9, "source": "image"}
+{"shot": 104, "t": 1391.2668, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark necktie", "confidence": 0.9, "source": "image"}
+{"shot": 104, "t": 1391.2668, "entity": "Al Roberts", "entity_kind": "person", "attribute": "position", "value": "driver seat facing forward", "confidence": 0.95, "source": "image"}
+{"shot": 104, "t": 1391.2668, "entity": "Charles Haskell Jr.", "entity_kind": "person", "attribute": "position", "value": "passenger seat with eyes closed", "confidence": 0.95, "source": "image"}
+{"shot": 104, "t": 1391.2668, "entity": "Charles Haskell Jr.", "entity_kind": "person", "attribute": "wearing", "value": "light-colored collared shirt", "confidence": 0.9, "source": "image"}
+{"shot": 104, "t": 1391.2668, "entity": "Charles Haskell Jr.", "entity_kind": "person", "attribute": "wearing", "value": "dark necktie", "confidence": 0.9, "source": "image"}
+{"shot": 104, "t": 1391.2668, "entity": "convertible car", "entity_kind": "vehicle", "attribute": "vehicle_state", "value": "top down", "confidence": 0.95, "source": "image"}
+{"shot": 104, "t": 1391.2668, "entity": "environment", "entity_kind": "environment", "attribute": "time_of_day", "value": "night", "confidence": 0.95, "source": "image"}
+{"shot": 105, "t": 1397.2002, "entity": "Charles Haskell Jr.", "entity_kind": "person", "attribute": "wearing", "value": "fedora", "confidence": 0.95, "source": "image"}
+{"shot": 105, "t": 1397.2002, "entity": "Charles Haskell Jr.", "entity_kind": "person", "attribute": "wearing", "value": "dark jacket", "confidence": 0.9, "source": "image"}
+{"shot": 105, "t": 1397.2002, "entity": "Al Roberts", "entity_kind": "person", "attribute": "position", "value": "reclined in passenger seat", "confidence": 0.95, "source": "image"}
+{"shot": 105, "t": 1397.2002, "entity": "convertible", "entity_kind": "vehicle", "attribute": "vehicle_state", "value": "open top", "confidence": 0.95, "source": "image"}
+{"shot": 106, "t": 1405.7868, "entity": "rain", "entity_kind": "environment", "attribute": "weather", "value": "raining", "confidence": 0.95, "source": "image"}
+{"shot": 106, "t": 1405.7868, "entity": "Charles Haskell Jr.", "entity_kind": "person", "attribute": "wearing", "value": "fedora", "confidence": 0.95, "source": "image"}
+{"shot": 106, "t": 1405.7868, "entity": "Charles Haskell Jr.", "entity_kind": "person", "attribute": "position", "value": "seated in driver seat", "confidence": 0.9, "source": "image"}
+{"shot": 106, "t": 1405.7868, "entity": "convertible", "entity_kind": "vehicle", "attribute": "vehicle_state", "value": "wet windshield", "confidence": 0.95, "source": "image"}
+{"shot": 107, "t": 1411.4402, "entity": "rain", "entity_kind": "environment", "attribute": "weather", "value": "raining", "confidence": 0.9, "source": "image"}
+{"shot": 107, "t": 1411.4402, "entity": "convertible", "entity_kind": "vehicle", "attribute": "vehicle_state", "value": "open top", "confidence": 0.95, "source": "image"}
+{"shot": 107, "t": 1411.4402, "entity": "convertible", "entity_kind": "vehicle", "attribute": "vehicle_state", "value": "wet exterior", "confidence": 0.9, "source": "image"}
+{"shot": 108, "t": 1421.44, "entity": "Charles Haskell Jr.", "entity_kind": "person", "attribute": "wearing", "value": "fedora", "confidence": 0.95, "source": "image"}
+{"shot": 108, "t": 1421.44, "entity": "Charles Haskell Jr.", "entity_kind": "person", "attribute": "wearing", "value": "dark suit jacket", "confidence": 0.9, "source": "image"}
+{"shot": 108, "t": 1421.44, "entity": "rain", "entity_kind": "environment", "attribute": "weather", "value": "raining", "confidence": 0.85, "source": "image"}
+{"shot": 109, "t": 1434.4932, "entity": "Al Roberts", "entity_kind": "person", "attribute": "position", "value": "lying face down in mud", "confidence": 0.95, "source": "image"}
+{"shot": 109, "t": 1434.4932, "entity": "Al Roberts", "entity_kind": "person", "attribute": "hair", "value": "wet and muddy", "confidence": 0.9, "source": "image"}
+{"shot": 109, "t": 1434.4932, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark jacket", "confidence": 0.9, "source": "image"}
+{"shot": 110, "t": 1445.5466, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 110, "t": 1445.5466, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "open collar shirt", "confidence": 0.9, "source": "image"}
+{"shot": 110, "t": 1445.5466, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark jacket", "confidence": 0.9, "source": "image"}
+{"shot": 110, "t": 1445.5466, "entity": "Al Roberts", "entity_kind": "person", "attribute": "facial_hair", "value": "stubble", "confidence": 0.9, "source": "image"}
+{"shot": 111, "t": 1462.1002, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "wet fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 111, "t": 1462.1002, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark jacket", "confidence": 0.9, "source": "image"}
+{"shot": 111, "t": 1462.1002, "entity": "outdoor environment", "entity_kind": "environment", "attribute": "weather", "value": "rain", "confidence": 0.95, "source": "image"}
+{"shot": 112, "t": 1470.76, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "wet fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 112, "t": 1470.76, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark jacket", "confidence": 0.9, "source": "image"}
+{"shot": 112, "t": 1470.76, "entity": "Al Roberts", "entity_kind": "person", "attribute": "position", "value": "standing near automobile", "confidence": 0.85, "source": "image"}
+{"shot": 112, "t": 1470.76, "entity": "outdoor environment", "entity_kind": "environment", "attribute": "weather", "value": "rain", "confidence": 0.9, "source": "image"}
+{"shot": 113, "t": 1486.46, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark wide-brimmed hat", "confidence": 0.95, "source": "image"}
+{"shot": 113, "t": 1486.46, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark jacket with collar raised", "confidence": 0.9, "source": "image"}
+{"shot": 113, "t": 1486.46, "entity": "environment", "entity_kind": "environment", "attribute": "weather", "value": "raining", "confidence": 0.95, "source": "image"}
+{"shot": 114, "t": 1497.34, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark hat", "confidence": 0.95, "source": "image"}
+{"shot": 114, "t": 1497.34, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "suit jacket", "confidence": 0.9, "source": "image"}
+{"shot": 114, "t": 1497.34, "entity": "Al Roberts", "entity_kind": "person", "attribute": "position", "value": "bent over near car door", "confidence": 0.9, "source": "image"}
+{"shot": 114, "t": 1497.34, "entity": "car", "entity_kind": "vehicle", "attribute": "vehicle_state", "value": "door open", "confidence": 0.85, "source": "image"}
+{"shot": 115, "t": 1503.5732, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark hat", "confidence": 0.95, "source": "image"}
+{"shot": 115, "t": 1503.5732, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "suit jacket", "confidence": 0.9, "source": "image"}
+{"shot": 115, "t": 1503.5732, "entity": "Al Roberts", "entity_kind": "person", "attribute": "position", "value": "pulling body under arms", "confidence": 0.9, "source": "image"}
+{"shot": 115, "t": 1503.5732, "entity": "Charles Haskell Jr.", "entity_kind": "person", "attribute": "wearing", "value": "light suit jacket", "confidence": 0.9, "source": "image"}
+{"shot": 115, "t": 1503.5732, "entity": "Charles Haskell Jr.", "entity_kind": "person", "attribute": "wearing", "value": "trousers", "confidence": 0.9, "source": "image"}
+{"shot": 115, "t": 1503.5732, "entity": "Charles Haskell Jr.", "entity_kind": "person", "attribute": "position", "value": "slumped backward on ground", "confidence": 0.95, "source": "image"}
+{"shot": 115, "t": 1503.5732, "entity": "car", "entity_kind": "vehicle", "attribute": "vehicle_state", "value": "headlight illuminated", "confidence": 0.9, "source": "image"}
+{"shot": 116, "t": 1517.3798, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark suit jacket", "confidence": 0.9, "source": "image"}
+{"shot": 116, "t": 1517.3798, "entity": "Al Roberts", "entity_kind": "person", "attribute": "position", "value": "carrying body toward foliage", "confidence": 0.9, "source": "image"}
+{"shot": 116, "t": 1517.3798, "entity": "Charles Haskell Jr.", "entity_kind": "person", "attribute": "position", "value": "slumped in Al Roberts' arms", "confidence": 0.85, "source": "image"}
+{"shot": 121, "t": 1665.6734000000001, "entity": "Al Roberts", "entity_kind": "person", "attribute": "position", "value": "seated in driver seat of convertible", "confidence": 0.95, "source": "image"}
+{"shot": 121, "t": 1665.6734000000001, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "fedora hat", "confidence": 0.9, "source": "image"}
+{"shot": 121, "t": 1665.6734000000001, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "light suit jacket", "confidence": 0.9, "source": "image"}
+{"shot": 121, "t": 1665.6734000000001, "entity": "the state trooper", "entity_kind": "person", "attribute": "wearing", "value": "light peaked cap", "confidence": 0.95, "source": "image"}
+{"shot": 121, "t": 1665.6734000000001, "entity": "the state trooper", "entity_kind": "person", "attribute": "wearing", "value": "light uniform shirt", "confidence": 0.95, "source": "image"}
+{"shot": 121, "t": 1665.6734000000001, "entity": "the sign", "entity_kind": "prop", "attribute": "prop_state", "value": "reads STATE STOP OFFICERS", "confidence": 0.98, "source": "image"}
+{"shot": 122, "t": 1680.193, "entity": "Al Roberts", "entity_kind": "person", "attribute": "position", "value": "seated inside convertible", "confidence": 0.98, "source": "image"}
+{"shot": 122, "t": 1680.193, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 122, "t": 1680.193, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "light jacket", "confidence": 0.95, "source": "image"}
+{"shot": 122, "t": 1680.193, "entity": "Al Roberts", "entity_kind": "person", "attribute": "facial_hair", "value": "stubble", "confidence": 0.9, "source": "image"}
+{"shot": 122, "t": 1680.193, "entity": "the dark-uniformed officer", "entity_kind": "person", "attribute": "wearing", "value": "dark uniform shirt", "confidence": 0.95, "source": "image"}
+{"shot": 122, "t": 1680.193, "entity": "the dark-uniformed officer", "entity_kind": "person", "attribute": "wearing", "value": "dark peaked cap", "confidence": 0.95, "source": "image"}
+{"shot": 122, "t": 1680.193, "entity": "the dark-uniformed officer", "entity_kind": "person", "attribute": "holding", "value": "paper document", "confidence": 0.9, "source": "image"}
+{"shot": 122, "t": 1680.193, "entity": "the state trooper", "entity_kind": "person", "attribute": "wearing", "value": "light uniform shirt", "confidence": 0.95, "source": "image"}
+{"shot": 122, "t": 1680.193, "entity": "the state trooper", "entity_kind": "person", "attribute": "wearing", "value": "light peaked cap", "confidence": 0.95, "source": "image"}
+{"shot": 122, "t": 1680.193, "entity": "the state trooper", "entity_kind": "person", "attribute": "accessory", "value": "gun belt with holster", "confidence": 0.95, "source": "image"}
+{"shot": 122, "t": 1680.193, "entity": "the state trooper", "entity_kind": "person", "attribute": "accessory", "value": "star badge on chest", "confidence": 0.9, "source": "image"}
+{"shot": 123, "t": 1697.1198, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark fedora hat", "confidence": 0.98, "source": "image"}
+{"shot": 123, "t": 1697.1198, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "light textured jacket", "confidence": 0.95, "source": "image"}
+{"shot": 123, "t": 1697.1198, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark tie", "confidence": 0.95, "source": "image"}
+{"shot": 123, "t": 1697.1198, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "white collared shirt", "confidence": 0.95, "source": "image"}
+{"shot": 123, "t": 1697.1198, "entity": "Al Roberts", "entity_kind": "person", "attribute": "facial_hair", "value": "stubble", "confidence": 0.95, "source": "image"}
+{"shot": 123, "t": 1697.1198, "entity": "the state trooper", "entity_kind": "person", "attribute": "wearing", "value": "light peaked cap", "confidence": 0.95, "source": "image"}
+{"shot": 123, "t": 1697.1198, "entity": "the state trooper", "entity_kind": "person", "attribute": "wearing", "value": "light uniform shirt", "confidence": 0.95, "source": "image"}
+{"shot": 124, "t": 1711.5668, "entity": "the state trooper", "entity_kind": "person", "attribute": "wearing", "value": "light uniform shirt", "confidence": 0.95, "source": "image"}
+{"shot": 124, "t": 1711.5668, "entity": "the state trooper", "entity_kind": "person", "attribute": "wearing", "value": "light peaked cap", "confidence": 0.95, "source": "image"}
+{"shot": 124, "t": 1711.5668, "entity": "the state trooper", "entity_kind": "person", "attribute": "wearing", "value": "dark riding boots", "confidence": 0.9, "source": "image"}
+{"shot": 124, "t": 1711.5668, "entity": "the state trooper", "entity_kind": "person", "attribute": "position", "value": "walking across road", "confidence": 0.95, "source": "image"}
+{"shot": 124, "t": 1711.5668, "entity": "the second officer", "entity_kind": "person", "attribute": "wearing", "value": "light uniform shirt", "confidence": 0.9, "source": "image"}
+{"shot": 124, "t": 1711.5668, "entity": "the second officer", "entity_kind": "person", "attribute": "wearing", "value": "peaked cap", "confidence": 0.9, "source": "image"}
+{"shot": 124, "t": 1711.5668, "entity": "the second officer", "entity_kind": "person", "attribute": "position", "value": "standing beside dark police car", "confidence": 0.9, "source": "image"}
+{"shot": 124, "t": 1711.5668, "entity": "the convertible", "entity_kind": "vehicle", "attribute": "vehicle_state", "value": "driving away down road", "confidence": 0.95, "source": "image"}
+{"shot": 124, "t": 1711.5668, "entity": "the convertible", "entity_kind": "vehicle", "attribute": "accessory", "value": "spare tire mounted on rear trunk", "confidence": 0.9, "source": "image"}
+{"shot": 124, "t": 1711.5668, "entity": "the sign", "entity_kind": "prop", "attribute": "prop_state", "value": "reads STATE STOP OFFICERS", "confidence": 0.98, "source": "image"}
+{"shot": 125, "t": 1724.5134, "entity": "Texaco gas station", "entity_kind": "location", "attribute": "location", "value": "alongside highway", "confidence": 0.95, "source": "image"}
+{"shot": 125, "t": 1724.5134, "entity": "convertible car", "entity_kind": "vehicle", "attribute": "vehicle_state", "value": "driving on road", "confidence": 0.95, "source": "image"}
+{"shot": 125, "t": 1724.5134, "entity": "environment", "entity_kind": "environment", "attribute": "time_of_day", "value": "daytime", "confidence": 0.95, "source": "image"}
+{"shot": 125, "t": 1724.5134, "entity": "environment", "entity_kind": "environment", "attribute": "weather", "value": "clear", "confidence": 0.9, "source": "image"}
+{"shot": 136, "t": 1771.1932000000002, "entity": "environment", "entity_kind": "environment", "attribute": "weather", "value": "foggy", "confidence": 0.85, "source": "image"}
+{"shot": 136, "t": 1771.1932000000002, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark coat", "confidence": 0.8, "source": "image"}
+{"shot": 139, "t": 1871.8866, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "light shirt", "confidence": 0.95, "source": "image"}
+{"shot": 139, "t": 1871.8866, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark tie", "confidence": 0.95, "source": "image"}
+{"shot": 139, "t": 1871.8866, "entity": "Al Roberts", "entity_kind": "person", "attribute": "holding", "value": "banknotes", "confidence": 0.95, "source": "image"}
+{"shot": 139, "t": 1871.8866, "entity": "Al Roberts", "entity_kind": "person", "attribute": "hair", "value": "dark slicked-back hair", "confidence": 0.9, "source": "image"}
+{"shot": 140, "t": 1931.087, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "fedora hat", "confidence": 0.9, "source": "image"}
+{"shot": 140, "t": 1931.087, "entity": "convertible car", "entity_kind": "vehicle", "attribute": "vehicle_state", "value": "driving", "confidence": 0.85, "source": "image"}
+{"shot": 141, "t": 1940.9533999999999, "entity": "the driver", "entity_kind": "person", "attribute": "wearing", "value": "fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 141, "t": 1940.9533999999999, "entity": "convertible car", "entity_kind": "vehicle", "attribute": "vehicle_state", "value": "convertible top down", "confidence": 0.95, "source": "image"}
+{"shot": 141, "t": 1940.9533999999999, "entity": "convertible car", "entity_kind": "vehicle", "attribute": "vehicle_state", "value": "parked alongside gas pump", "confidence": 0.95, "source": "image"}
+{"shot": 149, "t": 1949.74, "entity": "the driver", "entity_kind": "person", "attribute": "wearing", "value": "fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 149, "t": 1949.74, "entity": "the driver", "entity_kind": "person", "attribute": "wearing", "value": "dark suit jacket", "confidence": 0.95, "source": "image"}
+{"shot": 149, "t": 1949.74, "entity": "the driver", "entity_kind": "person", "attribute": "position", "value": "seated behind steering wheel", "confidence": 0.95, "source": "image"}
+{"shot": 149, "t": 1949.74, "entity": "convertible car", "entity_kind": "vehicle", "attribute": "vehicle_state", "value": "convertible top down", "confidence": 0.95, "source": "image"}
+{"shot": 150, "t": 1961.3932, "entity": "the hitchhiking woman", "entity_kind": "person", "attribute": "wearing", "value": "light patterned knit cardigan jacket", "confidence": 0.95, "source": "image"}
+{"shot": 150, "t": 1961.3932, "entity": "the hitchhiking woman", "entity_kind": "person", "attribute": "wearing", "value": "pointed collar shirt", "confidence": 0.9, "source": "image"}
+{"shot": 150, "t": 1961.3932, "entity": "the hitchhiking woman", "entity_kind": "person", "attribute": "hair", "value": "blonde curls swept up", "confidence": 0.9, "source": "image"}
+{"shot": 150, "t": 1961.3932, "entity": "the hitchhiking woman", "entity_kind": "person", "attribute": "position", "value": "standing on roadside facing left in profile", "confidence": 0.95, "source": "image"}
+{"shot": 151, "t": 1964.2998, "entity": "convertible car", "entity_kind": "vehicle", "attribute": "vehicle_state", "value": "hood open", "confidence": 0.95, "source": "image"}
+{"shot": 151, "t": 1964.2998, "entity": "gas station attendant", "entity_kind": "person", "attribute": "holding", "value": "pouring pitcher over open engine bay", "confidence": 0.9, "source": "image"}
+{"shot": 151, "t": 1964.2998, "entity": "the hitchhiking woman", "entity_kind": "person", "attribute": "position", "value": "standing in background near roadside", "confidence": 0.9, "source": "image"}
+{"shot": 151, "t": 1964.2998, "entity": "suitcase", "entity_kind": "prop", "attribute": "prop_state", "value": "resting upright on ground next to hitchhiking woman", "confidence": 0.95, "source": "image"}
+{"shot": 152, "t": 1977.9868, "entity": "Vera", "entity_kind": "person", "attribute": "wearing", "value": "light cardigan", "confidence": 0.95, "source": "image"}
+{"shot": 152, "t": 1977.9868, "entity": "Vera", "entity_kind": "person", "attribute": "wearing", "value": "dark knee-length skirt", "confidence": 0.95, "source": "image"}
+{"shot": 152, "t": 1977.9868, "entity": "Vera", "entity_kind": "person", "attribute": "holding", "value": "small purse", "confidence": 0.9, "source": "image"}
+{"shot": 152, "t": 1977.9868, "entity": "Vera", "entity_kind": "person", "attribute": "position", "value": "standing beside a desert highway", "confidence": 0.95, "source": "image"}
+{"shot": 152, "t": 1977.9868, "entity": "suitcase", "entity_kind": "prop", "attribute": "prop_state", "value": "resting on the dirt ground beside Vera", "confidence": 0.95, "source": "image"}
+{"shot": 153, "t": 1997.0534, "entity": "Vera", "entity_kind": "person", "attribute": "wearing", "value": "light cardigan", "confidence": 0.95, "source": "image"}
+{"shot": 153, "t": 1997.0534, "entity": "Vera", "entity_kind": "person", "attribute": "wearing", "value": "dark skirt", "confidence": 0.95, "source": "image"}
+{"shot": 153, "t": 1997.0534, "entity": "Vera", "entity_kind": "person", "attribute": "holding", "value": "suitcase in left hand", "confidence": 0.95, "source": "image"}
+{"shot": 153, "t": 1997.0534, "entity": "convertible car", "entity_kind": "vehicle", "attribute": "vehicle_state", "value": "parked beside a post", "confidence": 0.9, "source": "image"}
+{"shot": 154, "t": 2003.5198, "entity": "Vera", "entity_kind": "person", "attribute": "wearing", "value": "light cardigan", "confidence": 0.95, "source": "image"}
+{"shot": 154, "t": 2003.5198, "entity": "Vera", "entity_kind": "person", "attribute": "position", "value": "seated in passenger seat of convertible car", "confidence": 0.95, "source": "image"}
+{"shot": 154, "t": 2003.5198, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 154, "t": 2003.5198, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "suit jacket", "confidence": 0.9, "source": "image"}
+{"shot": 154, "t": 2003.5198, "entity": "Al Roberts", "entity_kind": "person", "attribute": "position", "value": "seated in driver seat of convertible car", "confidence": 0.95, "source": "image"}
+{"shot": 154, "t": 2003.5198, "entity": "convertible car", "entity_kind": "vehicle", "attribute": "vehicle_state", "value": "convertible top down", "confidence": 0.95, "source": "image"}
+{"shot": 155, "t": 2015.22, "entity": "Vera", "entity_kind": "person", "attribute": "wearing", "value": "light cardigan", "confidence": 0.95, "source": "image"}
+{"shot": 155, "t": 2015.22, "entity": "Vera", "entity_kind": "person", "attribute": "position", "value": "seated in passenger seat", "confidence": 0.95, "source": "image"}
+{"shot": 155, "t": 2015.22, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 155, "t": 2015.22, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "necktie", "confidence": 0.9, "source": "image"}
+{"shot": 155, "t": 2015.22, "entity": "Al Roberts", "entity_kind": "person", "attribute": "holding", "value": "steering wheel", "confidence": 0.95, "source": "image"}
+{"shot": 155, "t": 2015.22, "entity": "convertible car", "entity_kind": "vehicle", "attribute": "vehicle_state", "value": "convertible top down", "confidence": 0.95, "source": "image"}
+{"shot": 156, "t": 2024.5932, "entity": "Vera", "entity_kind": "person", "attribute": "hair", "value": "shoulder-length wavy hair", "confidence": 0.95, "source": "image"}
+{"shot": 156, "t": 2024.5932, "entity": "Vera", "entity_kind": "person", "attribute": "wearing", "value": "light fuzzy coat", "confidence": 0.9, "source": "image"}
+{"shot": 156, "t": 2024.5932, "entity": "Vera", "entity_kind": "person", "attribute": "position", "value": "passenger seat", "confidence": 0.9, "source": "image"}
+{"shot": 157, "t": 2029.6798000000001, "entity": "Vera", "entity_kind": "person", "attribute": "hair", "value": "shoulder-length wavy hair", "confidence": 0.95, "source": "image"}
+{"shot": 157, "t": 2029.6798000000001, "entity": "Vera", "entity_kind": "person", "attribute": "wearing", "value": "light patterned sweater", "confidence": 0.9, "source": "image"}
+{"shot": 157, "t": 2029.6798000000001, "entity": "Vera", "entity_kind": "person", "attribute": "accessory", "value": "round brooch on collar", "confidence": 0.85, "source": "image"}
+{"shot": 157, "t": 2029.6798000000001, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 157, "t": 2029.6798000000001, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "patterned suit jacket", "confidence": 0.9, "source": "image"}
+{"shot": 157, "t": 2029.6798000000001, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "light shirt", "confidence": 0.9, "source": "image"}
+{"shot": 157, "t": 2029.6798000000001, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark necktie", "confidence": 0.95, "source": "image"}
+{"shot": 157, "t": 2029.6798000000001, "entity": "Al Roberts", "entity_kind": "person", "attribute": "holding", "value": "steering wheel", "confidence": 0.95, "source": "image"}
+{"shot": 158, "t": 2040.6468, "entity": "Vera", "entity_kind": "person", "attribute": "hair", "value": "shoulder-length wavy hair", "confidence": 0.95, "source": "image"}
+{"shot": 158, "t": 2040.6468, "entity": "Vera", "entity_kind": "person", "attribute": "wearing", "value": "light fuzzy coat", "confidence": 0.9, "source": "image"}
+{"shot": 159, "t": 2056.1534, "entity": "Vera", "entity_kind": "person", "attribute": "position", "value": "passenger seat", "confidence": 0.95, "source": "image"}
+{"shot": 159, "t": 2056.1534, "entity": "Al Roberts", "entity_kind": "person", "attribute": "position", "value": "driver seat", "confidence": 0.95, "source": "image"}
+{"shot": 159, "t": 2056.1534, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 159, "t": 2056.1534, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark necktie", "confidence": 0.9, "source": "image"}
+{"shot": 159, "t": 2056.1534, "entity": "Al Roberts", "entity_kind": "person", "attribute": "holding", "value": "steering wheel", "confidence": 0.95, "source": "image"}
+{"shot": 159, "t": 2056.1534, "entity": "convertible car", "entity_kind": "vehicle", "attribute": "vehicle_state", "value": "open top", "confidence": 0.9, "source": "image"}
+{"shot": 160, "t": 2072.0798, "entity": "Al Roberts", "entity_kind": "person", "attribute": "accessory", "value": "dark fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 160, "t": 2072.0798, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "patterned suit jacket", "confidence": 0.95, "source": "image"}
+{"shot": 160, "t": 2072.0798, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "light dress shirt", "confidence": 0.95, "source": "image"}
+{"shot": 160, "t": 2072.0798, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark necktie", "confidence": 0.95, "source": "image"}
+{"shot": 160, "t": 2072.0798, "entity": "Al Roberts", "entity_kind": "person", "attribute": "holding", "value": "steering wheel", "confidence": 0.9, "source": "image"}
+{"shot": 160, "t": 2072.0798, "entity": "Vera", "entity_kind": "person", "attribute": "wearing", "value": "light patterned blouse", "confidence": 0.95, "source": "image"}
+{"shot": 160, "t": 2072.0798, "entity": "Vera", "entity_kind": "person", "attribute": "accessory", "value": "round brooch on collar", "confidence": 0.9, "source": "image"}
+{"shot": 161, "t": 2093.0932, "entity": "Al Roberts", "entity_kind": "person", "attribute": "accessory", "value": "dark fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 161, "t": 2093.0932, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "patterned suit jacket", "confidence": 0.95, "source": "image"}
+{"shot": 161, "t": 2093.0932, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark necktie", "confidence": 0.95, "source": "image"}
+{"shot": 161, "t": 2093.0932, "entity": "Vera", "entity_kind": "person", "attribute": "position", "value": "reclined back with eyes closed", "confidence": 0.95, "source": "image"}
+{"shot": 161, "t": 2093.0932, "entity": "Vera", "entity_kind": "person", "attribute": "wearing", "value": "light patterned blouse", "confidence": 0.95, "source": "image"}
+{"shot": 162, "t": 2111.853, "entity": "Al Roberts", "entity_kind": "person", "attribute": "accessory", "value": "dark fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 162, "t": 2111.853, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "patterned suit jacket", "confidence": 0.95, "source": "image"}
+{"shot": 162, "t": 2111.853, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark necktie", "confidence": 0.95, "source": "image"}
+{"shot": 162, "t": 2111.853, "entity": "Vera", "entity_kind": "person", "attribute": "position", "value": "reclined back with eyes closed", "confidence": 0.95, "source": "image"}
+{"shot": 162, "t": 2111.853, "entity": "Vera", "entity_kind": "person", "attribute": "wearing", "value": "light patterned blouse", "confidence": 0.95, "source": "image"}
+{"shot": 163, "t": 2125.1666, "entity": "Al Roberts", "entity_kind": "person", "attribute": "accessory", "value": "dark fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 163, "t": 2125.1666, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "patterned suit jacket", "confidence": 0.95, "source": "image"}
+{"shot": 163, "t": 2125.1666, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark necktie", "confidence": 0.95, "source": "image"}
+{"shot": 163, "t": 2125.1666, "entity": "Vera", "entity_kind": "person", "attribute": "position", "value": "reclined back with eyes closed", "confidence": 0.95, "source": "image"}
+{"shot": 163, "t": 2125.1666, "entity": "Vera", "entity_kind": "person", "attribute": "wearing", "value": "light patterned blouse", "confidence": 0.95, "source": "image"}
+{"shot": 164, "t": 2131.8602, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 164, "t": 2131.8602, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "patterned suit jacket", "confidence": 0.95, "source": "image"}
+{"shot": 164, "t": 2131.8602, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark tie", "confidence": 0.95, "source": "image"}
+{"shot": 164, "t": 2131.8602, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "light collared shirt", "confidence": 0.9, "source": "image"}
+{"shot": 164, "t": 2131.8602, "entity": "Al Roberts", "entity_kind": "person", "attribute": "position", "value": "sitting in the driver seat", "confidence": 0.9, "source": "image"}
+{"shot": 164, "t": 2131.8602, "entity": "Vera", "entity_kind": "person", "attribute": "wearing", "value": "light blouse", "confidence": 0.9, "source": "image"}
+{"shot": 164, "t": 2131.8602, "entity": "Vera", "entity_kind": "person", "attribute": "position", "value": "leaning back in the passenger seat with eyes closed", "confidence": 0.9, "source": "image"}
+{"shot": 165, "t": 2140.0468, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 165, "t": 2140.0468, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "patterned suit jacket", "confidence": 0.95, "source": "image"}
+{"shot": 165, "t": 2140.0468, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark tie", "confidence": 0.95, "source": "image"}
+{"shot": 165, "t": 2140.0468, "entity": "Al Roberts", "entity_kind": "person", "attribute": "holding", "value": "steering wheel", "confidence": 0.9, "source": "image"}
+{"shot": 165, "t": 2140.0468, "entity": "Vera", "entity_kind": "person", "attribute": "wearing", "value": "light patterned blouse", "confidence": 0.9, "source": "image"}
+{"shot": 165, "t": 2140.0468, "entity": "Vera", "entity_kind": "person", "attribute": "position", "value": "leaning back in the passenger seat", "confidence": 0.9, "source": "image"}
+{"shot": 165, "t": 2140.0468, "entity": "convertible", "entity_kind": "vehicle", "attribute": "vehicle_state", "value": "convertible top down", "confidence": 0.95, "source": "image"}
+{"shot": 166, "t": 2156.5934, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 166, "t": 2156.5934, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "patterned suit jacket", "confidence": 0.95, "source": "image"}
+{"shot": 166, "t": 2156.5934, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark tie", "confidence": 0.95, "source": "image"}
+{"shot": 166, "t": 2156.5934, "entity": "Al Roberts", "entity_kind": "person", "attribute": "holding", "value": "steering wheel", "confidence": 0.9, "source": "image"}
+{"shot": 166, "t": 2156.5934, "entity": "Vera", "entity_kind": "person", "attribute": "wearing", "value": "light blouse", "confidence": 0.9, "source": "image"}
+{"shot": 166, "t": 2156.5934, "entity": "Vera", "entity_kind": "person", "attribute": "hair", "value": "medium-length wavy hair", "confidence": 0.9, "source": "image"}
+{"shot": 166, "t": 2156.5934, "entity": "Vera", "entity_kind": "person", "attribute": "position", "value": "sitting upright facing toward driver", "confidence": 0.9, "source": "image"}
+{"shot": 167, "t": 2175.693, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 167, "t": 2175.693, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "patterned suit jacket", "confidence": 0.9, "source": "image"}
+{"shot": 167, "t": 2175.693, "entity": "Al Roberts", "entity_kind": "person", "attribute": "holding", "value": "steering wheel", "confidence": 0.9, "source": "image"}
+{"shot": 167, "t": 2175.693, "entity": "Vera", "entity_kind": "person", "attribute": "wearing", "value": "light top", "confidence": 0.9, "source": "image"}
+{"shot": 167, "t": 2175.693, "entity": "Vera", "entity_kind": "person", "attribute": "hair", "value": "shoulder-length wavy hair", "confidence": 0.9, "source": "image"}
+{"shot": 167, "t": 2175.693, "entity": "convertible", "entity_kind": "vehicle", "attribute": "vehicle_state", "value": "convertible top down", "confidence": 0.95, "source": "image"}
+{"shot": 168, "t": 2185.4266, "entity": "Vera", "entity_kind": "person", "attribute": "wearing", "value": "light lace-patterned jacket", "confidence": 0.95, "source": "image"}
+{"shot": 168, "t": 2185.4266, "entity": "Vera", "entity_kind": "person", "attribute": "holding", "value": "steering wheel", "confidence": 0.95, "source": "image"}
+{"shot": 168, "t": 2185.4266, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 168, "t": 2185.4266, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "patterned suit jacket", "confidence": 0.95, "source": "image"}
+{"shot": 168, "t": 2185.4266, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark tie", "confidence": 0.95, "source": "image"}
+{"shot": 168, "t": 2185.4266, "entity": "convertible car", "entity_kind": "vehicle", "attribute": "vehicle_state", "value": "top down", "confidence": 0.9, "source": "image"}
+{"shot": 169, "t": 2190.4934000000003, "entity": "Vera", "entity_kind": "person", "attribute": "wearing", "value": "light lace-patterned top", "confidence": 0.95, "source": "image"}
+{"shot": 169, "t": 2190.4934000000003, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 169, "t": 2190.4934000000003, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "patterned suit jacket", "confidence": 0.95, "source": "image"}
+{"shot": 169, "t": 2190.4934000000003, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark tie", "confidence": 0.95, "source": "image"}
+{"shot": 170, "t": 2195.1866, "entity": "Vera", "entity_kind": "person", "attribute": "wearing", "value": "light lace-patterned jacket", "confidence": 0.95, "source": "image"}
+{"shot": 170, "t": 2195.1866, "entity": "Vera", "entity_kind": "person", "attribute": "holding", "value": "steering wheel", "confidence": 0.95, "source": "image"}
+{"shot": 170, "t": 2195.1866, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 170, "t": 2195.1866, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "patterned suit jacket", "confidence": 0.95, "source": "image"}
+{"shot": 170, "t": 2195.1866, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark tie", "confidence": 0.95, "source": "image"}
+{"shot": 171, "t": 2208.167, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 171, "t": 2208.167, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "patterned jacket", "confidence": 0.95, "source": "image"}
+{"shot": 171, "t": 2208.167, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "open-collared shirt", "confidence": 0.95, "source": "image"}
+{"shot": 171, "t": 2208.167, "entity": "Al Roberts", "entity_kind": "person", "attribute": "facial_hair", "value": "stubble", "confidence": 0.9, "source": "image"}
+{"shot": 177, "t": 2224.1468, "entity": "car", "entity_kind": "vehicle", "attribute": "vehicle_state", "value": "moving on road", "confidence": 0.95, "source": "image"}
+{"shot": 177, "t": 2224.1468, "entity": "desert", "entity_kind": "location", "attribute": "time_of_day", "value": "daylight", "confidence": 0.95, "source": "image"}
+{"shot": 177, "t": 2224.1468, "entity": "desert", "entity_kind": "environment", "attribute": "weather", "value": "clear", "confidence": 0.9, "source": "image"}
+{"shot": 178, "t": 2228.3469999999998, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 178, "t": 2228.3469999999998, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "patterned suit jacket", "confidence": 0.95, "source": "image"}
+{"shot": 178, "t": 2228.3469999999998, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "collared shirt", "confidence": 0.95, "source": "image"}
+{"shot": 178, "t": 2228.3469999999998, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark tie", "confidence": 0.95, "source": "image"}
+{"shot": 178, "t": 2228.3469999999998, "entity": "Al Roberts", "entity_kind": "person", "attribute": "holding", "value": "steering wheel", "confidence": 0.95, "source": "image"}
+{"shot": 178, "t": 2228.3469999999998, "entity": "Al Roberts", "entity_kind": "person", "attribute": "position", "value": "driver seat", "confidence": 0.95, "source": "image"}
+{"shot": 178, "t": 2228.3469999999998, "entity": "Vera", "entity_kind": "person", "attribute": "wearing", "value": "light patterned cardigan", "confidence": 0.95, "source": "image"}
+{"shot": 178, "t": 2228.3469999999998, "entity": "Vera", "entity_kind": "person", "attribute": "wearing", "value": "light collared blouse", "confidence": 0.95, "source": "image"}
+{"shot": 178, "t": 2228.3469999999998, "entity": "Vera", "entity_kind": "person", "attribute": "hair", "value": "shoulder-length wavy hair", "confidence": 0.95, "source": "image"}
+{"shot": 178, "t": 2228.3469999999998, "entity": "Vera", "entity_kind": "person", "attribute": "position", "value": "front passenger seat", "confidence": 0.95, "source": "image"}
+{"shot": 178, "t": 2228.3469999999998, "entity": "car", "entity_kind": "vehicle", "attribute": "vehicle_state", "value": "convertible top open", "confidence": 0.95, "source": "image"}
+{"shot": 179, "t": 2236.3134, "entity": "Vera", "entity_kind": "person", "attribute": "wearing", "value": "light patterned cardigan", "confidence": 0.95, "source": "image"}
+{"shot": 179, "t": 2236.3134, "entity": "Vera", "entity_kind": "person", "attribute": "wearing", "value": "light collared blouse with bow ribbon", "confidence": 0.95, "source": "image"}
+{"shot": 179, "t": 2236.3134, "entity": "Vera", "entity_kind": "person", "attribute": "hair", "value": "wavy hair", "confidence": 0.95, "source": "image"}
+{"shot": 179, "t": 2236.3134, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "fedora hat with dark band", "confidence": 0.95, "source": "image"}
+{"shot": 179, "t": 2236.3134, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "patterned suit jacket", "confidence": 0.95, "source": "image"}
+{"shot": 179, "t": 2236.3134, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark tie", "confidence": 0.95, "source": "image"}
+{"shot": 179, "t": 2236.3134, "entity": "Al Roberts", "entity_kind": "person", "attribute": "holding", "value": "steering wheel", "confidence": 0.95, "source": "image"}
+{"shot": 180, "t": 2246.9998, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "fedora hat with dark band", "confidence": 0.95, "source": "image"}
+{"shot": 180, "t": 2246.9998, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "patterned suit jacket", "confidence": 0.95, "source": "image"}
+{"shot": 180, "t": 2246.9998, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "collared shirt", "confidence": 0.95, "source": "image"}
+{"shot": 180, "t": 2246.9998, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark tie", "confidence": 0.95, "source": "image"}
+{"shot": 180, "t": 2246.9998, "entity": "Al Roberts", "entity_kind": "person", "attribute": "holding", "value": "steering wheel", "confidence": 0.95, "source": "image"}
+{"shot": 180, "t": 2246.9998, "entity": "Vera", "entity_kind": "person", "attribute": "wearing", "value": "light patterned cardigan", "confidence": 0.95, "source": "image"}
+{"shot": 180, "t": 2246.9998, "entity": "Vera", "entity_kind": "person", "attribute": "hair", "value": "wavy dark hair", "confidence": 0.95, "source": "image"}
+{"shot": 185, "t": 2333.1866, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 185, "t": 2333.1866, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark tie", "confidence": 0.95, "source": "image"}
+{"shot": 185, "t": 2333.1866, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "suit jacket", "confidence": 0.9, "source": "image"}
+{"shot": 185, "t": 2333.1866, "entity": "Al Roberts", "entity_kind": "person", "attribute": "holding", "value": "steering wheel", "confidence": 0.95, "source": "image"}
+{"shot": 185, "t": 2333.1866, "entity": "Al Roberts", "entity_kind": "person", "attribute": "position", "value": "driver seat", "confidence": 0.95, "source": "image"}
+{"shot": 185, "t": 2333.1866, "entity": "Sue Harvey", "entity_kind": "person", "attribute": "wearing", "value": "light patterned sweater", "confidence": 0.9, "source": "image"}
+{"shot": 185, "t": 2333.1866, "entity": "Sue Harvey", "entity_kind": "person", "attribute": "wearing", "value": "collared blouse", "confidence": 0.9, "source": "image"}
+{"shot": 185, "t": 2333.1866, "entity": "Sue Harvey", "entity_kind": "person", "attribute": "position", "value": "passenger seat", "confidence": 0.95, "source": "image"}
+{"shot": 185, "t": 2333.1866, "entity": "convertible car", "entity_kind": "vehicle", "attribute": "vehicle_state", "value": "open top", "confidence": 0.95, "source": "image"}
+{"shot": 186, "t": 2351.5934, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 186, "t": 2351.5934, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark tie", "confidence": 0.95, "source": "image"}
+{"shot": 186, "t": 2351.5934, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "suit jacket", "confidence": 0.9, "source": "image"}
+{"shot": 186, "t": 2351.5934, "entity": "Al Roberts", "entity_kind": "person", "attribute": "holding", "value": "steering wheel", "confidence": 0.95, "source": "image"}
+{"shot": 186, "t": 2351.5934, "entity": "Al Roberts", "entity_kind": "person", "attribute": "position", "value": "driver seat", "confidence": 0.95, "source": "image"}
+{"shot": 186, "t": 2351.5934, "entity": "Sue Harvey", "entity_kind": "person", "attribute": "wearing", "value": "light patterned sweater", "confidence": 0.9, "source": "image"}
+{"shot": 186, "t": 2351.5934, "entity": "Sue Harvey", "entity_kind": "person", "attribute": "wearing", "value": "collared blouse with neck tie ribbon", "confidence": 0.9, "source": "image"}
+{"shot": 186, "t": 2351.5934, "entity": "Sue Harvey", "entity_kind": "person", "attribute": "position", "value": "passenger seat", "confidence": 0.95, "source": "image"}
+{"shot": 187, "t": 2375.333, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 187, "t": 2375.333, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark tie", "confidence": 0.95, "source": "image"}
+{"shot": 187, "t": 2375.333, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "suit jacket", "confidence": 0.9, "source": "image"}
+{"shot": 187, "t": 2375.333, "entity": "Al Roberts", "entity_kind": "person", "attribute": "holding", "value": "steering wheel", "confidence": 0.95, "source": "image"}
+{"shot": 187, "t": 2375.333, "entity": "Sue Harvey", "entity_kind": "person", "attribute": "wearing", "value": "light patterned sweater", "confidence": 0.9, "source": "image"}
+{"shot": 187, "t": 2375.333, "entity": "Sue Harvey", "entity_kind": "person", "attribute": "wearing", "value": "collared blouse", "confidence": 0.9, "source": "image"}
+{"shot": 187, "t": 2375.333, "entity": "Union Oil Co. building", "entity_kind": "location", "attribute": "location", "value": "background", "confidence": 0.9, "source": "image"}
+{"shot": 188, "t": 2386.3866, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 188, "t": 2386.3866, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark tie", "confidence": 0.95, "source": "image"}
+{"shot": 188, "t": 2386.3866, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "suit jacket", "confidence": 0.9, "source": "image"}
+{"shot": 188, "t": 2386.3866, "entity": "Al Roberts", "entity_kind": "person", "attribute": "holding", "value": "steering wheel", "confidence": 0.95, "source": "image"}
+{"shot": 188, "t": 2386.3866, "entity": "Al Roberts", "entity_kind": "person", "attribute": "position", "value": "driver seat", "confidence": 0.95, "source": "image"}
+{"shot": 188, "t": 2386.3866, "entity": "Sue Harvey", "entity_kind": "person", "attribute": "wearing", "value": "light patterned sweater", "confidence": 0.9, "source": "image"}
+{"shot": 188, "t": 2386.3866, "entity": "Sue Harvey", "entity_kind": "person", "attribute": "wearing", "value": "collared blouse", "confidence": 0.9, "source": "image"}
+{"shot": 188, "t": 2386.3866, "entity": "Sue Harvey", "entity_kind": "person", "attribute": "position", "value": "passenger seat", "confidence": 0.95, "source": "image"}
+{"shot": 189, "t": 2396.5534, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 189, "t": 2396.5534, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "plaid jacket", "confidence": 0.95, "source": "image"}
+{"shot": 189, "t": 2396.5534, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark tie", "confidence": 0.95, "source": "image"}
+{"shot": 189, "t": 2396.5534, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "light dress shirt", "confidence": 0.9, "source": "image"}
+{"shot": 189, "t": 2396.5534, "entity": "Al Roberts", "entity_kind": "person", "attribute": "holding", "value": "car steering wheel", "confidence": 0.9, "source": "image"}
+{"shot": 189, "t": 2396.5534, "entity": "Ann", "entity_kind": "person", "attribute": "wearing", "value": "light patterned cardigan with wide collar", "confidence": 0.95, "source": "image"}
+{"shot": 189, "t": 2396.5534, "entity": "car", "entity_kind": "vehicle", "attribute": "vehicle_state", "value": "convertible top down", "confidence": 0.95, "source": "image"}
+{"shot": 190, "t": 2445.0798, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 190, "t": 2445.0798, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "plaid jacket", "confidence": 0.95, "source": "image"}
+{"shot": 190, "t": 2445.0798, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark tie", "confidence": 0.95, "source": "image"}
+{"shot": 190, "t": 2445.0798, "entity": "Al Roberts", "entity_kind": "person", "attribute": "holding", "value": "car steering wheel", "confidence": 0.95, "source": "image"}
+{"shot": 190, "t": 2445.0798, "entity": "Ann", "entity_kind": "person", "attribute": "wearing", "value": "light patterned cardigan", "confidence": 0.95, "source": "image"}
+{"shot": 190, "t": 2445.0798, "entity": "car", "entity_kind": "vehicle", "attribute": "vehicle_state", "value": "convertible top down", "confidence": 0.95, "source": "image"}
+{"shot": 191, "t": 2519.3332, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 191, "t": 2519.3332, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "plaid jacket", "confidence": 0.95, "source": "image"}
+{"shot": 191, "t": 2519.3332, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark tie", "confidence": 0.95, "source": "image"}
+{"shot": 191, "t": 2519.3332, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "light dress shirt", "confidence": 0.9, "source": "image"}
+{"shot": 191, "t": 2519.3332, "entity": "Ann", "entity_kind": "person", "attribute": "wearing", "value": "light patterned cardigan", "confidence": 0.95, "source": "image"}
+{"shot": 191, "t": 2519.3332, "entity": "Ann", "entity_kind": "person", "attribute": "wearing", "value": "dark skirt", "confidence": 0.95, "source": "image"}
+{"shot": 191, "t": 2519.3332, "entity": "Ann", "entity_kind": "person", "attribute": "hair", "value": "shoulder-length wavy hair", "confidence": 0.9, "source": "image"}
+{"shot": 192, "t": 2543.693, "entity": "Ann", "entity_kind": "person", "attribute": "wearing", "value": "light cardigan", "confidence": 0.9, "source": "image"}
+{"shot": 192, "t": 2543.693, "entity": "Ann", "entity_kind": "person", "attribute": "wearing", "value": "dark skirt", "confidence": 0.9, "source": "image"}
+{"shot": 192, "t": 2543.693, "entity": "Ann", "entity_kind": "person", "attribute": "position", "value": "standing in doorway", "confidence": 0.95, "source": "image"}
+{"shot": 192, "t": 2543.693, "entity": "wall sconce lights", "entity_kind": "prop", "attribute": "prop_state", "value": "lit", "confidence": 0.95, "source": "image"}
+{"shot": 192, "t": 2543.693, "entity": "telephone", "entity_kind": "prop", "attribute": "position", "value": "on side table", "confidence": 0.95, "source": "image"}
+{"shot": 193, "t": 2556.813, "entity": "Vera", "entity_kind": "person", "attribute": "wearing", "value": "light bathrobe", "confidence": 0.95, "source": "image"}
+{"shot": 193, "t": 2556.813, "entity": "Vera", "entity_kind": "person", "attribute": "wearing", "value": "dark top", "confidence": 0.9, "source": "image"}
+{"shot": 193, "t": 2556.813, "entity": "Vera", "entity_kind": "person", "attribute": "accessory", "value": "patterned headscarf", "confidence": 0.95, "source": "image"}
+{"shot": 193, "t": 2556.813, "entity": "Vera", "entity_kind": "person", "attribute": "holding", "value": "cigarette", "confidence": 0.95, "source": "image"}
+{"shot": 193, "t": 2556.813, "entity": "Vera", "entity_kind": "person", "attribute": "position", "value": "reclining on sofa", "confidence": 0.95, "source": "image"}
+{"shot": 194, "t": 2563.3998, "entity": "the man", "entity_kind": "person", "attribute": "wearing", "value": "light long-sleeved shirt", "confidence": 0.95, "source": "image"}
+{"shot": 194, "t": 2563.3998, "entity": "the man", "entity_kind": "person", "attribute": "wearing", "value": "dark trousers", "confidence": 0.95, "source": "image"}
+{"shot": 194, "t": 2563.3998, "entity": "the man", "entity_kind": "person", "attribute": "accessory", "value": "belt", "confidence": 0.9, "source": "image"}
+{"shot": 194, "t": 2563.3998, "entity": "the man", "entity_kind": "person", "attribute": "position", "value": "standing with back to camera", "confidence": 0.95, "source": "image"}
+{"shot": 194, "t": 2563.3998, "entity": "the man", "entity_kind": "person", "attribute": "holding", "value": "venetian blinds", "confidence": 0.9, "source": "image"}
+{"shot": 195, "t": 2572.88, "entity": "Vera", "entity_kind": "person", "attribute": "wearing", "value": "light bathrobe", "confidence": 0.95, "source": "image"}
+{"shot": 195, "t": 2572.88, "entity": "Vera", "entity_kind": "person", "attribute": "wearing", "value": "dark top", "confidence": 0.9, "source": "image"}
+{"shot": 195, "t": 2572.88, "entity": "Vera", "entity_kind": "person", "attribute": "accessory", "value": "patterned headscarf", "confidence": 0.95, "source": "image"}
+{"shot": 195, "t": 2572.88, "entity": "Vera", "entity_kind": "person", "attribute": "position", "value": "reclining on sofa", "confidence": 0.95, "source": "image"}
+{"shot": 196, "t": 2582.4468, "entity": "Vera", "entity_kind": "person", "attribute": "wearing", "value": "light bathrobe", "confidence": 0.95, "source": "image"}
+{"shot": 196, "t": 2582.4468, "entity": "Vera", "entity_kind": "person", "attribute": "wearing", "value": "dark top", "confidence": 0.9, "source": "image"}
+{"shot": 196, "t": 2582.4468, "entity": "Vera", "entity_kind": "person", "attribute": "accessory", "value": "patterned headscarf", "confidence": 0.95, "source": "image"}
+{"shot": 196, "t": 2582.4468, "entity": "Vera", "entity_kind": "person", "attribute": "position", "value": "sitting on sofa", "confidence": 0.95, "source": "image"}
+{"shot": 197, "t": 2590.887, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "white dress shirt", "confidence": 0.95, "source": "image"}
+{"shot": 197, "t": 2590.887, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark belt", "confidence": 0.95, "source": "image"}
+{"shot": 197, "t": 2590.887, "entity": "Al Roberts", "entity_kind": "person", "attribute": "hair", "value": "short dark hair", "confidence": 0.95, "source": "image"}
+{"shot": 197, "t": 2590.887, "entity": "Al Roberts", "entity_kind": "person", "attribute": "position", "value": "standing with back to camera near window", "confidence": 0.9, "source": "image"}
+{"shot": 198, "t": 2599.427, "entity": "Vera", "entity_kind": "person", "attribute": "wearing", "value": "light plush bathrobe", "confidence": 0.95, "source": "image"}
+{"shot": 198, "t": 2599.427, "entity": "Vera", "entity_kind": "person", "attribute": "accessory", "value": "patterned headscarf", "confidence": 0.95, "source": "image"}
+{"shot": 198, "t": 2599.427, "entity": "Vera", "entity_kind": "person", "attribute": "position", "value": "reclining on floral sofa", "confidence": 0.9, "source": "image"}
+{"shot": 199, "t": 2606.987, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "white dress shirt with open unbuttoned collar", "confidence": 0.95, "source": "image"}
+{"shot": 199, "t": 2606.987, "entity": "Al Roberts", "entity_kind": "person", "attribute": "hair", "value": "short dark wavy hair", "confidence": 0.95, "source": "image"}
+{"shot": 199, "t": 2606.987, "entity": "Al Roberts", "entity_kind": "person", "attribute": "facial_hair", "value": "clean-shaven", "confidence": 0.95, "source": "image"}
+{"shot": 200, "t": 2616.8269999999998, "entity": "Vera", "entity_kind": "person", "attribute": "wearing", "value": "light plush bathrobe", "confidence": 0.95, "source": "image"}
+{"shot": 200, "t": 2616.8269999999998, "entity": "Vera", "entity_kind": "person", "attribute": "accessory", "value": "patterned headscarf", "confidence": 0.95, "source": "image"}
+{"shot": 200, "t": 2616.8269999999998, "entity": "Vera", "entity_kind": "person", "attribute": "position", "value": "seated on floral patterned sofa", "confidence": 0.9, "source": "image"}
+{"shot": 201, "t": 2626.887, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "light dress shirt with rolled sleeves", "confidence": 0.95, "source": "image"}
+{"shot": 201, "t": 2626.887, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark trousers", "confidence": 0.95, "source": "image"}
+{"shot": 201, "t": 2626.887, "entity": "Al Roberts", "entity_kind": "person", "attribute": "position", "value": "standing leaning forward", "confidence": 0.9, "source": "image"}
+{"shot": 201, "t": 2626.887, "entity": "Vera", "entity_kind": "person", "attribute": "wearing", "value": "light bathrobe", "confidence": 0.95, "source": "image"}
+{"shot": 201, "t": 2626.887, "entity": "Vera", "entity_kind": "person", "attribute": "accessory", "value": "patterned headscarf", "confidence": 0.95, "source": "image"}
+{"shot": 201, "t": 2626.887, "entity": "Vera", "entity_kind": "person", "attribute": "position", "value": "reclining on floral sofa", "confidence": 0.9, "source": "image"}
+{"shot": 201, "t": 2626.887, "entity": "liquor bottle", "entity_kind": "prop", "attribute": "prop_state", "value": "standing on table", "confidence": 0.9, "source": "image"}
+{"shot": 202, "t": 2634.2202, "entity": "Vera", "entity_kind": "person", "attribute": "wearing", "value": "light bathrobe", "confidence": 0.95, "source": "image"}
+{"shot": 202, "t": 2634.2202, "entity": "Vera", "entity_kind": "person", "attribute": "accessory", "value": "patterned headscarf", "confidence": 0.95, "source": "image"}
+{"shot": 202, "t": 2634.2202, "entity": "Vera", "entity_kind": "person", "attribute": "position", "value": "reclining against sofa armrest", "confidence": 0.9, "source": "image"}
+{"shot": 203, "t": 2659.32, "entity": "liquor bottle", "entity_kind": "prop", "attribute": "prop_state", "value": "uncapped", "confidence": 0.95, "source": "image"}
+{"shot": 203, "t": 2659.32, "entity": "liquor bottle", "entity_kind": "prop", "attribute": "prop_state", "value": "standing on table", "confidence": 0.95, "source": "image"}
+{"shot": 203, "t": 2659.32, "entity": "Al Roberts", "entity_kind": "person", "attribute": "position", "value": "standing behind table", "confidence": 0.85, "source": "image"}
+{"shot": 204, "t": 2690.0068, "entity": "Vera", "entity_kind": "person", "attribute": "wearing", "value": "light bathrobe", "confidence": 0.95, "source": "image"}
+{"shot": 204, "t": 2690.0068, "entity": "Vera", "entity_kind": "person", "attribute": "accessory", "value": "patterned headscarf", "confidence": 0.95, "source": "image"}
+{"shot": 204, "t": 2690.0068, "entity": "Vera", "entity_kind": "person", "attribute": "position", "value": "reclining on sofa", "confidence": 0.9, "source": "image"}
+{"shot": 205, "t": 2698.0202, "entity": "Al", "entity_kind": "person", "attribute": "wearing", "value": "light open-collar shirt", "confidence": 0.95, "source": "image"}
+{"shot": 205, "t": 2698.0202, "entity": "Al", "entity_kind": "person", "attribute": "wearing", "value": "dark plaid trousers", "confidence": 0.95, "source": "image"}
+{"shot": 205, "t": 2698.0202, "entity": "Al", "entity_kind": "person", "attribute": "wearing", "value": "dark belt", "confidence": 0.95, "source": "image"}
+{"shot": 205, "t": 2698.0202, "entity": "Al", "entity_kind": "person", "attribute": "position", "value": "standing", "confidence": 0.95, "source": "image"}
+{"shot": 206, "t": 2709.6268, "entity": "Vera", "entity_kind": "person", "attribute": "wearing", "value": "light bathrobe", "confidence": 0.95, "source": "image"}
+{"shot": 206, "t": 2709.6268, "entity": "Vera", "entity_kind": "person", "attribute": "accessory", "value": "patterned headscarf", "confidence": 0.9, "source": "image"}
+{"shot": 206, "t": 2709.6268, "entity": "Vera", "entity_kind": "person", "attribute": "position", "value": "reclining on sofa", "confidence": 0.95, "source": "image"}
+{"shot": 207, "t": 2716.8869999999997, "entity": "Al", "entity_kind": "person", "attribute": "wearing", "value": "light open-collar shirt", "confidence": 0.95, "source": "image"}
+{"shot": 207, "t": 2716.8869999999997, "entity": "Al", "entity_kind": "person", "attribute": "wearing", "value": "dark plaid trousers", "confidence": 0.95, "source": "image"}
+{"shot": 207, "t": 2716.8869999999997, "entity": "Al", "entity_kind": "person", "attribute": "wearing", "value": "dark belt", "confidence": 0.95, "source": "image"}
+{"shot": 207, "t": 2716.8869999999997, "entity": "Al", "entity_kind": "person", "attribute": "accessory", "value": "key chain hanging from waist", "confidence": 0.9, "source": "image"}
+{"shot": 207, "t": 2716.8869999999997, "entity": "Al", "entity_kind": "person", "attribute": "position", "value": "standing", "confidence": 0.95, "source": "image"}
+{"shot": 208, "t": 2725.0933999999997, "entity": "Vera", "entity_kind": "person", "attribute": "wearing", "value": "light bathrobe", "confidence": 0.95, "source": "image"}
+{"shot": 208, "t": 2725.0933999999997, "entity": "Vera", "entity_kind": "person", "attribute": "accessory", "value": "patterned headscarf", "confidence": 0.9, "source": "image"}
+{"shot": 208, "t": 2725.0933999999997, "entity": "Vera", "entity_kind": "person", "attribute": "position", "value": "reclining on sofa", "confidence": 0.95, "source": "image"}
+{"shot": 209, "t": 2778.1666, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "light collared shirt with open neck", "confidence": 0.95, "source": "image"}
+{"shot": 209, "t": 2778.1666, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark trousers", "confidence": 0.95, "source": "image"}
+{"shot": 209, "t": 2778.1666, "entity": "Al Roberts", "entity_kind": "person", "attribute": "position", "value": "seated on the edge of an upholstered chair", "confidence": 0.9, "source": "image"}
+{"shot": 209, "t": 2778.1666, "entity": "Vera", "entity_kind": "person", "attribute": "wearing", "value": "light bathrobe", "confidence": 0.95, "source": "image"}
+{"shot": 209, "t": 2778.1666, "entity": "Vera", "entity_kind": "person", "attribute": "accessory", "value": "headscarf wrapped around hair", "confidence": 0.9, "source": "image"}
+{"shot": 209, "t": 2778.1666, "entity": "Vera", "entity_kind": "person", "attribute": "position", "value": "reclining on sofa", "confidence": 0.95, "source": "image"}
+{"shot": 210, "t": 2857.8002, "entity": "Vera", "entity_kind": "person", "attribute": "wearing", "value": "light bathrobe", "confidence": 0.95, "source": "image"}
+{"shot": 210, "t": 2857.8002, "entity": "Vera", "entity_kind": "person", "attribute": "position", "value": "standing near window with arms crossed", "confidence": 0.95, "source": "image"}
+{"shot": 210, "t": 2857.8002, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "light collared shirt with open neck", "confidence": 0.95, "source": "image"}
+{"shot": 210, "t": 2857.8002, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark trousers", "confidence": 0.95, "source": "image"}
+{"shot": 210, "t": 2857.8002, "entity": "Al Roberts", "entity_kind": "person", "attribute": "position", "value": "standing facing Vera", "confidence": 0.95, "source": "image"}
+{"shot": 211, "t": 2878.1468, "entity": "Vera", "entity_kind": "person", "attribute": "wearing", "value": "light bathrobe", "confidence": 0.95, "source": "image"}
+{"shot": 211, "t": 2878.1468, "entity": "Vera", "entity_kind": "person", "attribute": "position", "value": "standing near window turning away", "confidence": 0.9, "source": "image"}
+{"shot": 211, "t": 2878.1468, "entity": "fedora", "entity_kind": "prop", "attribute": "prop_state", "value": "resting on table in foreground", "confidence": 0.9, "source": "image"}
+{"shot": 212, "t": 2889.9934, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "light collared shirt with open neck", "confidence": 0.95, "source": "image"}
+{"shot": 212, "t": 2889.9934, "entity": "Al Roberts", "entity_kind": "person", "attribute": "position", "value": "seated holding hand to left cheek", "confidence": 0.95, "source": "image"}
+{"shot": 212, "t": 2889.9934, "entity": "Vera", "entity_kind": "person", "attribute": "wearing", "value": "light bathrobe", "confidence": 0.95, "source": "image"}
+{"shot": 212, "t": 2889.9934, "entity": "Vera", "entity_kind": "person", "attribute": "position", "value": "standing beside Al Roberts with hand on his shoulder", "confidence": 0.95, "source": "image"}
+{"shot": 213, "t": 2919.3666000000003, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "light open-collar shirt", "confidence": 0.95, "source": "image"}
+{"shot": 213, "t": 2919.3666000000003, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "trousers with chain", "confidence": 0.9, "source": "image"}
+{"shot": 213, "t": 2919.3666000000003, "entity": "Al Roberts", "entity_kind": "person", "attribute": "hair", "value": "short dark wavy hair", "confidence": 0.95, "source": "image"}
+{"shot": 213, "t": 2919.3666000000003, "entity": "Al Roberts", "entity_kind": "person", "attribute": "position", "value": "standing near doorway", "confidence": 0.9, "source": "image"}
+{"shot": 214, "t": 2950.3602, "entity": "the woman", "entity_kind": "person", "attribute": "wearing", "value": "light robe", "confidence": 0.95, "source": "image"}
+{"shot": 214, "t": 2950.3602, "entity": "the woman", "entity_kind": "person", "attribute": "hair", "value": "shoulder-length wavy hair", "confidence": 0.9, "source": "image"}
+{"shot": 214, "t": 2950.3602, "entity": "the woman", "entity_kind": "person", "attribute": "position", "value": "seated on edge of bed", "confidence": 0.9, "source": "image"}
+{"shot": 215, "t": 2959.5332, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "light shirt with rolled sleeves", "confidence": 0.95, "source": "image"}
+{"shot": 215, "t": 2959.5332, "entity": "Al Roberts", "entity_kind": "person", "attribute": "hair", "value": "short dark wavy hair", "confidence": 0.95, "source": "image"}
+{"shot": 215, "t": 2959.5332, "entity": "Al Roberts", "entity_kind": "person", "attribute": "position", "value": "seated at table leaning forward", "confidence": 0.9, "source": "image"}
+{"shot": 216, "t": 2969.5865999999996, "entity": "the blonde woman", "entity_kind": "person", "attribute": "wearing", "value": "light lace-trimmed blouse", "confidence": 0.95, "source": "image"}
+{"shot": 216, "t": 2969.5865999999996, "entity": "the blonde woman", "entity_kind": "person", "attribute": "hair", "value": "blonde curly hair", "confidence": 0.95, "source": "image"}
+{"shot": 216, "t": 2969.5865999999996, "entity": "the blonde woman", "entity_kind": "person", "attribute": "holding", "value": "telephone receiver", "confidence": 0.95, "source": "image"}
+{"shot": 216, "t": 2969.5865999999996, "entity": "the blonde woman", "entity_kind": "person", "attribute": "accessory", "value": "bracelet on left wrist", "confidence": 0.9, "source": "image"}
+{"shot": 216, "t": 2969.5865999999996, "entity": "the blonde woman", "entity_kind": "person", "attribute": "position", "value": "seated in floral armchair", "confidence": 0.9, "source": "image"}
+{"shot": 217, "t": 2985.8202, "entity": "Al Roberts", "entity_kind": "person", "attribute": "hair", "value": "dark wavy hair", "confidence": 0.95, "source": "image"}
+{"shot": 217, "t": 2985.8202, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "open-collar light shirt", "confidence": 0.95, "source": "image"}
+{"shot": 217, "t": 2985.8202, "entity": "Al Roberts", "entity_kind": "person", "attribute": "facial_hair", "value": "clean-shaven", "confidence": 0.95, "source": "image"}
+{"shot": 220, "t": 3011.953, "entity": "Vera", "entity_kind": "person", "attribute": "wearing", "value": "dark long-sleeved dress", "confidence": 0.95, "source": "image"}
+{"shot": 220, "t": 3011.953, "entity": "Vera", "entity_kind": "person", "attribute": "hair", "value": "curly styled hair", "confidence": 0.95, "source": "image"}
+{"shot": 220, "t": 3011.953, "entity": "Vera", "entity_kind": "person", "attribute": "holding", "value": "powder puff", "confidence": 0.9, "source": "image"}
+{"shot": 220, "t": 3011.953, "entity": "Vera", "entity_kind": "person", "attribute": "accessory", "value": "decorative brooch on dress", "confidence": 0.9, "source": "image"}
+{"shot": 220, "t": 3011.953, "entity": "Vera", "entity_kind": "person", "attribute": "position", "value": "seated at vanity table", "confidence": 0.95, "source": "image"}
+{"shot": 228, "t": 3054.2668, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 228, "t": 3054.2668, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "light suit jacket", "confidence": 0.95, "source": "image"}
+{"shot": 228, "t": 3054.2668, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "collared shirt with dark tie", "confidence": 0.95, "source": "image"}
+{"shot": 228, "t": 3054.2668, "entity": "Al Roberts", "entity_kind": "person", "attribute": "holding", "value": "steering wheel", "confidence": 0.95, "source": "image"}
+{"shot": 228, "t": 3054.2668, "entity": "Vera", "entity_kind": "person", "attribute": "wearing", "value": "dark dress", "confidence": 0.95, "source": "image"}
+{"shot": 228, "t": 3054.2668, "entity": "Vera", "entity_kind": "person", "attribute": "accessory", "value": "earrings", "confidence": 0.9, "source": "image"}
+{"shot": 228, "t": 3054.2668, "entity": "convertible car", "entity_kind": "vehicle", "attribute": "vehicle_state", "value": "top down", "confidence": 0.95, "source": "image"}
+{"shot": 230, "t": 3105.8332, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 230, "t": 3105.8332, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "light suit jacket", "confidence": 0.95, "source": "image"}
+{"shot": 230, "t": 3105.8332, "entity": "convertible car", "entity_kind": "vehicle", "attribute": "vehicle_state", "value": "top down", "confidence": 0.95, "source": "image"}
+{"shot": 230, "t": 3105.8332, "entity": "car lot sign", "entity_kind": "prop", "attribute": "prop_state", "value": "reads CASH FOR YOUR CAR", "confidence": 0.95, "source": "image"}
+{"shot": 232, "t": 3107.66, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "light fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 232, "t": 3107.66, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "light suit jacket", "confidence": 0.95, "source": "image"}
+{"shot": 232, "t": 3107.66, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "trousers", "confidence": 0.95, "source": "image"}
+{"shot": 232, "t": 3107.66, "entity": "Vera", "entity_kind": "person", "attribute": "position", "value": "seated in convertible car", "confidence": 0.95, "source": "image"}
+{"shot": 232, "t": 3107.66, "entity": "white convertible", "entity_kind": "vehicle", "attribute": "vehicle_state", "value": "top down", "confidence": 0.95, "source": "image"}
+{"shot": 233, "t": 3110.72, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "light fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 233, "t": 3110.72, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "patterned suit jacket", "confidence": 0.95, "source": "image"}
+{"shot": 233, "t": 3110.72, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark tie", "confidence": 0.95, "source": "image"}
+{"shot": 233, "t": 3110.72, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "collared shirt", "confidence": 0.95, "source": "image"}
+{"shot": 233, "t": 3110.72, "entity": "Vera", "entity_kind": "person", "attribute": "wearing", "value": "dark V-neck top", "confidence": 0.95, "source": "image"}
+{"shot": 233, "t": 3110.72, "entity": "Vera", "entity_kind": "person", "attribute": "accessory", "value": "brooch at neckline", "confidence": 0.95, "source": "image"}
+{"shot": 233, "t": 3110.72, "entity": "Vera", "entity_kind": "person", "attribute": "accessory", "value": "earring", "confidence": 0.9, "source": "image"}
+{"shot": 233, "t": 3110.72, "entity": "Vera", "entity_kind": "person", "attribute": "hair", "value": "updo with curls", "confidence": 0.95, "source": "image"}
+{"shot": 234, "t": 3116.2731999999996, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "light fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 234, "t": 3116.2731999999996, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "patterned suit jacket", "confidence": 0.95, "source": "image"}
+{"shot": 234, "t": 3116.2731999999996, "entity": "Vera", "entity_kind": "person", "attribute": "wearing", "value": "dark top", "confidence": 0.95, "source": "image"}
+{"shot": 234, "t": 3116.2731999999996, "entity": "the used car dealer", "entity_kind": "person", "attribute": "wearing", "value": "light fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 234, "t": 3116.2731999999996, "entity": "the used car dealer", "entity_kind": "person", "attribute": "wearing", "value": "patterned suit jacket", "confidence": 0.95, "source": "image"}
+{"shot": 234, "t": 3116.2731999999996, "entity": "the used car dealer", "entity_kind": "person", "attribute": "facial_hair", "value": "mustache", "confidence": 0.95, "source": "image"}
+{"shot": 234, "t": 3116.2731999999996, "entity": "white convertible", "entity_kind": "vehicle", "attribute": "vehicle_state", "value": "top down", "confidence": 0.95, "source": "image"}
+{"shot": 235, "t": 3122.8866, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "light fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 235, "t": 3122.8866, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "patterned suit jacket", "confidence": 0.95, "source": "image"}
+{"shot": 235, "t": 3122.8866, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark tie", "confidence": 0.95, "source": "image"}
+{"shot": 235, "t": 3122.8866, "entity": "Vera", "entity_kind": "person", "attribute": "wearing", "value": "dark V-neck top", "confidence": 0.95, "source": "image"}
+{"shot": 235, "t": 3122.8866, "entity": "Vera", "entity_kind": "person", "attribute": "holding", "value": "cigarette", "confidence": 0.95, "source": "image"}
+{"shot": 235, "t": 3122.8866, "entity": "Vera", "entity_kind": "person", "attribute": "accessory", "value": "brooch at neckline", "confidence": 0.95, "source": "image"}
+{"shot": 235, "t": 3122.8866, "entity": "Vera", "entity_kind": "person", "attribute": "accessory", "value": "earring", "confidence": 0.9, "source": "image"}
+{"shot": 236, "t": 3128.7534, "entity": "the car salesman", "entity_kind": "person", "attribute": "wearing", "value": "fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 236, "t": 3128.7534, "entity": "the car salesman", "entity_kind": "person", "attribute": "wearing", "value": "light suit jacket", "confidence": 0.9, "source": "image"}
+{"shot": 236, "t": 3128.7534, "entity": "the car salesman", "entity_kind": "person", "attribute": "position", "value": "standing at the rear of the convertible", "confidence": 0.9, "source": "image"}
+{"shot": 236, "t": 3128.7534, "entity": "the convertible", "entity_kind": "vehicle", "attribute": "vehicle_state", "value": "top down", "confidence": 0.95, "source": "image"}
+{"shot": 236, "t": 3128.7534, "entity": "the car lot", "entity_kind": "location", "attribute": "location", "value": "outdoor car lot", "confidence": 0.95, "source": "image"}
+{"shot": 237, "t": 3135.8666000000003, "entity": "the car salesman", "entity_kind": "person", "attribute": "facial_hair", "value": "mustache", "confidence": 0.95, "source": "image"}
+{"shot": 237, "t": 3135.8666000000003, "entity": "the car salesman", "entity_kind": "person", "attribute": "wearing", "value": "houndstooth pattern jacket", "confidence": 0.95, "source": "image"}
+{"shot": 237, "t": 3135.8666000000003, "entity": "the car salesman", "entity_kind": "person", "attribute": "wearing", "value": "fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 237, "t": 3135.8666000000003, "entity": "the car salesman", "entity_kind": "person", "attribute": "wearing", "value": "dark tie", "confidence": 0.9, "source": "image"}
+{"shot": 237, "t": 3135.8666000000003, "entity": "the car salesman", "entity_kind": "person", "attribute": "accessory", "value": "light pocket square", "confidence": 0.95, "source": "image"}
+{"shot": 237, "t": 3135.8666000000003, "entity": "the woman", "entity_kind": "person", "attribute": "hair", "value": "curly styled hair", "confidence": 0.95, "source": "image"}
+{"shot": 237, "t": 3135.8666000000003, "entity": "the woman", "entity_kind": "person", "attribute": "wearing", "value": "dark top", "confidence": 0.95, "source": "image"}
+{"shot": 237, "t": 3135.8666000000003, "entity": "the male passenger", "entity_kind": "person", "attribute": "wearing", "value": "fedora hat with dark hatband", "confidence": 0.95, "source": "image"}
+{"shot": 237, "t": 3135.8666000000003, "entity": "the male passenger", "entity_kind": "person", "attribute": "wearing", "value": "patterned jacket", "confidence": 0.9, "source": "image"}
+{"shot": 238, "t": 3139.3802, "entity": "the woman", "entity_kind": "person", "attribute": "hair", "value": "curly styled hair", "confidence": 0.95, "source": "image"}
+{"shot": 238, "t": 3139.3802, "entity": "the woman", "entity_kind": "person", "attribute": "wearing", "value": "dark top", "confidence": 0.95, "source": "image"}
+{"shot": 238, "t": 3139.3802, "entity": "the woman", "entity_kind": "person", "attribute": "accessory", "value": "earring", "confidence": 0.9, "source": "image"}
+{"shot": 238, "t": 3139.3802, "entity": "the woman", "entity_kind": "person", "attribute": "position", "value": "seated at the steering wheel of the convertible", "confidence": 0.95, "source": "image"}
+{"shot": 238, "t": 3139.3802, "entity": "the male passenger", "entity_kind": "person", "attribute": "wearing", "value": "fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 238, "t": 3139.3802, "entity": "the male passenger", "entity_kind": "person", "attribute": "wearing", "value": "patterned jacket", "confidence": 0.9, "source": "image"}
+{"shot": 238, "t": 3139.3802, "entity": "the car salesman", "entity_kind": "person", "attribute": "wearing", "value": "houndstooth pattern jacket", "confidence": 0.95, "source": "image"}
+{"shot": 238, "t": 3139.3802, "entity": "the car salesman", "entity_kind": "person", "attribute": "wearing", "value": "fedora hat with ribbon band", "confidence": 0.95, "source": "image"}
+{"shot": 238, "t": 3139.3802, "entity": "the convertible", "entity_kind": "vehicle", "attribute": "vehicle_state", "value": "top down", "confidence": 0.95, "source": "image"}
+{"shot": 239, "t": 3148.02, "entity": "the car salesman", "entity_kind": "person", "attribute": "wearing", "value": "fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 239, "t": 3148.02, "entity": "the car salesman", "entity_kind": "person", "attribute": "facial_hair", "value": "mustache", "confidence": 0.9, "source": "image"}
+{"shot": 239, "t": 3148.02, "entity": "the male passenger", "entity_kind": "person", "attribute": "wearing", "value": "fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 239, "t": 3148.02, "entity": "the male passenger", "entity_kind": "person", "attribute": "position", "value": "seated inside the convertible", "confidence": 0.95, "source": "image"}
+{"shot": 239, "t": 3148.02, "entity": "the convertible", "entity_kind": "vehicle", "attribute": "vehicle_state", "value": "top down", "confidence": 0.95, "source": "image"}
+{"shot": 239, "t": 3148.02, "entity": "the car lot", "entity_kind": "location", "attribute": "location", "value": "outdoor car lot", "confidence": 0.95, "source": "image"}
+{"shot": 240, "t": 3159.26, "entity": "the man in the houndstooth jacket", "entity_kind": "person", "attribute": "wearing", "value": "fedora hat with dark band", "confidence": 0.95, "source": "image"}
+{"shot": 240, "t": 3159.26, "entity": "the man in the houndstooth jacket", "entity_kind": "person", "attribute": "wearing", "value": "houndstooth patterned jacket", "confidence": 0.95, "source": "image"}
+{"shot": 241, "t": 3168.7868, "entity": "the man in the grey suit", "entity_kind": "person", "attribute": "wearing", "value": "fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 241, "t": 3168.7868, "entity": "the man in the grey suit", "entity_kind": "person", "attribute": "wearing", "value": "suit jacket", "confidence": 0.95, "source": "image"}
+{"shot": 241, "t": 3168.7868, "entity": "the man in the houndstooth jacket", "entity_kind": "person", "attribute": "wearing", "value": "fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 241, "t": 3168.7868, "entity": "the man in the houndstooth jacket", "entity_kind": "person", "attribute": "wearing", "value": "houndstooth suit jacket", "confidence": 0.95, "source": "image"}
+{"shot": 241, "t": 3168.7868, "entity": "the woman in the convertible", "entity_kind": "person", "attribute": "position", "value": "sitting in the convertible", "confidence": 0.95, "source": "image"}
+{"shot": 241, "t": 3168.7868, "entity": "the woman in the convertible", "entity_kind": "person", "attribute": "hair", "value": "curly updo", "confidence": 0.9, "source": "image"}
+{"shot": 242, "t": 3181.8734, "entity": "the woman in the convertible", "entity_kind": "person", "attribute": "wearing", "value": "dark dress", "confidence": 0.95, "source": "image"}
+{"shot": 242, "t": 3181.8734, "entity": "the woman in the convertible", "entity_kind": "person", "attribute": "hair", "value": "curly updo", "confidence": 0.95, "source": "image"}
+{"shot": 242, "t": 3181.8734, "entity": "the woman in the convertible", "entity_kind": "person", "attribute": "accessory", "value": "earrings", "confidence": 0.9, "source": "image"}
+{"shot": 242, "t": 3181.8734, "entity": "the woman in the convertible", "entity_kind": "person", "attribute": "holding", "value": "wallet", "confidence": 0.9, "source": "image"}
+{"shot": 242, "t": 3181.8734, "entity": "the convertible", "entity_kind": "vehicle", "attribute": "vehicle_state", "value": "glove compartment open", "confidence": 0.95, "source": "image"}
+{"shot": 243, "t": 3193.4066, "entity": "the man in the houndstooth jacket", "entity_kind": "person", "attribute": "wearing", "value": "fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 243, "t": 3193.4066, "entity": "the man in the houndstooth jacket", "entity_kind": "person", "attribute": "wearing", "value": "houndstooth suit jacket", "confidence": 0.95, "source": "image"}
+{"shot": 243, "t": 3193.4066, "entity": "the man in the houndstooth jacket", "entity_kind": "person", "attribute": "facial_hair", "value": "mustache", "confidence": 0.9, "source": "image"}
+{"shot": 243, "t": 3193.4066, "entity": "the man in the houndstooth jacket", "entity_kind": "person", "attribute": "holding", "value": "paper", "confidence": 0.85, "source": "image"}
+{"shot": 243, "t": 3193.4066, "entity": "the man in the grey suit", "entity_kind": "person", "attribute": "wearing", "value": "fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 243, "t": 3193.4066, "entity": "the man in the grey suit", "entity_kind": "person", "attribute": "wearing", "value": "suit jacket", "confidence": 0.95, "source": "image"}
+{"shot": 244, "t": 3202.987, "entity": "the clean-shaven detective", "entity_kind": "person", "attribute": "wearing", "value": "fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 244, "t": 3202.987, "entity": "the clean-shaven detective", "entity_kind": "person", "attribute": "wearing", "value": "patterned suit jacket", "confidence": 0.95, "source": "image"}
+{"shot": 244, "t": 3202.987, "entity": "the clean-shaven detective", "entity_kind": "person", "attribute": "wearing", "value": "white collared shirt", "confidence": 0.95, "source": "image"}
+{"shot": 244, "t": 3202.987, "entity": "the clean-shaven detective", "entity_kind": "person", "attribute": "wearing", "value": "dark tie", "confidence": 0.95, "source": "image"}
+{"shot": 244, "t": 3202.987, "entity": "the clean-shaven detective", "entity_kind": "person", "attribute": "accessory", "value": "pocket square", "confidence": 0.9, "source": "image"}
+{"shot": 244, "t": 3202.987, "entity": "the clean-shaven detective", "entity_kind": "person", "attribute": "facial_hair", "value": "clean-shaven", "confidence": 0.95, "source": "image"}
+{"shot": 244, "t": 3202.987, "entity": "the clean-shaven detective", "entity_kind": "person", "attribute": "position", "value": "seated behind a desk", "confidence": 0.9, "source": "image"}
+{"shot": 245, "t": 3208.6133999999997, "entity": "the mustached detective", "entity_kind": "person", "attribute": "wearing", "value": "fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 245, "t": 3208.6133999999997, "entity": "the mustached detective", "entity_kind": "person", "attribute": "wearing", "value": "houndstooth suit jacket", "confidence": 0.95, "source": "image"}
+{"shot": 245, "t": 3208.6133999999997, "entity": "the mustached detective", "entity_kind": "person", "attribute": "wearing", "value": "light collared shirt", "confidence": 0.95, "source": "image"}
+{"shot": 245, "t": 3208.6133999999997, "entity": "the mustached detective", "entity_kind": "person", "attribute": "wearing", "value": "dark tie", "confidence": 0.95, "source": "image"}
+{"shot": 245, "t": 3208.6133999999997, "entity": "the mustached detective", "entity_kind": "person", "attribute": "accessory", "value": "pocket square", "confidence": 0.9, "source": "image"}
+{"shot": 245, "t": 3208.6133999999997, "entity": "the mustached detective", "entity_kind": "person", "attribute": "facial_hair", "value": "mustache", "confidence": 0.95, "source": "image"}
+{"shot": 245, "t": 3208.6133999999997, "entity": "the mustached detective", "entity_kind": "person", "attribute": "holding", "value": "paper document", "confidence": 0.95, "source": "image"}
+{"shot": 245, "t": 3208.6133999999997, "entity": "the mustached detective", "entity_kind": "person", "attribute": "position", "value": "seated behind a desk", "confidence": 0.9, "source": "image"}
+{"shot": 246, "t": 3215.9398, "entity": "the clean-shaven detective", "entity_kind": "person", "attribute": "wearing", "value": "fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 246, "t": 3215.9398, "entity": "the clean-shaven detective", "entity_kind": "person", "attribute": "wearing", "value": "patterned suit jacket", "confidence": 0.95, "source": "image"}
+{"shot": 246, "t": 3215.9398, "entity": "the clean-shaven detective", "entity_kind": "person", "attribute": "wearing", "value": "white collared shirt", "confidence": 0.95, "source": "image"}
+{"shot": 246, "t": 3215.9398, "entity": "the clean-shaven detective", "entity_kind": "person", "attribute": "wearing", "value": "dark tie", "confidence": 0.95, "source": "image"}
+{"shot": 246, "t": 3215.9398, "entity": "the clean-shaven detective", "entity_kind": "person", "attribute": "accessory", "value": "pocket square", "confidence": 0.9, "source": "image"}
+{"shot": 246, "t": 3215.9398, "entity": "the clean-shaven detective", "entity_kind": "person", "attribute": "facial_hair", "value": "clean-shaven", "confidence": 0.95, "source": "image"}
+{"shot": 246, "t": 3215.9398, "entity": "the clean-shaven detective", "entity_kind": "person", "attribute": "position", "value": "seated behind a desk", "confidence": 0.9, "source": "image"}
+{"shot": 247, "t": 3224.6132000000002, "entity": "the mustached detective", "entity_kind": "person", "attribute": "wearing", "value": "fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 247, "t": 3224.6132000000002, "entity": "the mustached detective", "entity_kind": "person", "attribute": "wearing", "value": "houndstooth suit jacket", "confidence": 0.95, "source": "image"}
+{"shot": 247, "t": 3224.6132000000002, "entity": "the mustached detective", "entity_kind": "person", "attribute": "position", "value": "seated at a desk", "confidence": 0.95, "source": "image"}
+{"shot": 247, "t": 3224.6132000000002, "entity": "the clean-shaven detective", "entity_kind": "person", "attribute": "wearing", "value": "fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 247, "t": 3224.6132000000002, "entity": "the clean-shaven detective", "entity_kind": "person", "attribute": "wearing", "value": "patterned suit jacket", "confidence": 0.95, "source": "image"}
+{"shot": 247, "t": 3224.6132000000002, "entity": "the clean-shaven detective", "entity_kind": "person", "attribute": "position", "value": "seated at a desk", "confidence": 0.95, "source": "image"}
+{"shot": 247, "t": 3224.6132000000002, "entity": "the female office worker", "entity_kind": "person", "attribute": "wearing", "value": "dark dress", "confidence": 0.9, "source": "image"}
+{"shot": 247, "t": 3224.6132000000002, "entity": "the female office worker", "entity_kind": "person", "attribute": "hair", "value": "curled hair", "confidence": 0.9, "source": "image"}
+{"shot": 247, "t": 3224.6132000000002, "entity": "the female office worker", "entity_kind": "person", "attribute": "holding", "value": "paper document", "confidence": 0.95, "source": "image"}
+{"shot": 247, "t": 3224.6132000000002, "entity": "the female office worker", "entity_kind": "person", "attribute": "position", "value": "standing near doorway", "confidence": 0.9, "source": "image"}
+{"shot": 252, "t": 3323.313, "entity": "the man in the fedora", "entity_kind": "person", "attribute": "wearing", "value": "fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 252, "t": 3323.313, "entity": "the man in the fedora", "entity_kind": "person", "attribute": "wearing", "value": "light patterned jacket", "confidence": 0.95, "source": "image"}
+{"shot": 252, "t": 3323.313, "entity": "the man in the fedora", "entity_kind": "person", "attribute": "position", "value": "sitting in the driver's seat", "confidence": 0.95, "source": "image"}
+{"shot": 252, "t": 3323.313, "entity": "the female passenger", "entity_kind": "person", "attribute": "wearing", "value": "dark coat", "confidence": 0.95, "source": "image"}
+{"shot": 252, "t": 3323.313, "entity": "the female passenger", "entity_kind": "person", "attribute": "hair", "value": "curly shoulder-length hair", "confidence": 0.95, "source": "image"}
+{"shot": 252, "t": 3323.313, "entity": "the carhop", "entity_kind": "person", "attribute": "wearing", "value": "uniform cap", "confidence": 0.95, "source": "image"}
+{"shot": 252, "t": 3323.313, "entity": "the carhop", "entity_kind": "person", "attribute": "wearing", "value": "short-sleeved shirt", "confidence": 0.95, "source": "image"}
+{"shot": 252, "t": 3323.313, "entity": "the convertible", "entity_kind": "vehicle", "attribute": "vehicle_state", "value": "open convertible top", "confidence": 0.95, "source": "image"}
+{"shot": 253, "t": 3330.253, "entity": "the man in the fedora", "entity_kind": "person", "attribute": "wearing", "value": "fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 253, "t": 3330.253, "entity": "the man in the fedora", "entity_kind": "person", "attribute": "wearing", "value": "light patterned jacket", "confidence": 0.95, "source": "image"}
+{"shot": 253, "t": 3330.253, "entity": "the man in the fedora", "entity_kind": "person", "attribute": "wearing", "value": "dark tie", "confidence": 0.95, "source": "image"}
+{"shot": 253, "t": 3330.253, "entity": "the man in the fedora", "entity_kind": "person", "attribute": "wearing", "value": "light dress shirt", "confidence": 0.95, "source": "image"}
+{"shot": 253, "t": 3330.253, "entity": "the female passenger", "entity_kind": "person", "attribute": "wearing", "value": "dark top", "confidence": 0.95, "source": "image"}
+{"shot": 253, "t": 3330.253, "entity": "the female passenger", "entity_kind": "person", "attribute": "accessory", "value": "earrings", "confidence": 0.9, "source": "image"}
+{"shot": 253, "t": 3330.253, "entity": "the female passenger", "entity_kind": "person", "attribute": "hair", "value": "curly shoulder-length hair", "confidence": 0.95, "source": "image"}
+{"shot": 254, "t": 3335.8998, "entity": "the female passenger", "entity_kind": "person", "attribute": "wearing", "value": "dark v-neck garment", "confidence": 0.95, "source": "image"}
+{"shot": 254, "t": 3335.8998, "entity": "the female passenger", "entity_kind": "person", "attribute": "accessory", "value": "earrings", "confidence": 0.95, "source": "image"}
+{"shot": 254, "t": 3335.8998, "entity": "the female passenger", "entity_kind": "person", "attribute": "hair", "value": "curly shoulder-length hair", "confidence": 0.95, "source": "image"}
+{"shot": 254, "t": 3335.8998, "entity": "the man in the fedora", "entity_kind": "person", "attribute": "wearing", "value": "fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 255, "t": 3342.1668, "entity": "the man in the fedora", "entity_kind": "person", "attribute": "wearing", "value": "fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 255, "t": 3342.1668, "entity": "the man in the fedora", "entity_kind": "person", "attribute": "wearing", "value": "light patterned jacket", "confidence": 0.95, "source": "image"}
+{"shot": 255, "t": 3342.1668, "entity": "the man in the fedora", "entity_kind": "person", "attribute": "wearing", "value": "dark tie", "confidence": 0.95, "source": "image"}
+{"shot": 255, "t": 3342.1668, "entity": "the man in the fedora", "entity_kind": "person", "attribute": "wearing", "value": "light dress shirt", "confidence": 0.95, "source": "image"}
+{"shot": 255, "t": 3342.1668, "entity": "the man in the fedora", "entity_kind": "person", "attribute": "accessory", "value": "pocket square", "confidence": 0.9, "source": "image"}
+{"shot": 256, "t": 3348.5733999999998, "entity": "Vera", "entity_kind": "person", "attribute": "wearing", "value": "dark V-neck dress", "confidence": 0.95, "source": "image"}
+{"shot": 256, "t": 3348.5733999999998, "entity": "Vera", "entity_kind": "person", "attribute": "accessory", "value": "light-colored earrings", "confidence": 0.9, "source": "image"}
+{"shot": 256, "t": 3348.5733999999998, "entity": "Vera", "entity_kind": "person", "attribute": "hair", "value": "curly medium-length hair", "confidence": 0.95, "source": "image"}
+{"shot": 256, "t": 3348.5733999999998, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "fedora with dark hatband", "confidence": 0.95, "source": "image"}
+{"shot": 257, "t": 3359.073, "entity": "Vera", "entity_kind": "person", "attribute": "position", "value": "passenger seat of car", "confidence": 0.95, "source": "image"}
+{"shot": 257, "t": 3359.073, "entity": "Vera", "entity_kind": "person", "attribute": "wearing", "value": "dark top", "confidence": 0.95, "source": "image"}
+{"shot": 257, "t": 3359.073, "entity": "Vera", "entity_kind": "person", "attribute": "accessory", "value": "light-colored earrings", "confidence": 0.9, "source": "image"}
+{"shot": 257, "t": 3359.073, "entity": "Al Roberts", "entity_kind": "person", "attribute": "position", "value": "driver seat of car", "confidence": 0.95, "source": "image"}
+{"shot": 257, "t": 3359.073, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "fedora with dark hatband", "confidence": 0.95, "source": "image"}
+{"shot": 257, "t": 3359.073, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "patterned suit jacket", "confidence": 0.95, "source": "image"}
+{"shot": 257, "t": 3359.073, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "light collared shirt", "confidence": 0.95, "source": "image"}
+{"shot": 257, "t": 3359.073, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark necktie", "confidence": 0.95, "source": "image"}
+{"shot": 258, "t": 3368.8066, "entity": "Vera", "entity_kind": "person", "attribute": "wearing", "value": "dark V-neck dress", "confidence": 0.95, "source": "image"}
+{"shot": 258, "t": 3368.8066, "entity": "Vera", "entity_kind": "person", "attribute": "accessory", "value": "light-colored earrings", "confidence": 0.9, "source": "image"}
+{"shot": 258, "t": 3368.8066, "entity": "Vera", "entity_kind": "person", "attribute": "hair", "value": "curly medium-length hair", "confidence": 0.95, "source": "image"}
+{"shot": 258, "t": 3368.8066, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "fedora with dark hatband", "confidence": 0.95, "source": "image"}
+{"shot": 259, "t": 3374.9002, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "fedora with dark hatband", "confidence": 0.95, "source": "image"}
+{"shot": 259, "t": 3374.9002, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "patterned suit jacket", "confidence": 0.95, "source": "image"}
+{"shot": 259, "t": 3374.9002, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "light collared shirt", "confidence": 0.95, "source": "image"}
+{"shot": 259, "t": 3374.9002, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark necktie", "confidence": 0.95, "source": "image"}
+{"shot": 259, "t": 3374.9002, "entity": "Al Roberts", "entity_kind": "person", "attribute": "accessory", "value": "light pocket square", "confidence": 0.9, "source": "image"}
+{"shot": 259, "t": 3374.9002, "entity": "Vera", "entity_kind": "person", "attribute": "hair", "value": "curly medium-length hair", "confidence": 0.95, "source": "image"}
+{"shot": 260, "t": 3379.2132, "entity": "the female passenger", "entity_kind": "person", "attribute": "wearing", "value": "dark top", "confidence": 0.95, "source": "image"}
+{"shot": 260, "t": 3379.2132, "entity": "the female passenger", "entity_kind": "person", "attribute": "accessory", "value": "earrings", "confidence": 0.95, "source": "image"}
+{"shot": 260, "t": 3379.2132, "entity": "the female passenger", "entity_kind": "person", "attribute": "hair", "value": "curly shoulder-length hair", "confidence": 0.95, "source": "image"}
+{"shot": 260, "t": 3379.2132, "entity": "the male driver", "entity_kind": "person", "attribute": "wearing", "value": "fedora", "confidence": 0.95, "source": "image"}
+{"shot": 261, "t": 3384.0930000000003, "entity": "the female passenger", "entity_kind": "person", "attribute": "position", "value": "seated in passenger seat", "confidence": 0.95, "source": "image"}
+{"shot": 261, "t": 3384.0930000000003, "entity": "the female passenger", "entity_kind": "person", "attribute": "wearing", "value": "dark top", "confidence": 0.95, "source": "image"}
+{"shot": 261, "t": 3384.0930000000003, "entity": "the female passenger", "entity_kind": "person", "attribute": "accessory", "value": "earrings", "confidence": 0.95, "source": "image"}
+{"shot": 261, "t": 3384.0930000000003, "entity": "the male driver", "entity_kind": "person", "attribute": "position", "value": "seated in driver seat", "confidence": 0.95, "source": "image"}
+{"shot": 261, "t": 3384.0930000000003, "entity": "the male driver", "entity_kind": "person", "attribute": "wearing", "value": "fedora", "confidence": 0.95, "source": "image"}
+{"shot": 261, "t": 3384.0930000000003, "entity": "the male driver", "entity_kind": "person", "attribute": "wearing", "value": "patterned suit jacket", "confidence": 0.95, "source": "image"}
+{"shot": 261, "t": 3384.0930000000003, "entity": "the male driver", "entity_kind": "person", "attribute": "wearing", "value": "light shirt", "confidence": 0.95, "source": "image"}
+{"shot": 261, "t": 3384.0930000000003, "entity": "the male driver", "entity_kind": "person", "attribute": "wearing", "value": "dark tie", "confidence": 0.95, "source": "image"}
+{"shot": 261, "t": 3384.0930000000003, "entity": "the car", "entity_kind": "vehicle", "attribute": "vehicle_state", "value": "open-top convertible", "confidence": 0.9, "source": "image"}
+{"shot": 262, "t": 3392.0198, "entity": "the female passenger", "entity_kind": "person", "attribute": "wearing", "value": "dark top", "confidence": 0.95, "source": "image"}
+{"shot": 262, "t": 3392.0198, "entity": "the female passenger", "entity_kind": "person", "attribute": "accessory", "value": "earrings", "confidence": 0.95, "source": "image"}
+{"shot": 262, "t": 3392.0198, "entity": "the female passenger", "entity_kind": "person", "attribute": "hair", "value": "curly shoulder-length hair", "confidence": 0.95, "source": "image"}
+{"shot": 262, "t": 3392.0198, "entity": "the male driver", "entity_kind": "person", "attribute": "wearing", "value": "fedora", "confidence": 0.95, "source": "image"}
+{"shot": 263, "t": 3401.2468, "entity": "the male driver", "entity_kind": "person", "attribute": "wearing", "value": "fedora", "confidence": 0.95, "source": "image"}
+{"shot": 263, "t": 3401.2468, "entity": "the male driver", "entity_kind": "person", "attribute": "wearing", "value": "patterned suit jacket", "confidence": 0.95, "source": "image"}
+{"shot": 263, "t": 3401.2468, "entity": "the male driver", "entity_kind": "person", "attribute": "wearing", "value": "light shirt", "confidence": 0.95, "source": "image"}
+{"shot": 263, "t": 3401.2468, "entity": "the male driver", "entity_kind": "person", "attribute": "wearing", "value": "dark tie", "confidence": 0.95, "source": "image"}
+{"shot": 263, "t": 3401.2468, "entity": "the male driver", "entity_kind": "person", "attribute": "accessory", "value": "pocket square", "confidence": 0.9, "source": "image"}
+{"shot": 264, "t": 3421.1402, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 264, "t": 3421.1402, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark necktie", "confidence": 0.95, "source": "image"}
+{"shot": 264, "t": 3421.1402, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "suit jacket", "confidence": 0.9, "source": "image"}
+{"shot": 264, "t": 3421.1402, "entity": "Al Roberts", "entity_kind": "person", "attribute": "position", "value": "behind steering wheel", "confidence": 0.95, "source": "image"}
+{"shot": 264, "t": 3421.1402, "entity": "Vera", "entity_kind": "person", "attribute": "accessory", "value": "earring", "confidence": 0.85, "source": "image"}
+{"shot": 264, "t": 3421.1402, "entity": "Vera", "entity_kind": "person", "attribute": "hair", "value": "curly hair", "confidence": 0.9, "source": "image"}
+{"shot": 265, "t": 3447.4, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "white shirt with open collar", "confidence": 0.95, "source": "image"}
+{"shot": 265, "t": 3447.4, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "rolled sleeves", "confidence": 0.9, "source": "image"}
+{"shot": 265, "t": 3447.4, "entity": "Al Roberts", "entity_kind": "person", "attribute": "holding", "value": "hand of playing cards", "confidence": 0.95, "source": "image"}
+{"shot": 265, "t": 3447.4, "entity": "Vera", "entity_kind": "person", "attribute": "wearing", "value": "pleated dress", "confidence": 0.95, "source": "image"}
+{"shot": 265, "t": 3447.4, "entity": "Vera", "entity_kind": "person", "attribute": "hair", "value": "curly hair", "confidence": 0.9, "source": "image"}
+{"shot": 265, "t": 3447.4, "entity": "liquor bottle", "entity_kind": "prop", "attribute": "prop_state", "value": "standing on table", "confidence": 0.9, "source": "image"}
+{"shot": 266, "t": 3456.08, "entity": "Vera", "entity_kind": "person", "attribute": "wearing", "value": "pleated dress", "confidence": 0.95, "source": "image"}
+{"shot": 266, "t": 3456.08, "entity": "Vera", "entity_kind": "person", "attribute": "accessory", "value": "hoop earrings", "confidence": 0.9, "source": "image"}
+{"shot": 266, "t": 3456.08, "entity": "Vera", "entity_kind": "person", "attribute": "hair", "value": "curly hair", "confidence": 0.95, "source": "image"}
+{"shot": 267, "t": 3465.6, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "white shirt with open collar", "confidence": 0.95, "source": "image"}
+{"shot": 267, "t": 3465.6, "entity": "Al Roberts", "entity_kind": "person", "attribute": "hair", "value": "slicked dark hair", "confidence": 0.9, "source": "image"}
+{"shot": 268, "t": 3478.1468, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "light open-collar shirt", "confidence": 0.95, "source": "image"}
+{"shot": 268, "t": 3478.1468, "entity": "Al Roberts", "entity_kind": "person", "attribute": "position", "value": "seated at table facing Vera", "confidence": 0.95, "source": "image"}
+{"shot": 268, "t": 3478.1468, "entity": "Vera", "entity_kind": "person", "attribute": "wearing", "value": "long-sleeved dress", "confidence": 0.95, "source": "image"}
+{"shot": 268, "t": 3478.1468, "entity": "Vera", "entity_kind": "person", "attribute": "hair", "value": "shoulder-length curly hair", "confidence": 0.95, "source": "image"}
+{"shot": 268, "t": 3478.1468, "entity": "Vera", "entity_kind": "person", "attribute": "position", "value": "seated at table facing Al Roberts", "confidence": 0.95, "source": "image"}
+{"shot": 269, "t": 3487.6734, "entity": "Vera", "entity_kind": "person", "attribute": "wearing", "value": "long-sleeved dress", "confidence": 0.95, "source": "image"}
+{"shot": 269, "t": 3487.6734, "entity": "Vera", "entity_kind": "person", "attribute": "hair", "value": "shoulder-length curly hair", "confidence": 0.95, "source": "image"}
+{"shot": 269, "t": 3487.6734, "entity": "Vera", "entity_kind": "person", "attribute": "accessory", "value": "earring on left ear", "confidence": 0.9, "source": "image"}
+{"shot": 270, "t": 3496.333, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "light open-collar shirt", "confidence": 0.95, "source": "image"}
+{"shot": 270, "t": 3496.333, "entity": "Al Roberts", "entity_kind": "person", "attribute": "hair", "value": "dark combed hair", "confidence": 0.95, "source": "image"}
+{"shot": 271, "t": 3500.273, "entity": "Vera", "entity_kind": "person", "attribute": "wearing", "value": "long-sleeved dress", "confidence": 0.95, "source": "image"}
+{"shot": 271, "t": 3500.273, "entity": "Vera", "entity_kind": "person", "attribute": "hair", "value": "shoulder-length curly hair", "confidence": 0.95, "source": "image"}
+{"shot": 271, "t": 3500.273, "entity": "Vera", "entity_kind": "person", "attribute": "accessory", "value": "earring on left ear", "confidence": 0.9, "source": "image"}
+{"shot": 272, "t": 3506.133, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "light open-collar shirt", "confidence": 0.95, "source": "image"}
+{"shot": 272, "t": 3506.133, "entity": "Al Roberts", "entity_kind": "person", "attribute": "hair", "value": "dark slicked-back hair", "confidence": 0.95, "source": "image"}
+{"shot": 272, "t": 3506.133, "entity": "Al Roberts", "entity_kind": "person", "attribute": "facial_hair", "value": "clean-shaven", "confidence": 0.95, "source": "image"}
+{"shot": 273, "t": 3514.0866, "entity": "Vera", "entity_kind": "person", "attribute": "wearing", "value": "light dress with draped bodice", "confidence": 0.95, "source": "image"}
+{"shot": 273, "t": 3514.0866, "entity": "Vera", "entity_kind": "person", "attribute": "hair", "value": "curled hair", "confidence": 0.95, "source": "image"}
+{"shot": 273, "t": 3514.0866, "entity": "Vera", "entity_kind": "person", "attribute": "accessory", "value": "round earring on left ear", "confidence": 0.9, "source": "image"}
+{"shot": 274, "t": 3527.587, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "light open-collar shirt", "confidence": 0.95, "source": "image"}
+{"shot": 274, "t": 3527.587, "entity": "Al Roberts", "entity_kind": "person", "attribute": "hair", "value": "dark slicked-back hair", "confidence": 0.95, "source": "image"}
+{"shot": 274, "t": 3527.587, "entity": "Al Roberts", "entity_kind": "person", "attribute": "facial_hair", "value": "clean-shaven", "confidence": 0.95, "source": "image"}
+{"shot": 275, "t": 3539.527, "entity": "Al Roberts", "entity_kind": "person", "attribute": "position", "value": "seated at a table", "confidence": 0.95, "source": "image"}
+{"shot": 275, "t": 3539.527, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "light shirt with rolled-up sleeves", "confidence": 0.95, "source": "image"}
+{"shot": 275, "t": 3539.527, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark trousers", "confidence": 0.9, "source": "image"}
+{"shot": 275, "t": 3539.527, "entity": "Vera", "entity_kind": "person", "attribute": "position", "value": "seated across the table from Al Roberts", "confidence": 0.95, "source": "image"}
+{"shot": 275, "t": 3539.527, "entity": "Vera", "entity_kind": "person", "attribute": "wearing", "value": "light long-sleeved dress", "confidence": 0.95, "source": "image"}
+{"shot": 278, "t": 3554.2866000000004, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "light open-collared shirt", "confidence": 0.95, "source": "image"}
+{"shot": 278, "t": 3554.2866000000004, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "trousers with belt", "confidence": 0.95, "source": "image"}
+{"shot": 278, "t": 3554.2866000000004, "entity": "Al Roberts", "entity_kind": "person", "attribute": "hair", "value": "short wavy dark hair", "confidence": 0.95, "source": "image"}
+{"shot": 278, "t": 3554.2866000000004, "entity": "Vera", "entity_kind": "person", "attribute": "wearing", "value": "light pleated dress", "confidence": 0.95, "source": "image"}
+{"shot": 278, "t": 3554.2866000000004, "entity": "Vera", "entity_kind": "person", "attribute": "hair", "value": "curled hair", "confidence": 0.95, "source": "image"}
+{"shot": 279, "t": 3572.0534000000002, "entity": "Vera", "entity_kind": "person", "attribute": "holding", "value": "black telephone handset", "confidence": 0.95, "source": "image"}
+{"shot": 279, "t": 3572.0534000000002, "entity": "Vera", "entity_kind": "person", "attribute": "accessory", "value": "earring on left ear", "confidence": 0.95, "source": "image"}
+{"shot": 279, "t": 3572.0534000000002, "entity": "Vera", "entity_kind": "person", "attribute": "wearing", "value": "light pleated dress", "confidence": 0.95, "source": "image"}
+{"shot": 279, "t": 3572.0534000000002, "entity": "Vera", "entity_kind": "person", "attribute": "hair", "value": "curled hair", "confidence": 0.95, "source": "image"}
+{"shot": 280, "t": 3576.8066, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "light open-collared shirt", "confidence": 0.95, "source": "image"}
+{"shot": 280, "t": 3576.8066, "entity": "Al Roberts", "entity_kind": "person", "attribute": "hair", "value": "short wavy dark hair", "confidence": 0.95, "source": "image"}
+{"shot": 281, "t": 3585.147, "entity": "Vera", "entity_kind": "person", "attribute": "holding", "value": "black telephone handset", "confidence": 0.95, "source": "image"}
+{"shot": 281, "t": 3585.147, "entity": "Vera", "entity_kind": "person", "attribute": "accessory", "value": "earring on left ear", "confidence": 0.95, "source": "image"}
+{"shot": 281, "t": 3585.147, "entity": "Vera", "entity_kind": "person", "attribute": "wearing", "value": "light pleated dress", "confidence": 0.95, "source": "image"}
+{"shot": 281, "t": 3585.147, "entity": "Vera", "entity_kind": "person", "attribute": "hair", "value": "curled hair", "confidence": 0.95, "source": "image"}
+{"shot": 282, "t": 3592.487, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "light open-collar shirt", "confidence": 0.95, "source": "image"}
+{"shot": 282, "t": 3592.487, "entity": "Al Roberts", "entity_kind": "person", "attribute": "hair", "value": "short wavy dark hair", "confidence": 0.95, "source": "image"}
+{"shot": 282, "t": 3592.487, "entity": "Al Roberts", "entity_kind": "person", "attribute": "facial_hair", "value": "clean-shaven", "confidence": 0.9, "source": "image"}
+{"shot": 284, "t": 3596.2268, "entity": "Vera", "entity_kind": "person", "attribute": "holding", "value": "dark telephone receiver", "confidence": 0.95, "source": "image"}
+{"shot": 284, "t": 3596.2268, "entity": "Vera", "entity_kind": "person", "attribute": "wearing", "value": "light pleated top", "confidence": 0.9, "source": "image"}
+{"shot": 284, "t": 3596.2268, "entity": "Vera", "entity_kind": "person", "attribute": "accessory", "value": "earring", "confidence": 0.95, "source": "image"}
+{"shot": 284, "t": 3596.2268, "entity": "Vera", "entity_kind": "person", "attribute": "hair", "value": "curly dark hair", "confidence": 0.95, "source": "image"}
+{"shot": 285, "t": 3598.647, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "light open-collar shirt", "confidence": 0.95, "source": "image"}
+{"shot": 285, "t": 3598.647, "entity": "Al Roberts", "entity_kind": "person", "attribute": "hair", "value": "short wavy dark hair", "confidence": 0.95, "source": "image"}
+{"shot": 285, "t": 3598.647, "entity": "Al Roberts", "entity_kind": "person", "attribute": "facial_hair", "value": "clean-shaven", "confidence": 0.9, "source": "image"}
+{"shot": 286, "t": 3612.647, "entity": "Vera", "entity_kind": "person", "attribute": "holding", "value": "dark telephone receiver", "confidence": 0.95, "source": "image"}
+{"shot": 286, "t": 3612.647, "entity": "Vera", "entity_kind": "person", "attribute": "wearing", "value": "light pleated top", "confidence": 0.9, "source": "image"}
+{"shot": 286, "t": 3612.647, "entity": "Vera", "entity_kind": "person", "attribute": "accessory", "value": "earring", "confidence": 0.95, "source": "image"}
+{"shot": 286, "t": 3612.647, "entity": "Vera", "entity_kind": "person", "attribute": "hair", "value": "curly dark hair", "confidence": 0.95, "source": "image"}
+{"shot": 287, "t": 3641.2801999999997, "entity": "Vera", "entity_kind": "person", "attribute": "wearing", "value": "light long-sleeved dress", "confidence": 0.95, "source": "image"}
+{"shot": 287, "t": 3641.2801999999997, "entity": "Vera", "entity_kind": "person", "attribute": "position", "value": "seated on patterned sofa", "confidence": 0.95, "source": "image"}
+{"shot": 287, "t": 3641.2801999999997, "entity": "Vera", "entity_kind": "person", "attribute": "hair", "value": "shoulder-length wavy hair", "confidence": 0.9, "source": "image"}
+{"shot": 287, "t": 3641.2801999999997, "entity": "telephone", "entity_kind": "prop", "attribute": "prop_state", "value": "resting on table", "confidence": 0.9, "source": "image"}
+{"shot": 288, "t": 3661.1132, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "open-collared light dress shirt", "confidence": 0.95, "source": "image"}
+{"shot": 288, "t": 3661.1132, "entity": "Al Roberts", "entity_kind": "person", "attribute": "hair", "value": "dark wavy hair", "confidence": 0.9, "source": "image"}
+{"shot": 288, "t": 3661.1132, "entity": "Al Roberts", "entity_kind": "person", "attribute": "position", "value": "seated facing Vera", "confidence": 0.9, "source": "image"}
+{"shot": 288, "t": 3661.1132, "entity": "Vera", "entity_kind": "person", "attribute": "wearing", "value": "light long-sleeved dress", "confidence": 0.95, "source": "image"}
+{"shot": 288, "t": 3661.1132, "entity": "Vera", "entity_kind": "person", "attribute": "accessory", "value": "dangle earrings", "confidence": 0.95, "source": "image"}
+{"shot": 288, "t": 3661.1132, "entity": "Vera", "entity_kind": "person", "attribute": "hair", "value": "styled wavy hair pinned up on sides", "confidence": 0.9, "source": "image"}
+{"shot": 288, "t": 3661.1132, "entity": "Vera", "entity_kind": "person", "attribute": "position", "value": "seated facing Al Roberts", "confidence": 0.9, "source": "image"}
+{"shot": 290, "t": 3670.0, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "open-collared light dress shirt", "confidence": 0.95, "source": "image"}
+{"shot": 290, "t": 3670.0, "entity": "Vera", "entity_kind": "person", "attribute": "wearing", "value": "light long-sleeved dress", "confidence": 0.95, "source": "image"}
+{"shot": 290, "t": 3670.0, "entity": "Vera", "entity_kind": "person", "attribute": "holding", "value": "clear drinking glass", "confidence": 0.95, "source": "image"}
+{"shot": 292, "t": 3686.9334, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "open-collared light dress shirt", "confidence": 0.95, "source": "image"}
+{"shot": 292, "t": 3686.9334, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark trousers", "confidence": 0.95, "source": "image"}
+{"shot": 292, "t": 3686.9334, "entity": "Al Roberts", "entity_kind": "person", "attribute": "position", "value": "standing", "confidence": 0.95, "source": "image"}
+{"shot": 292, "t": 3686.9334, "entity": "Vera", "entity_kind": "person", "attribute": "wearing", "value": "light long-sleeved dress with front buttons", "confidence": 0.95, "source": "image"}
+{"shot": 292, "t": 3686.9334, "entity": "Vera", "entity_kind": "person", "attribute": "holding", "value": "clear drinking glass", "confidence": 0.95, "source": "image"}
+{"shot": 292, "t": 3686.9334, "entity": "Vera", "entity_kind": "person", "attribute": "position", "value": "standing", "confidence": 0.95, "source": "image"}
+{"shot": 294, "t": 3714.0332000000003, "entity": "the man", "entity_kind": "person", "attribute": "wearing", "value": "light long-sleeved shirt", "confidence": 0.95, "source": "image"}
+{"shot": 294, "t": 3714.0332000000003, "entity": "the man", "entity_kind": "person", "attribute": "wearing", "value": "dark trousers", "confidence": 0.95, "source": "image"}
+{"shot": 294, "t": 3714.0332000000003, "entity": "the man", "entity_kind": "person", "attribute": "hair", "value": "short curly hair", "confidence": 0.9, "source": "image"}
+{"shot": 294, "t": 3714.0332000000003, "entity": "the woman", "entity_kind": "person", "attribute": "wearing", "value": "light button-front dress", "confidence": 0.95, "source": "image"}
+{"shot": 294, "t": 3714.0332000000003, "entity": "the woman", "entity_kind": "person", "attribute": "accessory", "value": "earrings", "confidence": 0.9, "source": "image"}
+{"shot": 294, "t": 3714.0332000000003, "entity": "the woman", "entity_kind": "person", "attribute": "hair", "value": "curly shoulder-length hair", "confidence": 0.9, "source": "image"}
+{"shot": 294, "t": 3714.0332000000003, "entity": "the woman", "entity_kind": "person", "attribute": "position", "value": "reclining on couch", "confidence": 0.9, "source": "image"}
+{"shot": 295, "t": 3722.013, "entity": "the woman", "entity_kind": "person", "attribute": "wearing", "value": "light dress with pleated shoulders", "confidence": 0.95, "source": "image"}
+{"shot": 295, "t": 3722.013, "entity": "the woman", "entity_kind": "person", "attribute": "accessory", "value": "earrings", "confidence": 0.95, "source": "image"}
+{"shot": 295, "t": 3722.013, "entity": "the woman", "entity_kind": "person", "attribute": "hair", "value": "curly hair", "confidence": 0.95, "source": "image"}
+{"shot": 296, "t": 3732.8666, "entity": "the man", "entity_kind": "person", "attribute": "wearing", "value": "light long-sleeved shirt", "confidence": 0.95, "source": "image"}
+{"shot": 296, "t": 3732.8666, "entity": "the man", "entity_kind": "person", "attribute": "wearing", "value": "dark trousers", "confidence": 0.95, "source": "image"}
+{"shot": 296, "t": 3732.8666, "entity": "the man", "entity_kind": "person", "attribute": "position", "value": "standing", "confidence": 0.95, "source": "image"}
+{"shot": 296, "t": 3732.8666, "entity": "the woman", "entity_kind": "person", "attribute": "wearing", "value": "light dress", "confidence": 0.95, "source": "image"}
+{"shot": 296, "t": 3732.8666, "entity": "the woman", "entity_kind": "person", "attribute": "accessory", "value": "earrings", "confidence": 0.9, "source": "image"}
+{"shot": 296, "t": 3732.8666, "entity": "the woman", "entity_kind": "person", "attribute": "position", "value": "seated", "confidence": 0.95, "source": "image"}
+{"shot": 296, "t": 3732.8666, "entity": "drinking glass", "entity_kind": "prop", "attribute": "position", "value": "on side table", "confidence": 0.85, "source": "image"}
+{"shot": 296, "t": 3732.8666, "entity": "ashtray", "entity_kind": "prop", "attribute": "position", "value": "on side table", "confidence": 0.85, "source": "image"}
+{"shot": 297, "t": 3742.1002, "entity": "the woman", "entity_kind": "person", "attribute": "wearing", "value": "light dress", "confidence": 0.9, "source": "image"}
+{"shot": 297, "t": 3742.1002, "entity": "framed picture", "entity_kind": "prop", "attribute": "position", "value": "hanging on wall", "confidence": 0.9, "source": "image"}
+{"shot": 299, "t": 3744.3402, "entity": "the woman", "entity_kind": "person", "attribute": "wearing", "value": "light long dress", "confidence": 0.95, "source": "image"}
+{"shot": 299, "t": 3744.3402, "entity": "the woman", "entity_kind": "person", "attribute": "position", "value": "standing at doorway", "confidence": 0.9, "source": "image"}
+{"shot": 299, "t": 3744.3402, "entity": "the door", "entity_kind": "prop", "attribute": "prop_state", "value": "open", "confidence": 0.95, "source": "image"}
+{"shot": 300, "t": 3748.0868, "entity": "the man", "entity_kind": "person", "attribute": "wearing", "value": "light collared shirt", "confidence": 0.95, "source": "image"}
+{"shot": 300, "t": 3748.0868, "entity": "the man", "entity_kind": "person", "attribute": "hair", "value": "short dark wavy hair", "confidence": 0.9, "source": "image"}
+{"shot": 301, "t": 3755.187, "entity": "the woman", "entity_kind": "person", "attribute": "wearing", "value": "light long dress", "confidence": 0.95, "source": "image"}
+{"shot": 301, "t": 3755.187, "entity": "the woman", "entity_kind": "person", "attribute": "holding", "value": "telephone handset", "confidence": 0.95, "source": "image"}
+{"shot": 301, "t": 3755.187, "entity": "the woman", "entity_kind": "person", "attribute": "position", "value": "leaning against closed door", "confidence": 0.9, "source": "image"}
+{"shot": 301, "t": 3755.187, "entity": "the door", "entity_kind": "prop", "attribute": "prop_state", "value": "closed", "confidence": 0.95, "source": "image"}
+{"shot": 303, "t": 3763.5198, "entity": "the woman", "entity_kind": "person", "attribute": "wearing", "value": "light long dress", "confidence": 0.95, "source": "image"}
+{"shot": 303, "t": 3763.5198, "entity": "the woman", "entity_kind": "person", "attribute": "holding", "value": "telephone handset", "confidence": 0.95, "source": "image"}
+{"shot": 303, "t": 3763.5198, "entity": "the woman", "entity_kind": "person", "attribute": "position", "value": "lying on bed", "confidence": 0.95, "source": "image"}
+{"shot": 304, "t": 3769.26, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "light long-sleeved shirt", "confidence": 0.95, "source": "image"}
+{"shot": 304, "t": 3769.26, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark trousers", "confidence": 0.95, "source": "image"}
+{"shot": 304, "t": 3769.26, "entity": "Al Roberts", "entity_kind": "person", "attribute": "position", "value": "bent over near a door", "confidence": 0.9, "source": "image"}
+{"shot": 305, "t": 3778.2400000000002, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "light long-sleeved shirt with open collar", "confidence": 0.95, "source": "image"}
+{"shot": 305, "t": 3778.2400000000002, "entity": "Al Roberts", "entity_kind": "person", "attribute": "hair", "value": "dark wavy hair", "confidence": 0.95, "source": "image"}
+{"shot": 305, "t": 3778.2400000000002, "entity": "Al Roberts", "entity_kind": "person", "attribute": "position", "value": "crouched on the floor", "confidence": 0.9, "source": "image"}
+{"shot": 306, "t": 3787.8868, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "light long-sleeved shirt", "confidence": 0.95, "source": "image"}
+{"shot": 306, "t": 3787.8868, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark trousers", "confidence": 0.95, "source": "image"}
+{"shot": 306, "t": 3787.8868, "entity": "Al Roberts", "entity_kind": "person", "attribute": "position", "value": "standing near a door", "confidence": 0.9, "source": "image"}
+{"shot": 306, "t": 3787.8868, "entity": "table lamp", "entity_kind": "prop", "attribute": "prop_state", "value": "illuminated", "confidence": 0.95, "source": "image"}
+{"shot": 307, "t": 3797.2402, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "light long-sleeved shirt with unbuttoned collar", "confidence": 0.95, "source": "image"}
+{"shot": 307, "t": 3797.2402, "entity": "Al Roberts", "entity_kind": "person", "attribute": "hair", "value": "messy dark wavy hair", "confidence": 0.95, "source": "image"}
+{"shot": 307, "t": 3797.2402, "entity": "Al Roberts", "entity_kind": "person", "attribute": "position", "value": "standing indoors facing right", "confidence": 0.9, "source": "image"}
+{"shot": 323, "t": 3882.98, "entity": "Vera", "entity_kind": "person", "attribute": "position", "value": "lying head downwards over the end of the bed", "confidence": 0.95, "source": "image"}
+{"shot": 323, "t": 3882.98, "entity": "Vera", "entity_kind": "person", "attribute": "wearing", "value": "light long-sleeved dress", "confidence": 0.9, "source": "image"}
+{"shot": 324, "t": 3894.2868, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "light long-sleeved shirt with rolled sleeves", "confidence": 0.95, "source": "image"}
+{"shot": 324, "t": 3894.2868, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark trousers", "confidence": 0.95, "source": "image"}
+{"shot": 324, "t": 3894.2868, "entity": "Vera", "entity_kind": "person", "attribute": "position", "value": "lying on her back on the bed", "confidence": 0.95, "source": "image"}
+{"shot": 324, "t": 3894.2868, "entity": "Vera", "entity_kind": "person", "attribute": "wearing", "value": "light long dress with buttons on the front", "confidence": 0.95, "source": "image"}
+{"shot": 324, "t": 3894.2868, "entity": "telephone", "entity_kind": "prop", "attribute": "position", "value": "resting on Vera's chest", "confidence": 0.9, "source": "image"}
+{"shot": 325, "t": 3942.3602, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "light dress shirt", "confidence": 0.95, "source": "image"}
+{"shot": 325, "t": 3942.3602, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "dark tie", "confidence": 0.9, "source": "image"}
+{"shot": 325, "t": 3942.3602, "entity": "Al Roberts", "entity_kind": "person", "attribute": "position", "value": "standing near a window", "confidence": 0.85, "source": "image"}
+{"shot": 326, "t": 3996.5332, "entity": "the diner counterman", "entity_kind": "person", "attribute": "wearing", "value": "apron over a vest and light shirt", "confidence": 0.9, "source": "image"}
+{"shot": 326, "t": 3996.5332, "entity": "the diner patron", "entity_kind": "person", "attribute": "wearing", "value": "dark cap", "confidence": 0.95, "source": "image"}
+{"shot": 326, "t": 3996.5332, "entity": "the diner patron", "entity_kind": "person", "attribute": "position", "value": "seated at the diner counter", "confidence": 0.95, "source": "image"}
+{"shot": 326, "t": 3996.5332, "entity": "Al Roberts", "entity_kind": "person", "attribute": "wearing", "value": "suit coat and fedora hat", "confidence": 0.9, "source": "image"}
+{"shot": 326, "t": 3996.5332, "entity": "cash register", "entity_kind": "prop", "attribute": "position", "value": "on the diner counter", "confidence": 0.95, "source": "image"}
+{"shot": 327, "t": 4006.453, "entity": "the man in fedora", "entity_kind": "person", "attribute": "wearing", "value": "fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 327, "t": 4006.453, "entity": "the man in fedora", "entity_kind": "person", "attribute": "wearing", "value": "plaid suit jacket", "confidence": 0.95, "source": "image"}
+{"shot": 327, "t": 4006.453, "entity": "the man in fedora", "entity_kind": "person", "attribute": "wearing", "value": "dark trousers", "confidence": 0.9, "source": "image"}
+{"shot": 327, "t": 4006.453, "entity": "the street lamp", "entity_kind": "prop", "attribute": "prop_state", "value": "illuminated", "confidence": 0.95, "source": "image"}
+{"shot": 327, "t": 4006.453, "entity": "the diner light", "entity_kind": "prop", "attribute": "prop_state", "value": "illuminated", "confidence": 0.9, "source": "image"}
+{"shot": 328, "t": 4038.4478, "entity": "the man in fedora", "entity_kind": "person", "attribute": "wearing", "value": "fedora hat", "confidence": 0.95, "source": "image"}
+{"shot": 328, "t": 4038.4478, "entity": "the man in fedora", "entity_kind": "person", "attribute": "wearing", "value": "plaid suit jacket", "confidence": 0.95, "source": "image"}
+{"shot": 328, "t": 4038.4478, "entity": "the man in fedora", "entity_kind": "person", "attribute": "wearing", "value": "white collared shirt", "confidence": 0.9, "source": "image"}

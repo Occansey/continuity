@@ -1,0 +1,24 @@
+{
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Edit|Write",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "f=\"$CLAUDE_TOOL_INPUT_FILE_PATH\"; case \"$f\" in *.py) command -v ruff >/dev/null && ruff check --quiet \"$f\" || true;; esac"
+          }
+        ]
+      },
+      {
+        "matcher": "Write",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "case \"$CLAUDE_TOOL_INPUT_FILE_PATH\" in *specs/*.yaml|*specs/*.yml) grep -q 'citation:' \"$CLAUDE_TOOL_INPUT_FILE_PATH\" || echo 'HOOK: spec file has no citation: field. Every threshold cites its source (SPECIFICATION.md 4).' ;; esac"
+          }
+        ]
+      }
+    ]
+  }
+}
