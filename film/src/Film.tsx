@@ -18,7 +18,7 @@ const SCENES = [
   { C: Demo, sec: 12.7 },
   { C: Measurement, sec: 17.8 },
   { C: Finding, sec: 18.0 },
-  { C: Honest, sec: 17.0 },
+  { C: Honest, sec: 23.7 },
   { C: Close, sec: 8.4 },
 ];
 

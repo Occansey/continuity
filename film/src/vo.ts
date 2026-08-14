@@ -24,8 +24,10 @@ export const TURNS:Turn[]=[
   {plate:8,file:"vo/8-0a.wav",at:0.4,dur:2.44},
   {plate:8,file:"vo/8-1b.wav",at:2.98,dur:5.09},
   {plate:8,file:"vo/8-2a.wav",at:8.21,dur:8.77},
-  {plate:9,file:"vo/9-0b.wav",at:0.4,dur:5.57},
-  {plate:9,file:"vo/9-1a.wav",at:6.11,dur:9.92},
+  {plate:9,file:"vo/9-0b.wav",at:0.4,dur:2.44},
+  {plate:9,file:"vo/9-1a.wav",at:2.98,dur:6.99},
+  {plate:9,file:"vo/9-2b.wav",at:10.11,dur:6.11},
+  {plate:9,file:"vo/9-3a.wav",at:16.36,dur:6.33},
   {plate:10,file:"vo/10-0a.wav",at:0.4,dur:1.78},
   {plate:10,file:"vo/10-1b.wav",at:2.32,dur:2.04},
 ];

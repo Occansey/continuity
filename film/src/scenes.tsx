@@ -142,16 +142,21 @@ export const Finding: React.FC<Plate> = ({ plate }) => (
   </Field>
 );
 
-/* ── 9. Honest ────────────────────────────────────────────────────────────── */
+/* ── 9. Three films ───────────────────────────────────────────────────────── */
 export const Honest: React.FC<Plate> = ({ plate }) => (
   <Field plate={plate}>
-    <Fade at={0.2} dur={1}><Eyebrow>What we do not claim</Eyebrow></Fade>
-    <Reveal at={0.8} dur={1.5}><Statement size={52}>One film. A small sample. Precision not yet independently judged.</Statement></Reveal>
-    <Fade at={3.2} dur={1.3} style={{ marginTop: 44 }}>
-      <div style={{ fontSize: 26, color: C.inkSoft, maxWidth: 1060, lineHeight: 1.55 }}>
-        The reachability figure is arithmetic and stands. The precision is ours to prove, and we say so.
-        A benchmark we built to flatter ClickHouse instead showed the core query runs anywhere — so we
-        cut that claim rather than keep it. The database earns its place as the store, not the trick.
+    <Fade at={0.2} dur={1}><Eyebrow>Not one film. Three.</Eyebrow></Fade>
+    <Reveal at={0.8} dur={1.5}><Statement size={52}>The clean film comes back clean.</Statement></Reveal>
+    <div style={{ display: "flex", gap: 56, marginTop: 48, flexWrap: "wrap" }}>
+      <Datum at={2.6} value="1945" label="Detour · poverty-row · lights up" />
+      <Datum at={3.2} value="1968" label="Night of the Living Dead · errors found" />
+      <Datum at={3.8} value="2015" label="Cosmos Laundromat · CG · 0 false errors" accent={C.verdigris} />
+    </div>
+    <Fade at={5.0} dur={1.2} style={{ marginTop: 52 }}>
+      <div style={{ fontSize: 26, color: C.inkSoft, maxWidth: 1080, lineHeight: 1.55 }}>
+        It flags in proportion to how error-prone a film actually is. A careful modern film
+        stays quiet. A tool that just found <em>differences</em> could not tell them apart. This one
+        does — and no human had to judge it.
       </div>
     </Fade>
   </Field>
