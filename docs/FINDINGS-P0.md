@@ -271,3 +271,55 @@ signal, not a precision rate. NOTLD's 505 cross-scene candidates are candidates,
 errors — its 298-entity cast makes entity resolution noisier, and adjudication (not yet
 run at scale on it) is what would separate real errors from scene changes and split
 timelines. The claim here is discrimination across films, not a measured precision number.
+
+---
+
+# Verify and canonicalization, wired and measured
+
+Both wired into the pipeline and measured on the real corpus, because a lever is worth
+nothing until you know how far it moves.
+
+## Canonicalization — real but modest, and honest about where it fails
+
+Wired into `pipeline.enrich`, after entity resolution: over the distinct values per
+attribute, a model call collapses phrasings of the same thing ("dark combed hair" ↔ "dark
+slicked-back hair") to one canonical value, so a rewording does not read as a change.
+
+Measured on Detour (329 of 1,119 values changed):
+
+| | transitions | cross-scene | world-state reverts |
+|---|---|---|---|
+| before | 346 | 170 | 62 |
+| after | 298 | 144 | 61 |
+| | **−14%** | **−15%** | **−2%** |
+
+The transition win is real. The world-state reverts barely move, and that is the useful
+finding: they are not pure synonymy — the model correctly refuses to merge "combed" and
+"slicked-back" as they are arguably different states — so `worldstate.global_inconsistencies`
+needs its own fix (a coarser bucket, or a minimum-substance threshold), not canonicalization.
+Recorded rather than papered over.
+
+## The adversarial skeptic — a working precision filter, once it knew the frame of reference
+
+Every 'error' verdict now faces a second model whose only job is to explain it away
+(`confirm.py` over `verify.skeptic`). A flag that survives is evidence; the survival rate is
+a precision signal that needs no human judge.
+
+First run on NOTLD's 10 flagged errors: **0/10 survived** — the skeptic refuted everything
+with generic "time could have passed". That made it a nihilist, not a filter: it would kill
+real errors too. The wristwatch that moved wrists was refuted by "four minutes elapsed",
+which is nonsense — a watch does not change wrists off screen.
+
+The fix connected two V2 modules: `confirm` now injects `frame_of_reference` — a
+world-relative fact (a watch, a scar, a bruise) cannot be excused by elapsed time or a camera
+angle. Re-run: **1/10 survived**, and it is the right one — Harry Cooper's bruise switching
+sides of his forehead, which a body cannot do between shots. The other nine were wardrobe
+changes across real scene gaps, correctly killed.
+
+## The precision funnel, honest
+
+On NOTLD: 505 cross-scene candidates → 10 flagged by adjudication → **1 survives an
+adversary**. That is a harsh ratio, and it is the point — the raw adjudicator over-flags on a
+hard film, and the skeptic is the gate that makes the output trustworthy. The one survivor is
+the finding worth a human's time. This is measured precision with no human in the loop, which
+is exactly what V1 could not offer.

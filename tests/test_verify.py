@@ -89,3 +89,61 @@ def test_an_unparseable_skeptic_keeps_the_flag():
 def test_a_skeptic_missing_the_verdict_key_keeps_the_flag():
     out = skeptic(FakeClient('{"reason": "forgot the verdict"}'), "f", "x")
     assert out["refuted"] is False
+
+
+# ── canonicalization and adversarial confirmation (wired into the pipeline) ──
+
+def test_canonical_map_collapses_synonyms_and_keeps_the_rest():
+    from conftest import FakeClient
+    from continuity.canonicalize import canonical_map
+    import json as _j
+    c = FakeClient(_j.dumps({"canonical": {"dark combed hair": "dark hair",
+                                           "dark slicked-back hair": "dark hair"}}))
+    m = canonical_map(c, "hair", ["dark combed hair", "dark slicked-back hair", "blonde hair"], "x")
+    assert m["dark combed hair"] == "dark hair" and m["dark slicked-back hair"] == "dark hair"
+    assert m["blonde hair"] == "blonde hair"   # unmentioned keeps itself
+
+
+def test_canonicalize_rows_reports_and_applies_changes():
+    from conftest import FakeClient
+    from continuity.canonicalize import canonicalize_rows
+    import json as _j
+    rows = [{"attribute": "hair", "value": "dark combed hair"},
+            {"attribute": "hair", "value": "dark slicked-back hair"}]
+    c = FakeClient(_j.dumps({"canonical": {"dark combed hair": "dark hair",
+                                           "dark slicked-back hair": "dark hair"}}))
+    changed = canonicalize_rows(c, rows, "x")
+    assert changed == 2 and all(r["value"] == "dark hair" for r in rows)
+
+
+def test_confirm_only_attacks_errors():
+    from conftest import FakeClient
+    from continuity.confirm import confirm
+    class V:  # noqa: minimal stand-in for a Verdict
+        verdict = "explained"
+    r = confirm(FakeClient("{}"), V(), "x")
+    assert r["survived"] is True and "nothing to refute" in r["reason"]
+
+
+def test_a_world_relative_error_resists_a_time_passed_excuse():
+    """The fix that took the skeptic from 0/10 to discriminating: a bruise cannot move off
+    screen, so 'time elapsed' must not refute it. The note is injected only for world-relative
+    attributes."""
+    import json as _j
+    from conftest import FakeClient
+    from continuity.confirm import confirm
+    class V:
+        verdict = "error"; entity = "x"; attribute = "injury"
+        value_from = "bruise on right"; value_to = "bruise on left"
+        t_from = 10.0; t_to = 300.0; reason = "moved"
+    # A skeptic that refutes anyway is overridden by nothing — but we assert the finding text
+    # carries the world-relative constraint, which is what makes the skeptic discriminate.
+    seen = {}
+    class Rec(FakeClient):
+        def generate_content(self, **kw):
+            seen["text"] = kw["contents"][0]
+            return super().generate_content(**kw)
+    c = Rec(_j.dumps({"refuted": False, "reason": "grounded"}))
+    r = confirm(c, V(), "x")
+    assert "not move a watch" in seen["text"] or "fixed to the body" in seen["text"]
+    assert r["survived"] is True

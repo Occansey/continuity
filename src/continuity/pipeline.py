@@ -32,6 +32,7 @@ import imageio_ffmpeg
 from continuity.entities import resolve
 from continuity.extract import extract_batch
 from continuity.scenes import renumber, segment
+from continuity.canonicalize import canonicalize_rows
 from continuity.slots import MULTIVALUED, assign
 
 FFMPEG = imageio_ffmpeg.get_ffmpeg_exe()
@@ -203,6 +204,10 @@ def enrich(client, rows: list[dict], shots, transcript, out: Path) -> list[dict]
     mapping = resolve(client, [(n, k, c) for (n, k), c in counts.items()], out.name, MODEL)
     for r in rows:
         r["entity"] = mapping.get(r["entity"], r["entity"])
+
+    # Collapse near-synonym values before anything compares them, so a rephrasing does not
+    # read as a change. Most of the world-state reverts on the first film were exactly this.
+    canonicalize_rows(client, rows, MODEL)
 
     vals: dict[str, set] = {}
     for r in rows:
