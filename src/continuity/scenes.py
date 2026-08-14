@@ -31,6 +31,8 @@ from __future__ import annotations
 import json
 from dataclasses import asdict, dataclass
 
+from continuity.retry import with_retry
+
 PROMPT = """\
 Below is a list of shots from the 1945 film Detour, with the dialogue spoken during each.
 
@@ -100,13 +102,19 @@ def segment(client, shots: list[dict], transcript: list[dict], model: str,
     i = 0
     while i < len(shots):
         window = shots[i : i + chunk]
-        raw = client.models.generate_content(
+        raw = with_retry(lambda: client.models.generate_content(
             model=model,
             contents=PROMPT.format(shots=_listing(window, transcript)),
             config={"response_mime_type": "application/json", "temperature": 0.0},
-        ).text or ""
+        )).text or ""
         try:
-            got = json.loads(raw).get("scenes", [])
+            parsed = json.loads(raw)
+            # Asking for {"scenes":[...]} usually returns that, but on some films the model
+            # returns the bare array instead. Both are valid readings of "list the scenes";
+            # accept either rather than lose a whole film to a shape preference.
+            got = parsed.get("scenes", []) if isinstance(parsed, dict) else parsed
+            if not isinstance(got, list):
+                got = []
         except json.JSONDecodeError:
             got = []
 

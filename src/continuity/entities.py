@@ -30,6 +30,8 @@ from __future__ import annotations
 
 import json
 
+from continuity.retry import with_retry
+
 PROMPT = """\
 Below are entity names extracted independently from single frames and dialogue of one
 film, with how often each appeared. Different names often refer to the same person, prop
@@ -66,11 +68,11 @@ def resolve(client, names: list[tuple[str, str, int]], work: str, model: str) ->
     appearing once is usually an extra nobody needs to track.
     """
     listing = "\n".join(f"- {n}  [{k}]  x{c}" for n, k, c in sorted(names, key=lambda x: -x[2]))
-    raw = client.models.generate_content(
+    raw = with_retry(lambda: client.models.generate_content(
         model=model,
         contents=PROMPT.format(work=work, names=listing),
         config={"response_mime_type": "application/json", "temperature": 0.0},
-    ).text or ""
+    )).text or ""
 
     try:
         groups = json.loads(raw).get("groups", [])

@@ -1,0 +1,134 @@
+{
+ "1": [
+  [
+   "a",
+   "Hi, I'm Maxwell. This is Continuity."
+  ],
+  [
+   "b",
+   "The glass is full in one shot and empty in the next. Somebody was supposed to catch that."
+  ]
+ ],
+ "2": [
+  [
+   "a",
+   "Film is shot out of order, over weeks."
+  ],
+  [
+   "b",
+   "So someone has to remember exactly how the world looked last time. The wound on the left cheek. The ring worn only after the wedding."
+  ],
+  [
+   "a",
+   "They are good at it. They still miss things."
+  ]
+ ],
+ "3": [
+  [
+   "b",
+   "There are two continuity problems, and the industry uses one word for both."
+  ],
+  [
+   "a",
+   "Shot continuity: two shots that look alike. Line them up, diff the pixels. That was solved in 2009."
+  ],
+  [
+   "b",
+   "Story continuity is the open one. A cut on the left cheek in April, the right cheek in June \u2014 the shots look nothing alike."
+  ],
+  [
+   "a",
+   "Every existing tool works on pixels, so it only sees the first problem. The errors that reach the cinema are the second."
+  ]
+ ],
+ "4": [
+  [
+   "a",
+   "So stop comparing images. Compare claims about the world."
+  ],
+  [
+   "b",
+   "For every shot and every line, extract what is true in it \u2014 who is there, what they wear, what is injured and where."
+  ],
+  [
+   "a",
+   "Two shots that share no pixels can still contradict each other. And a contradiction is a query, not a distance."
+  ]
+ ],
+ "5": [
+  [
+   "b",
+   "Two sources of claims: what a shot shows, and what a line of dialogue says."
+  ],
+  [
+   "a",
+   "They land in one table in ClickHouse. A windowed query finds the pairs that cannot both be true."
+  ],
+  [
+   "b",
+   "Then Gemini judges the shortlist: is this change explained, or is it an error?"
+  ],
+  [
+   "a",
+   "The database never judges. The model never scans. Neither can do the other's job."
+  ]
+ ],
+ "6": [
+  [
+   "a",
+   "This is the deployed product. Gemini reasoning over the ClickHouse MCP server, against a cluster, live."
+  ],
+  [
+   "b",
+   "Every finding shows both frames, the two claims, and whether the prior art could even reach it."
+  ]
+ ],
+ "7": [
+  [
+   "b",
+   "And that gap we measured, rather than claimed."
+  ],
+  [
+   "a",
+   "We ran the old pixel-matching method on the errors we found. It could not even line up the two frames, ninety-two percent of the time."
+  ],
+  [
+   "b",
+   "On same-camera shots it works fine. So the ninety-two percent is what the old tools miss, and we catch."
+  ]
+ ],
+ "8": [
+  [
+   "a",
+   "Some contradictions have no second frame to diff at all."
+  ],
+  [
+   "b",
+   "The driver's scratches: right hand at seventeen minutes, wrist at thirty-nine."
+  ],
+  [
+   "a",
+   "The same injury, described two ways, twenty-two minutes apart. No pixels to compare. No existing tool can find it. This one did."
+  ]
+ ],
+ "9": [
+  [
+   "b",
+   "What we don't claim: it's one film, a small sample, and precision we haven't independently judged."
+  ],
+  [
+   "a",
+   "A benchmark we built to flatter ClickHouse instead showed the core query runs anywhere. So we cut that claim. The database earns its place as the store, not a trick."
+  ]
+ ],
+ "10": [
+  [
+   "a",
+   "Everyone else compares pictures."
+  ],
+  [
+   "b",
+   "We compare claims about the world."
+  ]
+ ]
+}

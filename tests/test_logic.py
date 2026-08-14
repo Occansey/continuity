@@ -95,3 +95,17 @@ def test_a_cross_modal_pair_is_flagged_as_such():
 
 def test_unparseable_output_is_dropped_not_guessed():
     assert adjudicate(FakeClient("not json at all"), _tr(), [], "x") is None
+
+
+def test_segment_accepts_a_bare_array_or_wrapped_object():
+    """A second film returned the scenes as a top-level JSON array instead of
+    {"scenes":[...]}. Both are valid answers to 'list the scenes' and losing a film to the
+    shape would be absurd."""
+    from conftest import FakeClient
+    from continuity.scenes import segment
+    shots = [{"n": i, "start": i * 10.0, "end": i * 10.0 + 9} for i in range(3)]
+    arr = '[{"shots":[0,2],"place":"road","story_order":0,"frame":"flashback"}]'
+    obj = '{"scenes":[{"shots":[0,2],"place":"road","story_order":0,"frame":"flashback"}]}'
+    for payload in (arr, obj):
+        out = segment(FakeClient(payload), shots, [], "x")
+        assert len(out) == 1 and out[0].place == "road"

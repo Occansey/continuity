@@ -22,6 +22,8 @@ from __future__ import annotations
 
 import json
 
+from continuity.retry import with_retry
+
 # Attributes where a subject can hold several values at once. Anything not listed here is
 # single-valued and needs no slot: you are in one position, it is one time of day.
 MULTIVALUED = {"wearing", "accessory", "holding", "injury", "prop_state"}
@@ -51,11 +53,11 @@ JSON only: {{"slots": {{"<value>": "<slot>"}}}}
 def assign(client, attribute: str, values: list[str], model: str) -> dict[str, str]:
     if attribute not in MULTIVALUED or not values:
         return {}
-    raw = client.models.generate_content(
+    raw = with_retry(lambda: client.models.generate_content(
         model=model,
         contents=PROMPT.format(attribute=attribute, values="\n".join(f"- {v}" for v in sorted(values))),
         config={"response_mime_type": "application/json", "temperature": 0.0},
-    ).text or ""
+    )).text or ""
     try:
         got = json.loads(raw).get("slots", {})
     except json.JSONDecodeError:
