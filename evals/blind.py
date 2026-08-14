@@ -143,6 +143,9 @@ def main() -> int:
             print(f"           via {m['entity']!r} / {m['attribute']} "
                   f"{m['value_from']!r} -> {m['value_to']!r} "
                   f"(t {m['t_from']:.0f}->{m['t_to']:.0f}s, {m['_gap_s']}s from documented)")
+            print(f"           match is on entity-kind + attribute + timecode, NOT verified")
+            print(f"           value-identity — the surfaced transition is the same class of")
+            print(f"           error at the same place, which may or may not be the exact goof.")
         else:
             print(f"  [MISSED] {d['id']}: {d['claim']}")
     print()

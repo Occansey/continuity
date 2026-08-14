@@ -138,3 +138,34 @@ caught. So Raccord earns the right to interrupt, and precision is the metric.
 **Declared risks.** Public domain status is verified per film and recorded, not assumed.
 Published listings are used as facts — a timecode and a claim — never reproduced as text.
 Precision reviewed by us is weak evidence and gets labelled as such.
+
+## D6 · The transition search is portable; the ClickHouse story is the store, not this query
+
+**Date:** 14 Aug 2026
+
+`evals/partner_benchmark.py` was built to be the before/after the ClickHouse track
+rewards. It produced an honest, inconvenient result: once the contradiction search is
+partitioned by (work, entity, attribute, slot), the partitions are small and every
+partition-respecting engine — the ClickHouse window, a SQLite LAG, a plain Python loop —
+stays near-linear. A Python loop is the *fastest* column at every scale to 112k rows.
+
+So the strong claim I had been making — "a scan over billions of rows, impossible on
+another database" — is false for this query, and our own tool falsifies it. The rule is
+the project's own: when a measurement disagrees with a claim, the claim changes.
+
+**What changes.** The film, the README and the write-up must not say the transition search
+needs ClickHouse. They say what is true: the naive row-store formulation (a correlated
+self-join) does balloon ~17x by franchise scale, and ClickHouse earns its place as the
+*store* for the full workload — this search run repeatedly and concurrently, alongside
+ingest and the appearance-embedding entity-resolution scans that need vector similarity
+and structured predicates in one query. That last workload is the genuine "hard
+elsewhere" case, and it is the one still unbuilt.
+
+**What does not change.** The partner requirement (MCP server → cluster → runtime) is
+satisfied and deployed regardless. And the differentiation from the prior art — the 92%
+reachability figure — is a property of the method, not the database, so it stands
+untouched.
+
+**Not taken:** quietly keeping the "impossible without ClickHouse" line because it sounds
+better. That is the exact move this project refuses, and a ClickHouse judge with a laptop
+would falsify it in the time it takes to write a Python loop.

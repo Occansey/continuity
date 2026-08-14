@@ -7,7 +7,6 @@ missed the world.
 """
 import json
 import chdb.session as chs
-import pytest
 from continuity.store import TRANSITIONS, load
 
 
