@@ -142,6 +142,26 @@ export const Finding: React.FC<Plate> = ({ plate }) => (
   </Field>
 );
 
+/* ── 8b. Survives an adversary ─────────────────────────────────────────────── */
+export const Adversary: React.FC<Plate> = ({ plate }) => (
+  <Field dark plate={plate}>
+    <Fade at={0.2} dur={1}><Eyebrow color={C.slate}>We try to kill our own findings</Eyebrow></Fade>
+    <Reveal at={0.8} dur={1.5}><Statement size={50} style={{ color: C.bone }}>A finding is only kept if it survives an adversary.</Statement></Reveal>
+    <div style={{ display: "flex", gap: 64, marginTop: 50, flexWrap: "wrap" }}>
+      <Datum at={2.6} value="505" label="cross-scene candidates" />
+      <Datum at={3.2} value="10" label="flagged by the judge" />
+      <Datum at={3.8} value="1" label="survives a second model built to refute it" accent={C.sodium} />
+    </div>
+    <Fade at={5.0} dur={1.2} style={{ marginTop: 50 }}>
+      <div style={{ fontSize: 25, color: C.inkSoft, maxWidth: 1080, lineHeight: 1.55 }}>
+        The survivor: a bruise that switched sides of a forehead — which a body cannot do off screen.
+        A watch that seems to move wrists is refuted; a wound that moves is not. Measured precision,
+        no human in the loop.
+      </div>
+    </Fade>
+  </Field>
+);
+
 /* ── 9. Three films ───────────────────────────────────────────────────────── */
 export const Honest: React.FC<Plate> = ({ plate }) => (
   <Field plate={plate}>

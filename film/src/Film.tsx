@@ -4,22 +4,23 @@ import { C, FPS, s } from "./theme";
 import { MeterContext } from "./meter";
 import { TURNS } from "./vo";
 import {
-  ColdOpen, Problem, TwoProblems, Move, Pipeline, Demo, Measurement, Finding, Honest, Close,
+  ColdOpen, Problem, TwoProblems, Move, Pipeline, Demo, Measurement, Finding, Adversary, Honest, Close,
 } from "./scenes";
 
 // A 3-minute trailer, the length this hackathon asks for. Each plate is sized to its
 // narration; the meter in the margins reads the film and the plate at once.
 const SCENES = [
-  { C: ColdOpen, sec: 8.7 },
-  { C: Problem, sec: 13.4 },
-  { C: TwoProblems, sec: 27.5 },
-  { C: Move, sec: 18.8 },
-  { C: Pipeline, sec: 22.0 },
-  { C: Demo, sec: 12.7 },
-  { C: Measurement, sec: 17.8 },
-  { C: Finding, sec: 18.0 },
-  { C: Honest, sec: 23.7 },
-  { C: Close, sec: 8.4 },
+  { C: ColdOpen, sec: 8.5 },
+  { C: Problem, sec: 12.3 },
+  { C: TwoProblems, sec: 22.2 },
+  { C: Move, sec: 14.0 },
+  { C: Pipeline, sec: 16.5 },
+  { C: Demo, sec: 10.0 },
+  { C: Measurement, sec: 14.8 },
+  { C: Finding, sec: 12.6 },
+  { C: Adversary, sec: 17.6 },
+  { C: Honest, sec: 18.1 },
+  { C: Close, sec: 7.0 },
 ];
 
 export const TOTAL = SCENES.reduce((a, x) => a + s(x.sec), 0);
