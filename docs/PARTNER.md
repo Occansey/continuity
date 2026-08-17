@@ -5,7 +5,7 @@ agent/flow/MCP config), not just named in README"*, and for this track specifica
 *"ClickHouse MCP server connecting to a cluster at runtime."*
 
 Verified live on 14 Aug 2026 against a ClickHouse Cloud cluster
-(`n686pjowx7…eu-west-1.aws.clickhouse.cloud`, host partly redacted).
+(`n686…….eu-west-1.aws.clickhouse.cloud`, service id redacted).
 
 ## The MCP path — the agent, at runtime (the track requirement)
 
